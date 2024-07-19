@@ -1,1 +1,108 @@
+\documentclass[12pt,a4paper,oneside]{book} % 'oneside' für einseitigen Druck
+
+% Kodierung, Sprache und Schrift
+\usepackage[utf8]{inputenc} % Erlaubt die Verwendung von Umlauten
+\usepackage[T1]{fontenc} % Bessere Schriftkodierung
+\usepackage[ngerman]{babel} % Deutsche Lokalisierung
+
+% Schriftarten
+\usepackage{lmodern} % Modernere Schriftart, gut für Skalierbarkeit und Lesbarkeit
+
+% Für Abbildungen
+\usepackage{graphicx}
+\graphicspath{{bilder/}} % Verzeichnis, in dem Bilder gespeichert sind
+
+% Für Tabellen
+\usepackage{booktabs}
+
+% Für Links und PDF-Metadaten
+\usepackage[hidelinks]{hyperref}
+\hypersetup{
+	pdftitle={Titel der Dissertation},
+	pdfauthor={Autor},
+	pdfsubject={Doktorarbeit in den Sozial- und Rechtswissenschaften},
+	pdfkeywords={Schlüsselwörter},
+}
+
+% Für Bibliographie - Anpassung für Geisteswissenschaften
+%%\usepackage[style=authoryear-icomp,backend=biber]{biblatex}
+%%\usepackage[backend=biber, style=authoryear-icomp]{biblatex}
+%%\usepackage[backend=biber, style=verbose-trad1]{biblatex}
+\usepackage[backend=biber, style=verbose-inote]{biblatex}
+%%\usepackage{biblatex}
+\addbibresource{literatur.bib} % Name der BibTeX-Datei
+\DeclareNameAlias{author}{family-given} % Nachname des Autors zuerst
+
+% Anpassung der Nummerierung mit Punkten
+\renewcommand{\thechapter}{\arabic{chapter}.} % Kapitel: 1., 2., 3., ...
+\renewcommand{\thesection}{\Alph{section}.} % Abschnitt: A., B., C., ...
+\renewcommand{\thesubsection}{\Roman{subsection}.} % Unterabschnitt: I., II., III., ...
+\renewcommand{\thesubsubsection}{\arabic{subsubsection}.} % Unterunterabschnitt: 1., 2., 3., ...
+\renewcommand{\theparagraph}{\alph{paragraph}.} % Absatz: a., b., c., ...
+
+
+% Für Fußnoten
+%%\usepackage[bottom]{footmisc} % Fußnoten am Seitenende
+
+
+% Anpassung der Kapitelüberschriften
+%\usepackage{titlesec}
+%\titleformat{\chapter}[hang]{\Huge\bfseries}{\thechapter\quad}{0pt}{\Huge\bfseries}
+
+% Abstand der Fußnoten
+\setlength{\footnotesep}{0.5cm}
+
+% Tiefe der Nummerierung und des Inhaltsverzeichnisses
+\setcounter{secnumdepth}{4} % Nummerierungstiefe einstellen
+\setcounter{tocdepth}{4} % Inhaltsverzeichnistiefe einstellen
+
+% Abstand zwischen Absätzen und kein Einzug
+%\usepackage{parskip}
+%\setlength{\parskip}{0.5em}
+%\setlength{\parindent}{0pt}
+
+% Für Abkürzungsverzeichnis
+\usepackage[printonlyused]{acronym}
+
+% Für Zitate und Theoreme (falls benötigt)
+\usepackage{csquotes}
+
+% Für Gesetzestexte, Zitate und andere strukturierte Texte
+\usepackage{enumitem}
+
+% Zeilenabstand auf 1.3
+\usepackage{setspace}
+
+% Beginn des Dokuments
+\begin{document}
+	% Hier beginnt der eigentliche Inhalt der Arbeit
+	% ...
+
+
+\chapter{Rohstoffe als Treibstoff der Industrie}
+
+Das folgende Kapitel dient zunächst der Erfassung der notwendigen Begriffsdefinitionen, der Einschätzung der Relevanz der Rohstoffversorgung und erwarteten -abhängigkeit des deutschen Automobilsektors, und schließlich der abschließenden Beurteilung der Ergebnisse.
+
+\section{Begriffsdefinitionen}
+% Hier auf die unklare Definition von Rohstoff eingehen
+% Auch erwähnen, das ein Rohstoff nicht unbedingt ein Mineral oÄ sein muss, sondern gerade im Automobilsektor auch ein Teil (Stoßstange oÄ) umfassen
+% Unterschied Rohstoff und Ressource
+
+	\subsection{Rohstoff}
+	
+	
+	\subsection{Rohstoffverwaltungsrecht}
+	
+	\subsection{Slowbalization}
+	
+	\subsection{Decoupling}
+	
+	\subsection{Nearshoring}
+	
+	\subsection{Weitere Verortungen}
+	% Zeitenwende?
+
+\section{Rohstoffversorgung des deutschen Automobilsektors}
+
+\section{Interimsfazit}
 
