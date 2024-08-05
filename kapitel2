@@ -89,7 +89,11 @@ Das folgende Kapitel dient zunächst der Erfassung der notwendigen Begriffsdefin
 % Unterschied Rohstoff und Ressource
 
 	\subsection{Rohstoff}
-	
+
+
+\subsubsection{Das Merkmal der Kritikalität}
+Wie auch beim übergeordneten Begriff des "Rohstoffs" existieren fürderhin auch keine allgemeingültige Definitionen oder generelle Kriterien für einen \textit{kritischen} Rohstoff. Im Bereich der EU-Verordnung zu kritischen Rohstoffen (s. dazu \ref{EU-Verordnung}) wird beispielsweise an das Versorgungsrisiko und ihre wirtschaftliche Bedeutung angeknüpft.
+
 	
 	\subsection{Rohstoffverwaltungsrecht}
 	
@@ -101,6 +105,15 @@ Das folgende Kapitel dient zunächst der Erfassung der notwendigen Begriffsdefin
 	
 	\subsection{Weitere Verortungen}
 	% Zeitenwende?
+
+% ggf. umgruppieren 
+
+\section{Europäisches Gesetz zu kritischen Rohstoffen}\label{EU-Verordnung}
+% hier ausführliche textanalyse
+
+Seit dem 23. Mai 2024 ist die Verordnung 2024/1252 "zur Schaffung eines Rahmes zur Gewährleistung einer sicheren und nachhaltigen Versorgung mit kritischen Rohstoffen" inkraftgetreten, nachdem die Europäische Kommission im März 2023 einen entsprechenden Vorschlag unterbreitete.
+
+Ferner unterscheidet die Verordnung zwischen strategischen Rohstoffen einerseits und kritischen Rohstoffen andererseits
 
 \section{Rohstoffversorgung des deutschen Automobilsektors}
 
