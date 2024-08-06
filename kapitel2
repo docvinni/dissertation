@@ -77,23 +77,23 @@
 \begin{document}
 	% Hier beginnt der eigentliche Inhalt der Arbeit
 	% ...
-
-
-\chapter{Rohstoffe als Treibstoff der Industrie}
-
-Das folgende Kapitel dient zunächst der Erfassung der notwendigen Begriffsdefinitionen, der Einschätzung der Relevanz der Rohstoffversorgung und erwarteten -abhängigkeit des deutschen Automobilsektors, und schließlich der abschließenden Beurteilung der Ergebnisse.
-
-\section{Begriffsdefinitionen}
-% Hier auf die unklare Definition von Rohstoff eingehen
-% Auch erwähnen, das ein Rohstoff nicht unbedingt ein Mineral oÄ sein muss, sondern gerade im Automobilsektor auch ein Teil (Stoßstange oÄ) umfassen
-% Unterschied Rohstoff und Ressource
-
+	
+	
+	\chapter{Rohstoffe als Treibstoff der Industrie}
+	
+	Das folgende Kapitel dient zunächst der Erfassung der notwendigen Begriffsdefinitionen, der Einschätzung der Relevanz der Rohstoffversorgung und erwarteten -abhängigkeit des deutschen Automobilsektors, und schließlich der abschließenden Beurteilung der Ergebnisse.
+	
+	\section{Begriffsdefinitionen}
+	% Hier auf die unklare Definition von Rohstoff eingehen
+	% Auch erwähnen, das ein Rohstoff nicht unbedingt ein Mineral oÄ sein muss, sondern gerade im Automobilsektor auch ein Teil (Stoßstange oÄ) umfassen
+	% Unterschied Rohstoff und Ressource
+	
 	\subsection{Rohstoff}
-
-
-\subsubsection{Das Merkmal der Kritikalität}
-Wie auch beim übergeordneten Begriff des "Rohstoffs" existieren fürderhin auch keine allgemeingültige Definitionen oder generelle Kriterien für einen \textit{kritischen} Rohstoff. Im Bereich der EU-Verordnung zu kritischen Rohstoffen (s. dazu \ref{EU-Verordnung}) wird beispielsweise an das Versorgungsrisiko und ihre wirtschaftliche Bedeutung angeknüpft.
-
+	
+	
+	\subsubsection{Das Merkmal der Kritikalität}
+	Wie auch beim übergeordneten Begriff des "Rohstoffs" existieren fürderhin auch keine allgemeingültige Definitionen oder generelle Kriterien für einen \textit{kritischen} Rohstoff. Im Bereich der EU-Verordnung zu kritischen Rohstoffen (s. dazu \ref{EU-Verordnung}) wird beispielsweise an das Versorgungsrisiko und ihre wirtschaftliche Bedeutung angeknüpft.
+	
 	
 	\subsection{Rohstoffverwaltungsrecht}
 	
@@ -105,30 +105,52 @@ Wie auch beim übergeordneten Begriff des "Rohstoffs" existieren fürderhin auch
 	
 	\subsection{Weitere Verortungen}
 	% Zeitenwende?
+	
+	% ggf. umgruppieren 
+	
+	\section{Europäisches Gesetz zu kritischen Rohstoffen}\label{EU-Verordnung}
+	% hier ausführliche textanalyse
+	
+	Seit dem 23. Mai 2024 ist die Verordnung 2024/1252 "zur Schaffung eines Rahmes zur Gewährleistung einer sicheren und nachhaltigen Versorgung mit kritischen Rohstoffen" inkraftgetreten, nachdem die Europäische Kommission im März 2023 einen entsprechenden Vorschlag unterbreitete.
+	
+	Ferner unterscheidet die Verordnung zwischen strategischen Rohstoffen einerseits und kritischen Rohstoffen andererseits
+	
+	\subsection{Der Vorschlag der Europäischen Kommission}
+	
+	% Abstimmungsverhalten
+	
+	
+	\subsection{Stellungnahme des Europäischen Wirtschafts- und Sozialaussschuss}
+	
+	Die Bedeutung einer entsprechenden Infrastruktur für eine Rohstoffverwaltung erkennt auch der Ausschuss, indem er den "Aufbau von Verwaltungskapazitäten in den öffentlichen Verwaltungen der EU-Mitgliedsstaaten" fordert % C 349/142,3.
+	und 
+	
+	\subsection{Lesung im Europäischen Parlament}
+	
+	\section{Nichtbeachtung der Rohstoffthematik}
+	Der Mangel an spezifischen gesetzlichen Vorgaben zur Rohstoffverwaltung lässt sich durch mehrere Faktoren erklären, deren plausible Relevanz im Folgenden weiter untersucht und evaluiert werden soll. Aus rein historischer Sicht standen in Deutschland und der EU andere rechtliche und wirtschaftliche Prioritäten im Vordergrund - insbesondere in einer Zeit, in der elektrisch angetriebende Fahrzeuge und dementsprechend EV-Batterien und ihre Herkunft ein Schattendasein pflegte, und die langfristige Sicherung von Rohstoffquellen wurde oft als weniger dringlich angesehen, insbesondere in Zeiten wirtschaftlicher Prosperität oder stabiler internationaler Lieferketten – also insbesondere vor disruptiven Ereignissen wie der Covid-19-Krise oder dem russischen Angriffskrieg gegen die Ukraine und den entsprechenden Folgen.
+	Ferner kann vermutet werden, dass die Nichtexistenz eines spezifischen Rechtsbereiches zur Rohstoffverwaltung in sich selbst begründet werden kann, sodass das Nichtvorhandensein rechtfertigt, hier auch nichtg tätig zu werden. Wie im Bereich des Bergrechts zu sehen, ist der Rechtsrahmen zudem als eher fragmentiert im Vergelich zu anderen Rechtsbereichen einzustufen, denn auch das Rohstoffverwaltungsrecht findet Anküpfungspunkte dort, aber auch im Umwelt- und Handelsrecht oder dem internationalen Wirtschafts(völker-)recht. Diese Fragmentierung führt dazu, dass es keine einheitlichen, spezifischen gesetzlichen Vorgaben gibt, die alle Aspekte der Rohstoffverwaltung umfassend regeln. Stattdessen existieren zahlreiche Einzelregelungen, die unterschiedliche Bereiche und Aspekte der Rohstoffnutzung abdecken, ohne jedoch eine kohärente Gesamtstrategie zu bilden.
+	Ferner: Langfristige, mitunter politisch begründete oder geprägte Rohstoffstrategien und nachhaltige Rohstoffverwaltung stehen häufig im Widerspruch zu eher kurzfristigen bzw. schneller umsetzbaren Zielen und insbesondere auch schneller wahrnehmbaren Erfolgen, auch da jede Art von rohstoffverwaltungsrechtlichen Akten einen entsprechenden Eingriff mitsichbringt. 
+	Es drängt sich zudem die Vermutung auf, dass das öffentliche Bewusstsein für die Bedeutung einer Rohstoffverwaltung, insbesondere in Politik und Wirtschaft, eher gering war und im Rahmen der Zeitenwende einen entsprechenden Bedeutungsgewinn erfahren hat. Ferner kann der Bereich des Rohtsoffverwaltungsrecht durchaus als ein technisches und spezialisiertes Thema wahrgenommen werden, sodass die Bedeutungskraft hinter anderen Themen zurücktritt - Stichwort Salienz.
+	
+	Die Rohstoffverwaltung ist ein globales Thema, das internationale Kooperation und Abstimmung erfordert. Unterschiedliche nationale Interessen und Prioritäten erschweren die Entwicklung einheitlicher internationaler Regelungen und Standards. Zudem sind viele rohstoffreiche Länder außerhalb Europas angesiedelt, was die Einflussmöglichkeiten der deutschen und europäischen Gesetzgeber einschränkt und die Notwendigkeit internationaler Verhandlungen und Vereinbarungen erhöht.
+	
+	Ein umfassendes Verständnis dieser Hintergründe ist essentiell, um die bestehenden Regelungen zu evaluieren und mögliche Wege für die Entwicklung kohärenter und effektiver rechtlicher Rahmenbedingungen zu identifizieren. Eine weitergehende wissenschaftliche Auseinandersetzung mit diesen Themen ist daher dringend notwendig, um die Herausforderungen der globalen Rohstoffversorgung nachhaltig und rechtlich fundiert zu bewältigen.
+	
+	% Rohstofffluch Frau
+	
+	
+	\section{Rohstoffversorgung des deutschen Automobilsektors}
+	
+	\section{Interimsfazit}
 
-% ggf. umgruppieren 
 
-\section{Europäisches Gesetz zu kritischen Rohstoffen}\label{EU-Verordnung}
-% hier ausführliche textanalyse
+\section{Die Politisierung des Rohstoffrechts}
 
-Seit dem 23. Mai 2024 ist die Verordnung 2024/1252 "zur Schaffung eines Rahmes zur Gewährleistung einer sicheren und nachhaltigen Versorgung mit kritischen Rohstoffen" inkraftgetreten, nachdem die Europäische Kommission im März 2023 einen entsprechenden Vorschlag unterbreitete.
+Es ist mithin bekannt, dass ein Großteil der globalen mineralischen Rohstoffvorräte und insbesondere solche der seltenen Erden in diversen Staaten, darunter zahlreichen Entwicklungsländern, lagern, 
 
-Ferner unterscheidet die Verordnung zwischen strategischen Rohstoffen einerseits und kritischen Rohstoffen andererseits
+Somit kam es hier insbesondere in den letzten Jahre, ausgehend von ?, zu einer zunehmenden Politisierung im Bereich der Rohstoffe, die sich unweigerlich auch auf das Rohstoffrecht ausdehnt. Gründe hierfür sind einerseits die Verbindung des Rechtsbereiches mit internationalem Recht, welches zwangsläufig einer Politisierung unterliegt, andererseits aber auch die Erkenntnis der Politik, dass ein Handeln erforderlich sei, wie in den bereits ausführlich dargestellten Rohstoffstrategien deutlich wird.
 
-\section{Nichtbeachtung der Rohstoffthematik}
-Der Mangel an spezifischen gesetzlichen Vorgaben zur Rohstoffverwaltung lässt sich durch mehrere Faktoren erklären, deren plausible Relevanz im Folgenden weiter untersucht und evaluiert werden soll. Aus rein historischer Sicht standen in Deutschland und der EU andere rechtliche und wirtschaftliche Prioritäten im Vordergrund - insbesondere in einer Zeit, in der elektrisch angetriebende Fahrzeuge und dementsprechend EV-Batterien und ihre Herkunft ein Schattendasein pflegte, und die langfristige Sicherung von Rohstoffquellen wurde oft als weniger dringlich angesehen, insbesondere in Zeiten wirtschaftlicher Prosperität oder stabiler internationaler Lieferketten – also insbesondere vor disruptiven Ereignissen wie der Covid-19-Krise oder dem russischen Angriffskrieg gegen die Ukraine und den entsprechenden Folgen.
-Ferner kann vermutet werden, dass die Nichtexistenz eines spezifischen Rechtsbereiches zur Rohstoffverwaltung in sich selbst begründet werden kann, sodass das Nichtvorhandensein rechtfertigt, hier auch nichtg tätig zu werden. Wie im Bereich des Bergrechts zu sehen, ist der Rechtsrahmen zudem als eher fragmentiert im Vergelich zu anderen Rechtsbereichen einzustufen, denn auch das Rohstoffverwaltungsrecht findet Anküpfungspunkte dort, aber auch im Umwelt- und Handelsrecht oder dem internationalen Wirtschafts(völker-)recht. Diese Fragmentierung führt dazu, dass es keine einheitlichen, spezifischen gesetzlichen Vorgaben gibt, die alle Aspekte der Rohstoffverwaltung umfassend regeln. Stattdessen existieren zahlreiche Einzelregelungen, die unterschiedliche Bereiche und Aspekte der Rohstoffnutzung abdecken, ohne jedoch eine kohärente Gesamtstrategie zu bilden.
-Ferner: Langfristige, mitunter politisch begründete oder geprägte Rohstoffstrategien und nachhaltige Rohstoffverwaltung stehen häufig im Widerspruch zu eher kurzfristigen bzw. schneller umsetzbaren Zielen und insbesondere auch schneller wahrnehmbaren Erfolgen, auch da jede Art von rohstoffverwaltungsrechtlichen Akten einen entsprechenden Eingriff mitsichbringt. 
-Es drängt sich zudem die Vermutung auf, dass das öffentliche Bewusstsein für die Bedeutung einer Rohstoffverwaltung, insbesondere in Politik und Wirtschaft, eher gering war und im Rahmen der Zeitenwende einen entsprechenden Bedeutungsgewinn erfahren hat. Ferner kann der Bereich des Rohtsoffverwaltungsrecht durchaus als ein technisches und spezialisiertes Thema wahrgenommen werden, sodass die Bedeutungskraft hinter anderen Themen zurücktritt - Stichwort Salienz.
+% auf räumliche Verteilung der Rostoffe eingehen
 
-Die Rohstoffverwaltung ist ein globales Thema, das internationale Kooperation und Abstimmung erfordert. Unterschiedliche nationale Interessen und Prioritäten erschweren die Entwicklung einheitlicher internationaler Regelungen und Standards. Zudem sind viele rohstoffreiche Länder außerhalb Europas angesiedelt, was die Einflussmöglichkeiten der deutschen und europäischen Gesetzgeber einschränkt und die Notwendigkeit internationaler Verhandlungen und Vereinbarungen erhöht.
-
-Ein umfassendes Verständnis dieser Hintergründe ist essentiell, um die bestehenden Regelungen zu evaluieren und mögliche Wege für die Entwicklung kohärenter und effektiver rechtlicher Rahmenbedingungen zu identifizieren. Eine weitergehende wissenschaftliche Auseinandersetzung mit diesen Themen ist daher dringend notwendig, um die Herausforderungen der globalen Rohstoffversorgung nachhaltig und rechtlich fundiert zu bewältigen.
-
-% Rohstofffluch Frau
-
-
-\section{Rohstoffversorgung des deutschen Automobilsektors}
-
-\section{Interimsfazit}
-
+Es wird ersichtlich, dass die Verteilung von seltenen Erden höchst ungleich einzustufen ist, im Kontrast zu anderen mineralischen Rohstoffen. Deutlich wird auch, dass insbesondere als Entwicklungsländer bzw. "least developed countries" (LDC)\footnote{Eine allgemeine Definition für ein solches Entwicklungsland existiert nicht. Für den Gebrauch in dieser Arbeit wird daher die englische Abkürzung LDC im Sinne der least bzw. less developed countries genutzt mit dem Umfang der "DAC-Liste der Entwicklungsländer und -gebiete" des Bundesministeriums für wirtschaftliche Zusammenarbeit und Entwicklung.} einzustufende Staaten über solche Rohstoffvorkommen verfügen, viele Industrieländer\footnote{Bzw. "developed countries" folgend der Definition des International Monetary Fund (IMF)} hingegen nicht. 
