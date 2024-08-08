@@ -94,6 +94,7 @@
 	\subsubsection{Das Merkmal der Kritikalität}
 	Wie auch beim übergeordneten Begriff des "Rohstoffs" existieren fürderhin auch keine allgemeingültige Definitionen oder generelle Kriterien für einen \textit{kritischen} Rohstoff. Im Bereich der EU-Verordnung zu kritischen Rohstoffen (s. dazu \ref{EU-Verordnung}) wird beispielsweise an das Versorgungsrisiko und ihre wirtschaftliche Bedeutung angeknüpft.
 	
+	\subsection{Rohstoffwirtschaft}
 	
 	\subsection{Rohstoffverwaltungsrecht}
 	
@@ -113,24 +114,89 @@
 	
 	% ggf. umgruppieren 
 	
-	\section{Europäisches Gesetz zu kritischen Rohstoffen}\label{EU-Verordnung}
+	\subsection{Strategische und kritische Rohstoffe und Mineralien}
+	
+	\subsection{Rohstoff im engen und weiteren Sinn}
+	
+	\section{Betrachtung relevanter Rechtsakte auf europäischer Ebene}
+	
+	\subsection{Europäisches Gesetz zu kritischen Rohstoffen}\label{EU-Verordnung}
 	% hier ausführliche textanalyse
 	
 	Seit dem 23. Mai 2024 ist die Verordnung 2024/1252 "zur Schaffung eines Rahmes zur Gewährleistung einer sicheren und nachhaltigen Versorgung mit kritischen Rohstoffen" inkraftgetreten, nachdem die Europäische Kommission im März 2023 einen entsprechenden Vorschlag unterbreitete.
 	
 	Ferner unterscheidet die Verordnung zwischen strategischen Rohstoffen einerseits und kritischen Rohstoffen andererseits
 	
-	\subsection{Der Vorschlag der Europäischen Kommission}
+	Generell kann eine geographische Beschränkung auf einzelne Länder als kritisch angesehen werden, solange die Rohstoffe auch aus anderen Regionen von Unternehmen bezogen werden können, mit entsprechendem Folgen für die lokale wirtschaftliche Stabilität.\autocite[s. hierzu]{ruettinger_doddfrank_2015}
+	
+	\subsubsection{Der Vorschlag der Europäischen Kommission}
 	
 	% Abstimmungsverhalten
 	
 	
-	\subsection{Stellungnahme des Europäischen Wirtschafts- und Sozialaussschuss}
+	\subsubsection{Stellungnahme des Europäischen Wirtschafts- und Sozialaussschuss}
 	
 	Die Bedeutung einer entsprechenden Infrastruktur für eine Rohstoffverwaltung erkennt auch der Ausschuss, indem er den "Aufbau von Verwaltungskapazitäten in den öffentlichen Verwaltungen der EU-Mitgliedsstaaten" fordert % C 349/142,3.
 	und 
 	
-	\subsection{Lesung im Europäischen Parlament}
+	\subsubsection{Lesung im Europäischen Parlament}
+	
+	\subsection{Konfliktmineralien}
+	Erneut existiert keine einheitliche Definition zu den sog. Konfliktmineralien - also solche, 
+	
+	Meist werden die Elemente Zinn, Tantal, Wolfram und Gold als Konfliktmineralien eingestuft, 
+	
+	Die Regulierung von Konfliktmineralien und ihre Integration in das Wirtschaftsverwaltungsrecht stellt 
+	
+	
+	
+	Die jeweiligen Konflikt- und Risikogebieten nach Art. 2 lit. f werden, einer jährlichen Aktualisierung unterliegend, auf der \textit{Conflict-Affected and High Risk Areas}-Liste (CAHRAS) der EU bekanntgegeben.\footnote{Die Liste ist abrufbar unter https://www.cahraslist.net/cahras. Stand 2024 umfasst die Liste die Staaten Afghanistan, Äthiopien, Burkina Faso, Burundi, DR Kongo, Eritrea, Indien, Jemen, Kamerun, Kolumbien, Libanon, Libyen, Mali, Mosambik, Myanmar, Niger, Nigeria, Pakistan, die Philippinen, Russland, Simbabwe, Somalia, Sudan, Südsudan, Ukraine, Venezuela, sowie die Zentralafrikanische Republik.}
+	
+	
+	\subsubsection{Die Konfliktmineralien-VO}
+	2017/821
+	
+	Auf europäischer Ebene ist die zentrale Regelung für Konfliktmineralien die Verordnung (EU) 2017/821. Diese Verordnung verpflichtet Unionseinführer bestimmter Mineralien und Metalle, ihre Sorgfaltspflichten in der Lieferkette wahrzunehmen, um sicherzustellen, dass die als Konfliktmineralien verstandenen Rohstoffe nicht zur Finanzierung bewaffneter Konflikte oder zu Menschenrechtsverletzungen beitragen. Die Verordnung gilt seit dem 1. Januar 2021 und erstreckt sich auf Importeure innerhalb der Europäischen Union, die sog. Unionseinführer.
+	
+	Zum 7. Mai 2020 trat das entsprechende deutsche Durchführungsgesetz zur Verordnung 2017/821 in Kraft \footnote{Gesetz vom 29.04.2020 - BGBl. I 2020, Nr. 21 vom 06.05.2020, S. 864.}, es gab zuvor keine entsprechenden Rechtsakte, sodass die Thematik vergleichsweise spät in den Bereich des Rohstoffrechts aufgenommen wurde. Die Implementierung der EU-Verordnung in den deutschen Rechtsrahmen zeigt, dass eine Verstärkung des Rohstoffwirtschaftsverwaltungsrechts erforderlich ist, um die Sorgfaltspflichten der Unternehmen wirksam durchzusetzen.
+	
+	Hinsichtlich der Sorgfaltspflichten orientiert sich die Konfliktmineralien-VO eng an den OECD-Leitsätzen \autocite{OECDleitfaden2019} für die Erfüllung dieser, insbesondere durch die Bestrebungen der Kommission, diese Leitsätze stärker zu unterstützen wie auch die Anwendung der Leitsätze durch Unternehmen und die "Erfüllung der Sorgfaltspflicht", auch in nicht-OECD Staaten.\footnote{s. Präambel 9, VO 2017/821.} Daraus lässt sich schließen, dass eine Erfüllung der Vorgaben und Ziele der Konfliktmineralien-VO hinreichend durch eine Orientierung an den und eine Erfüllung der OECD-Leitsätzen erreicht werden kann, was letztendlich die Erfüllung die Sorgfaltspflicht betrifft.
+	%wie gestaltet sich das im Umsetzungsrechtsakt
+	
+	Diese Verzahnung bzw. Verbindung von Rechtsakten zeigt, dass dieses Vorgehen insbesondere im rohstoffverwaltungsrechtlichen Bereich sinnvoll erscheint. Die Übernahme internationaler Standards in das europäische Rechtssystem stärkt die Integration globaler Best Practices in die nationale Gesetzgebung und fördert die Kohärenz im Rohstoffverwaltungsrecht. Im Beispiel der Konfliktmineralien-VO erleichtert die Orientierung an den OECD-Leitsätzen sowohl zunächst die Anforderungen der EU-Verordnung, aber auch potentieller weiterer (internationaler), nicht zwangsläufig staatlicher Regelungen nachzukommen, sodass hier mit der Schaffung einer sektor- und rechtsübergreifenden Grundlage begonnen wird. Langfristig entstehen hier Vorteile sowohl auf Unternehmens- und Verwaltungsseite: Durch die Nutzung anerkannter und immer weiter verbreiteter Richtlinien und Leitsätzen wird der Compliance- und Verwaltungsaufwand auf beiderlei Seiten auf ein erforderliches Minimum reduziert, mit den entsprechenden positiven Effekten. Ferner wird widersprüchlichen Regelungen oder Schlupflöchern vorgebeugt.
+	
+	Dieses Vorgehen der Verzahnung kann also als ein beispielhaftes Leitbild für die weitere Entwicklung eines interdisziplinären und anwendungsbetontem Rohstoff- und Rohstoffverwaltungsrecht verstanden werden. Weitere Beispiele für solche Leitsätze lassen sich finden: %!
+	
+	%Analysieren: https://dip.bundestag.de/vorgang/.../255348
+	
+	Die Verordnung somit zielt darauf ab, Transparenz und Verantwortlichkeit in den Lieferketten der Unternehmen zu erhöhen, indem sie sie verpflichtet, Informationen über die Herkunft und den Handel der von ihnen verwendeten Mineralien offenzulegen. Diese Verpflichtungen stehen in direktem Zusammenhang mit den möglichen Grundsätzen des Rohstoffwirtschaftsverwaltungsrechts, und das RWvR kann erneut als rechtlicher Rahmen zur Umsetzung sowie Einhaltung der Regelungen agieren.
+	
+	Die Regulierung von Konfliktmineralien ist ein entscheidender Bestandteil eines umfassenden Rohstoffwirtschaftsverwaltungsrechts, das sowohl die wirtschaftlichen Interessen als auch die ethischen Verpflichtungen Deutschlands und der EU berücksichtigt. Die bisher bestehenden gesetzlichen Regelungen, insbesondere die Verordnung  2017/821 und das Lieferkettensorgfaltspflichtengesetz, bieten eine Grundlage, die jedoch durch weitere rechtliche Entwicklungen und eine verbesserte Durchsetzung ergänzt werden muss. Ein integrierter Ansatz im Rahmen eines nationalen Rohstoffwirtschaftsverwaltungsrechts kann dazu beitragen, diese Herausforderungen zu bewältigen und gleichzeitig die Rohstoffversorgung weiterhin sicherzustellen und negative Effekte bei Unternehmen, aber auch wie schon beschrieben in den konfliktmineralienexportierenden Staaten zu vermeiden.
+
+	\section{Betrachtung relevanter Rechtsakte auf deutscher Ebene}
+	
+	\subsection{BBergG}
+	
+	\subsection{Interimsfazit}
+	
+	\section{Die Entstehung von Rohstoffstrategien}
+	
+	\subsection{Auf nationaler Ebene}
+	Stand xxxx haben xxxx europäische Länder eine nationale Rohstoffstrategie entwickelt
+	
+	\subsubsection{Die Rohstoffstrategie der Bundesregierung}
+	
+	\subsection{Auf europäischer Ebene}
+	
+	\section{Wechselwirkungen zwischen deutschem und europäischen Rohstoffrecht}
+	
+	\section{Betrachtung weiterer ausgewählter Rechtsakte}
+	
+	Dies dient insbesondere dem Vergleich 
+	
+	Bereits 2010 und damit deutlich vor Legislativinititaven der EU hatten die USA über den \textit{Dodd-Frank-Act} \footnote{Dodd-Frank Wall Street Reform and Consumer Protection Act, Art. 1502-1504 (\textit{sections})} Transparenzpflichten im Umgang mit Konfliktmineralien in Lieferketten eingeführt. Der Gesetzesakt ist nicht primär auf den Bereich des Rohstoffrechts ausgerichtet, sondern enthält eher nebenbei Regelungen zu Konfliktmnineralien, insbesondere diejenigen des Art. 1502.  Hierbei ist der Ansatz zu beachten, dass nicht der Bezug der entsprechenden Rohstoffe eingeschränkt wird, sondern ein Reputationsrisiko für Unternehmen bei Rohstoffbezug in Konfliktregionen durch die Veröffentlichungspflichten entsteht.\autocite[Rn. 415]{ruttloff2022_lksg} Eine relevante Schnittmenge zwischen dem Dodd-Frank-Act und dem LkSG kann jedoch nicht festgestellt werden, denn Unternehmen die bereits den Regelungen zur Transparenz des Art. 1502 unterliegen, können vom LkSG höchstens auf indirektem Wege profitieren, da der Handel mit Konfliktmineralien und die damit verbundene Vermeidung der Finanzierung bewaffneter Konflikte nicht im Fokus des LkSG stehen.\autocite[Rn 423]{ruttloff2022_lksg} Stattdessen ist der Anknüpfungspunkte in EU-Verordnung 2017/821 zu suchen
+	
+	
 	
 	\section{Nichtbeachtung der Rohstoffthematik}
 	Der Mangel an spezifischen gesetzlichen Vorgaben zur Rohstoffverwaltung lässt sich durch mehrere Faktoren erklären, deren plausible Relevanz im Folgenden weiter untersucht und evaluiert werden soll. Aus rein historischer Sicht standen in Deutschland und der EU andere rechtliche und wirtschaftliche Prioritäten im Vordergrund - insbesondere in einer Zeit, in der elektrisch angetriebende Fahrzeuge und dementsprechend EV-Batterien und ihre Herkunft ein Schattendasein pflegte, und die langfristige Sicherung von Rohstoffquellen wurde oft als weniger dringlich angesehen, insbesondere in Zeiten wirtschaftlicher Prosperität oder stabiler internationaler Lieferketten – also insbesondere vor disruptiven Ereignissen wie der Covid-19-Krise oder dem russischen Angriffskrieg gegen die Ukraine und den entsprechenden Folgen.
@@ -159,3 +225,5 @@ Somit kam es hier insbesondere in den letzten Jahre, ausgehend von ?, zu einer z
 % auf räumliche Verteilung der Rostoffe eingehen
 
 Es wird ersichtlich, dass die Verteilung von seltenen Erden höchst ungleich einzustufen ist, im Kontrast zu anderen mineralischen Rohstoffen. Deutlich wird auch, dass insbesondere als Entwicklungsländer bzw. "least developed countries" (LDC)\footnote{Eine allgemeine Definition für ein solches Entwicklungsland existiert nicht. Für den Gebrauch in dieser Arbeit wird daher die englische Abkürzung LDC im Sinne der least bzw. less developed countries genutzt mit dem Umfang der "DAC-Liste der Entwicklungsländer und -gebiete" des Bundesministeriums für wirtschaftliche Zusammenarbeit und Entwicklung.} einzustufende Staaten über solche Rohstoffvorkommen verfügen, viele Industrieländer\footnote{Bzw. "developed countries" folgend der Definition des International Monetary Fund (IMF)} hingegen nicht. 
+
+\end{document}
