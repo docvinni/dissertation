@@ -1,0 +1,513 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nty/global//global/global}
+    \entry{bendel_nearshoring_2022}{inreference}{}
+      \name{author}{1}{}{%
+        {{hash=5181c628cc76781db001854fe0f93fc2}{%
+           family={Bendel},
+           familyi={B\bibinitperiod},
+           given={Oliver},
+           giveni={O\bibinitperiod}}}%
+      }
+      \strng{namehash}{5181c628cc76781db001854fe0f93fc2}
+      \strng{fullhash}{5181c628cc76781db001854fe0f93fc2}
+      \strng{bibnamehash}{5181c628cc76781db001854fe0f93fc2}
+      \strng{authorbibnamehash}{5181c628cc76781db001854fe0f93fc2}
+      \strng{authornamehash}{5181c628cc76781db001854fe0f93fc2}
+      \strng{authorfullhash}{5181c628cc76781db001854fe0f93fc2}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Gabler {WIrtschaftslexikon}}
+      \field{title}{Nearshoring}
+      \field{urlday}{7}
+      \field{urlmonth}{2}
+      \field{urlyear}{2024}
+      \field{year}{2022}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://wirtschaftslexikon.gabler.de/definition/nearshoring-54118/version-385417
+      \endverb
+      \verb{url}
+      \verb https://wirtschaftslexikon.gabler.de/definition/nearshoring-54118/version-385417
+      \endverb
+    \endentry
+    \entry{butollo_deglobalisierung_2022}{article}{}
+      \name{author}{2}{}{%
+        {{hash=98b994a0ecd8b8ccd55caf1ef4c1e4e9}{%
+           family={Butollo},
+           familyi={B\bibinitperiod},
+           given={Florian},
+           giveni={F\bibinitperiod}}}%
+        {{hash=b1bc5e2a810630d615c12ac126c2260e}{%
+           family={Staritz},
+           familyi={S\bibinitperiod},
+           given={Cornelia},
+           giveni={C\bibinitperiod}}}%
+      }
+      \strng{namehash}{441b9f45eae439e13c08781c2d3968f2}
+      \strng{fullhash}{441b9f45eae439e13c08781c2d3968f2}
+      \strng{bibnamehash}{441b9f45eae439e13c08781c2d3968f2}
+      \strng{authorbibnamehash}{441b9f45eae439e13c08781c2d3968f2}
+      \strng{authornamehash}{441b9f45eae439e13c08781c2d3968f2}
+      \strng{authorfullhash}{441b9f45eae439e13c08781c2d3968f2}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{1}
+      \field{journaltitle}{Berliner Journal für Soziologie}
+      \field{month}{9}
+      \field{number}{3}
+      \field{title}{Deglobalisierung, Rekonfiguration oder Business as Usual? {COVID}-19 und die Grenzen der Rückverlagerung globalisierter Produktion}
+      \field{volume}{32}
+      \field{year}{2022}
+      \field{dateera}{ce}
+      \field{pages}{393\bibrangedash 425}
+      \range{pages}{33}
+    \endentry
+    \entry{dalla_longa_urban_2023}{incollection}{}
+      \name{author}{1}{}{%
+        {{hash=23834d0a2008d09714bbdbecc2c7b2c5}{%
+           family={Dalla\bibnamedelima Longa},
+           familyi={D\bibinitperiod\bibinitdelim L\bibinitperiod},
+           given={Remo},
+           giveni={R\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Cham}%
+      }
+      \list{publisher}{1}{%
+        {Springer International Publishing}%
+      }
+      \strng{namehash}{23834d0a2008d09714bbdbecc2c7b2c5}
+      \strng{fullhash}{23834d0a2008d09714bbdbecc2c7b2c5}
+      \strng{bibnamehash}{23834d0a2008d09714bbdbecc2c7b2c5}
+      \strng{authorbibnamehash}{23834d0a2008d09714bbdbecc2c7b2c5}
+      \strng{authornamehash}{23834d0a2008d09714bbdbecc2c7b2c5}
+      \strng{authorfullhash}{23834d0a2008d09714bbdbecc2c7b2c5}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Urban Infrastructure: Globalization / Slowbalization}
+      \field{title}{Urban Infrastructures}
+      \field{year}{2023}
+      \field{dateera}{ce}
+      \field{pages}{1\bibrangedash 42}
+      \range{pages}{42}
+      \verb{doi}
+      \verb 10.1007/978-3-031-23785-0_1
+      \endverb
+    \endentry
+    \entry{europaischer_auswartiger_dienst_foreign_2023}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=d11bbb315457817879d69f1a3d2854b3}{%
+           family={Dienst},
+           familyi={D\bibinitperiod},
+           given={Europäischer\bibnamedelima Auswärtiger},
+           giveni={E\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \strng{namehash}{d11bbb315457817879d69f1a3d2854b3}
+      \strng{fullhash}{d11bbb315457817879d69f1a3d2854b3}
+      \strng{bibnamehash}{d11bbb315457817879d69f1a3d2854b3}
+      \strng{authorbibnamehash}{d11bbb315457817879d69f1a3d2854b3}
+      \strng{authornamehash}{d11bbb315457817879d69f1a3d2854b3}
+      \strng{authorfullhash}{d11bbb315457817879d69f1a3d2854b3}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{22}
+      \field{month}{5}
+      \field{title}{Foreign Affairs Council: Press remarks by High Representative Josep Borrell upon arrival}
+      \field{urlday}{11}
+      \field{urlmonth}{11}
+      \field{urlyear}{2023}
+      \field{year}{2023}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.eeas.europa.eu/eeas/foreign-affairs-council-press-remarks-high-representative-josep-borrell-upon-arrival-9_en
+      \endverb
+      \verb{url}
+      \verb https://www.eeas.europa.eu/eeas/foreign-affairs-council-press-remarks-high-representative-josep-borrell-upon-arrival-9_en
+      \endverb
+    \endentry
+    \entry{economist_slowbalisation_2019}{article}{}
+      \name{author}{1}{}{%
+        {{hash=c67b3757f32daaf45967993f0c00cee8}{%
+           family={Economist},
+           familyi={E\bibinitperiod},
+           given={The},
+           giveni={T\bibinitperiod}}}%
+      }
+      \strng{namehash}{c67b3757f32daaf45967993f0c00cee8}
+      \strng{fullhash}{c67b3757f32daaf45967993f0c00cee8}
+      \strng{bibnamehash}{c67b3757f32daaf45967993f0c00cee8}
+      \strng{authorbibnamehash}{c67b3757f32daaf45967993f0c00cee8}
+      \strng{authornamehash}{c67b3757f32daaf45967993f0c00cee8}
+      \strng{authorfullhash}{c67b3757f32daaf45967993f0c00cee8}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{24}
+      \field{month}{1}
+      \field{title}{Slowbalisation. The future of global commerce}
+      \field{year}{2019}
+      \field{dateera}{ce}
+    \endentry
+    \entry{feichtner_besonderheit_2016}{online}{}
+      \name{author}{1}{}{%
+        {{hash=70ae3e77db744bb49249e1523fa089e6}{%
+           family={Feichtner},
+           familyi={F\bibinitperiod},
+           given={Isabel},
+           giveni={I\bibinitperiod}}}%
+      }
+      \strng{namehash}{70ae3e77db744bb49249e1523fa089e6}
+      \strng{fullhash}{70ae3e77db744bb49249e1523fa089e6}
+      \strng{bibnamehash}{70ae3e77db744bb49249e1523fa089e6}
+      \strng{authorbibnamehash}{70ae3e77db744bb49249e1523fa089e6}
+      \strng{authornamehash}{70ae3e77db744bb49249e1523fa089e6}
+      \strng{authorfullhash}{70ae3e77db744bb49249e1523fa089e6}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{16}
+      \field{month}{5}
+      \field{title}{Die Besonderheit der Bodenschätze. Eine Erwiderung auf Markus Krajewski}
+      \field{titleaddon}{Völkerrechtsblog}
+      \field{urlday}{18}
+      \field{urlmonth}{12}
+      \field{urlyear}{2023}
+      \field{year}{2016}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://voelkerrechtsblog.org/de/die-besonderheit-der-bodenschatze/
+      \endverb
+      \verb{url}
+      \verb https://voelkerrechtsblog.org/de/die-besonderheit-der-bodenschatze/
+      \endverb
+    \endentry
+    \entry{fuest_geopolitische_2022}{book}{}
+      \name{author}{4}{}{%
+        {{hash=a4012960781980fa2ee4a5e9380d8259}{%
+           family={Fuest},
+           familyi={F\bibinitperiod},
+           given={Clemens},
+           giveni={C\bibinitperiod}}}%
+        {{hash=bb4d79374129994cd1e0132247df5fe4}{%
+           family={Flach},
+           familyi={F\bibinitperiod},
+           given={Lisandra},
+           giveni={L\bibinitperiod}}}%
+        {{hash=bfc3532ea4b5c4db48e2708e130bdc41}{%
+           family={Dorn},
+           familyi={D\bibinitperiod},
+           given={Florian},
+           giveni={F\bibinitperiod}}}%
+        {{hash=29532ff438372e0838c487bf92097ad9}{%
+           family={Scheckenhofer},
+           familyi={S\bibinitperiod},
+           given={Lisa},
+           giveni={L\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {ifo Institut, Vereinigung der Bayerischen Wirtschaft}%
+      }
+      \strng{namehash}{6f39bebba55601b3a80f55758650c036}
+      \strng{fullhash}{0880e74d2fd4ee0f97821c3f35bfac18}
+      \strng{bibnamehash}{6f39bebba55601b3a80f55758650c036}
+      \strng{authorbibnamehash}{6f39bebba55601b3a80f55758650c036}
+      \strng{authornamehash}{6f39bebba55601b3a80f55758650c036}
+      \strng{authorfullhash}{0880e74d2fd4ee0f97821c3f35bfac18}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Geopolitische Herausforderungen und ihre Folgen für das deutsche Wirtschaftsmodell}
+      \field{year}{2022}
+      \field{dateera}{ce}
+    \endentry
+    \entry{inferrera_globalisation_2021}{report}{}
+      \name{author}{1}{}{%
+        {{hash=21c9faf895584a9f3bf031f548539b60}{%
+           family={Inferrera},
+           familyi={I\bibinitperiod},
+           given={Sergio},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Leibniz-Institut für Wirtschaftsforschung Halle ({IWH})}%
+      }
+      \list{location}{1}{%
+        {Halle (Saale)}%
+      }
+      \strng{namehash}{21c9faf895584a9f3bf031f548539b60}
+      \strng{fullhash}{21c9faf895584a9f3bf031f548539b60}
+      \strng{bibnamehash}{21c9faf895584a9f3bf031f548539b60}
+      \strng{authorbibnamehash}{21c9faf895584a9f3bf031f548539b60}
+      \strng{authornamehash}{21c9faf895584a9f3bf031f548539b60}
+      \strng{authorfullhash}{21c9faf895584a9f3bf031f548539b60}
+      \field{sortinit}{I}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{number}{2/2021}
+      \field{title}{Globalisation in Europe: Consequences for the business environment and future patterns in light of Covid-19}
+      \field{type}{{IWH}-{CompNet} Discussion Papers}
+      \field{year}{2021}
+      \field{dateera}{ce}
+      \verb{urlraw}
+      \verb https://hdl.handle.net/10419/233621
+      \endverb
+      \verb{url}
+      \verb https://hdl.handle.net/10419/233621
+      \endverb
+      \keyw{330,Coronavirus,{EU}-Staaten,Globalisierung,Lieferkette,Wirkungsanalyse}
+    \endentry
+    \entry{kormbaki_wettstreit_2023}{article}{}
+      \name{author}{2}{}{%
+        {{hash=f5c93a75868b2aab45e15a2f9f6b332a}{%
+           family={Kormbaki},
+           familyi={K\bibinitperiod},
+           given={Marina},
+           giveni={M\bibinitperiod}}}%
+        {{hash=707458cceb6dae588270a8fe2447068b}{%
+           family={Schult},
+           familyi={S\bibinitperiod},
+           given={Christoph},
+           giveni={C\bibinitperiod}}}%
+      }
+      \strng{namehash}{a1ecbfafa60cc8ad529301e54c18b4c0}
+      \strng{fullhash}{a1ecbfafa60cc8ad529301e54c18b4c0}
+      \strng{bibnamehash}{a1ecbfafa60cc8ad529301e54c18b4c0}
+      \strng{authorbibnamehash}{a1ecbfafa60cc8ad529301e54c18b4c0}
+      \strng{authornamehash}{a1ecbfafa60cc8ad529301e54c18b4c0}
+      \strng{authorfullhash}{a1ecbfafa60cc8ad529301e54c18b4c0}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{1}
+      \field{edition}{27}
+      \field{journaltitle}{Der Spiegel}
+      \field{month}{7}
+      \field{title}{Wettstreit um ein Wort}
+      \field{year}{2023}
+      \field{dateera}{ce}
+    \endentry
+    \entry{lamby-schmitt_china_2023}{article}{}
+      \name{author}{1}{}{%
+        {{hash=b65d3537f6bc74ded35b1abe835c0125}{%
+           family={Lamby-Schmitt},
+           familyi={L\bibinithyphendelim S\bibinitperiod},
+           given={Eva},
+           giveni={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{b65d3537f6bc74ded35b1abe835c0125}
+      \strng{fullhash}{b65d3537f6bc74ded35b1abe835c0125}
+      \strng{bibnamehash}{b65d3537f6bc74ded35b1abe835c0125}
+      \strng{authorbibnamehash}{b65d3537f6bc74ded35b1abe835c0125}
+      \strng{authornamehash}{b65d3537f6bc74ded35b1abe835c0125}
+      \strng{authorfullhash}{b65d3537f6bc74ded35b1abe835c0125}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{4}
+      \field{journaltitle}{Tagesschau}
+      \field{month}{7}
+      \field{title}{China will Ausfuhr seltener Metalle kontrollieren}
+      \field{urlday}{1}
+      \field{urlmonth}{1}
+      \field{urlyear}{2024}
+      \field{year}{2023}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.tagesschau.de/wirtschaft/energie/china-seltene-metalle-100.html
+      \endverb
+      \verb{url}
+      \verb https://www.tagesschau.de/wirtschaft/energie/china-seltene-metalle-100.html
+      \endverb
+    \endentry
+    \entry{maier_globalisierung_2019}{article}{}
+      \name{author}{1}{}{%
+        {{hash=b5dc71bc3add00c72e3af879d68cea5f}{%
+           family={Maier},
+           familyi={M\bibinitperiod},
+           given={Jürgen},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{b5dc71bc3add00c72e3af879d68cea5f}
+      \strng{fullhash}{b5dc71bc3add00c72e3af879d68cea5f}
+      \strng{bibnamehash}{b5dc71bc3add00c72e3af879d68cea5f}
+      \strng{authorbibnamehash}{b5dc71bc3add00c72e3af879d68cea5f}
+      \strng{authornamehash}{b5dc71bc3add00c72e3af879d68cea5f}
+      \strng{authorfullhash}{b5dc71bc3add00c72e3af879d68cea5f}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Forum Umwelt \& Entwicklung}
+      \field{number}{2}
+      \field{title}{Globalisierung im Rückwärtsgang}
+      \field{volume}{34}
+      \field{year}{2019}
+      \field{dateera}{ce}
+      \field{pages}{34\bibrangedash 35}
+      \range{pages}{2}
+    \endentry
+    \entry{rade_globalisierung_2022}{article}{}
+      \name{author}{1}{}{%
+        {{hash=b93d7d8d4defc91e9eac58788a1aadf7}{%
+           family={Rade},
+           familyi={R\bibinitperiod},
+           given={Andreas},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{b93d7d8d4defc91e9eac58788a1aadf7}
+      \strng{fullhash}{b93d7d8d4defc91e9eac58788a1aadf7}
+      \strng{bibnamehash}{b93d7d8d4defc91e9eac58788a1aadf7}
+      \strng{authorbibnamehash}{b93d7d8d4defc91e9eac58788a1aadf7}
+      \strng{authornamehash}{b93d7d8d4defc91e9eac58788a1aadf7}
+      \strng{authorfullhash}{b93d7d8d4defc91e9eac58788a1aadf7}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{21}
+      \field{journaltitle}{Tagesspiegel Background}
+      \field{month}{4}
+      \field{title}{Globalisierung als europäische Anrwort}
+      \field{year}{2022}
+      \field{dateera}{ce}
+    \endentry
+    \entry{sandkamp_reshoring_2022}{article}{}
+      \name{author}{1}{}{%
+        {{hash=6f31bfd23ed40ffbf7c6ac3a09f3cc6e}{%
+           family={Sandkamp},
+           familyi={S\bibinitperiod},
+           given={Alexander},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{6f31bfd23ed40ffbf7c6ac3a09f3cc6e}
+      \strng{fullhash}{6f31bfd23ed40ffbf7c6ac3a09f3cc6e}
+      \strng{bibnamehash}{6f31bfd23ed40ffbf7c6ac3a09f3cc6e}
+      \strng{authorbibnamehash}{6f31bfd23ed40ffbf7c6ac3a09f3cc6e}
+      \strng{authornamehash}{6f31bfd23ed40ffbf7c6ac3a09f3cc6e}
+      \strng{authorfullhash}{6f31bfd23ed40ffbf7c6ac3a09f3cc6e}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Overall, decoupling from certain countries may be both politically necessary and economically feasible, at least in the long run. However, a general shift of production back to Europe would be accompanied by significant losses in real income.}
+      \field{day}{1}
+      \field{journaltitle}{Intereconomics}
+      \field{month}{11}
+      \field{number}{6}
+      \field{shortjournal}{Intereconomics}
+      \field{title}{Reshoring by Decree? The Effects of Decoupling Europe from Global Value Chains}
+      \field{volume}{57}
+      \field{year}{2022}
+      \field{dateera}{ce}
+      \field{pages}{359\bibrangedash 362}
+      \range{pages}{4}
+    \endentry
+    \entry{sausmikat_chinas_2015}{book}{}
+      \name{author}{1}{}{%
+        {{hash=969dbb82ebaa03832d3558be2667baa1}{%
+           family={Sausmikat},
+           familyi={S\bibinitperiod},
+           given={Nora},
+           giveni={N\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Stiftung Asienhaus}%
+      }
+      \strng{namehash}{969dbb82ebaa03832d3558be2667baa1}
+      \strng{fullhash}{969dbb82ebaa03832d3558be2667baa1}
+      \strng{bibnamehash}{969dbb82ebaa03832d3558be2667baa1}
+      \strng{authorbibnamehash}{969dbb82ebaa03832d3558be2667baa1}
+      \strng{authornamehash}{969dbb82ebaa03832d3558be2667baa1}
+      \strng{authorfullhash}{969dbb82ebaa03832d3558be2667baa1}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Chinas Rohstoffhunger. Perspektiven der Zivilgesellschaft}
+      \field{year}{2015}
+      \field{dateera}{ce}
+    \endentry
+    \entry{schaffer_ausenwirtschaftsrecht_2023}{article}{}
+      \name{author}{1}{}{%
+        {{hash=07862f85485e08cabfcfe299b9e4a2bc}{%
+           family={Schäffer},
+           familyi={S\bibinitperiod},
+           given={Johannes},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{07862f85485e08cabfcfe299b9e4a2bc}
+      \strng{fullhash}{07862f85485e08cabfcfe299b9e4a2bc}
+      \strng{bibnamehash}{07862f85485e08cabfcfe299b9e4a2bc}
+      \strng{authorbibnamehash}{07862f85485e08cabfcfe299b9e4a2bc}
+      \strng{authornamehash}{07862f85485e08cabfcfe299b9e4a2bc}
+      \strng{authorfullhash}{07862f85485e08cabfcfe299b9e4a2bc}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Europäische Zeitschrift für Wirtschaftsrecht}
+      \field{shortjournal}{{EuZW}}
+      \field{title}{Außenwirtschaftsrecht und Geopolitik: eine Neuorientierung}
+      \field{volume}{15}
+      \field{year}{2023}
+      \field{dateera}{ce}
+      \field{pages}{695\bibrangedash 701}
+      \range{pages}{7}
+    \endentry
+  \enddatalist
+  \missing{wissenschaftliche_dienste_des_deutschen_bundestages_seltene_2022}
+\endrefsection
+\endinput
+

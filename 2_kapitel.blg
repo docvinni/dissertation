@@ -1,0 +1,17 @@
+[0] Config.pm:307> INFO - This is Biber 2.19
+[0] Config.pm:310> INFO - Logfile is '2_kapitel.blg'
+[129] biber-MSWIN64:340> INFO - === 
+[171] Biber.pm:419> INFO - Reading '2_kapitel.bcf'
+[280] Biber.pm:979> INFO - Found 16 citekeys in bib section 0
+[294] Biber.pm:4419> INFO - Processing section 0
+[307] Biber.pm:4610> INFO - Looking for bibtex file 'literatur.bib' for section 0
+[392] bibtex.pm:1713> INFO - LaTeX decoding ...
+[508] bibtex.pm:1519> INFO - Found BibTeX data source 'literatur.bib'
+[603] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[603] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'variable = shifted' with 'variable = non-ignorable'
+[603] Biber.pm:4239> INFO - Sorting list 'nty/global//global/global' of type 'entry' with template 'nty' and locale 'de-DE'
+[603] Biber.pm:4245> INFO - No sort tailoring available for locale 'de-DE'
+[622] bbl.pm:660> INFO - Writing '2_kapitel.bbl' with encoding 'UTF-8'
+[629] bbl.pm:763> INFO - Output to 2_kapitel.bbl
+[631] Biber.pm:131> WARN - I didn't find a database entry for 'wissenschaftliche_dienste_des_deutschen_bundestages_seltene_2022' (section 0)
+[631] Biber.pm:133> INFO - WARNINGS: 1

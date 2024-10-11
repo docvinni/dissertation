@@ -1,0 +1,1992 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nty/global//global/global}
+    \entry{acatech__deutsche_akademie_der_technikwissenschaften_rohstoffe_2017}{collection}{}
+      \name{editor}{3}{}{%
+        {{hash=30d458fea24e8dd3528fda92e0d1935a}{%
+           family={–\bibnamedelima Deutsche\bibnamedelimb Akademie\bibnamedelimb der\bibnamedelima Technikwissenschaften},
+           familyi={\bibinithyphendelim \bibinitperiod\bibinitdelim D\bibinitperiod\bibinitdelim A\bibinitperiod\bibinitdelim d\bibinitperiod\bibinitdelim T\bibinitperiod},
+           prefix={acatech},
+           prefixi={a\bibinitperiod}}}%
+        {{hash=effe1e26b18784d64b4b588d45d939e5}{%
+           family={Wissenschaften\bibnamedelima Leopoldina},
+           familyi={W\bibinitperiod\bibinitdelim L\bibinitperiod},
+           given={Nationale\bibnamedelima Akademie},
+           giveni={N\bibinitperiod\bibinitdelim A\bibinitperiod},
+           prefix={der},
+           prefixi={d\bibinitperiod}}}%
+        {{hash=27e65366863f7c899f5a9efc9f7062dc}{%
+           family={Akademien\bibnamedelimb der\bibnamedelima Wissenschaften},
+           familyi={A\bibinitperiod\bibinitdelim d\bibinitperiod\bibinitdelim W\bibinitperiod},
+           given={Union},
+           giveni={U\bibinitperiod},
+           prefix={der\bibnamedelima deutschen},
+           prefixi={d\bibinitperiod\bibinitdelim d\bibinitperiod}}}%
+      }
+      \strng{namehash}{82ecddf2225c65b142190798857f57d3}
+      \strng{fullhash}{82ecddf2225c65b142190798857f57d3}
+      \strng{bibnamehash}{82ecddf2225c65b142190798857f57d3}
+      \strng{editorbibnamehash}{82ecddf2225c65b142190798857f57d3}
+      \strng{editornamehash}{82ecddf2225c65b142190798857f57d3}
+      \strng{editorfullhash}{82ecddf2225c65b142190798857f57d3}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \true{singletitle}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{title}
+      \field{series}{Schriftenreihe zur wissenschaftsbasierten Politikberatung}
+      \field{title}{Rohstoffe für die Energiewende: Wege zu einer sicheren und nachhaltigen Versorgung}
+      \field{year}{2017}
+      \field{dateera}{ce}
+    \endentry
+    \entry{international_energy_agency_role_2021}{book}{}
+      \name{author}{1}{}{%
+        {{hash=465b82815b27cd8a52e2be2cc108c330}{%
+           family={Agency},
+           familyi={A\bibinitperiod},
+           given={International\bibnamedelima Energy},
+           giveni={I\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+      }
+      \strng{namehash}{465b82815b27cd8a52e2be2cc108c330}
+      \strng{fullhash}{465b82815b27cd8a52e2be2cc108c330}
+      \strng{bibnamehash}{465b82815b27cd8a52e2be2cc108c330}
+      \strng{authorbibnamehash}{465b82815b27cd8a52e2be2cc108c330}
+      \strng{authornamehash}{465b82815b27cd8a52e2be2cc108c330}
+      \strng{authorfullhash}{465b82815b27cd8a52e2be2cc108c330}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{series}{World Energy Outlook Special Report}
+      \field{title}{The Role of Critical Minerals in Clean Energy Transitions. Reliable supply of minerals}
+      \field{year}{2021}
+      \field{dateera}{ce}
+    \endentry
+    \entry{becker_vom_2023}{article}{}
+      \name{author}{1}{}{%
+        {{hash=289f7783ec708dc87fc345ccf5c8fb25}{%
+           family={Becker},
+           familyi={B\bibinitperiod},
+           given={Markus},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{289f7783ec708dc87fc345ccf5c8fb25}
+      \strng{fullhash}{289f7783ec708dc87fc345ccf5c8fb25}
+      \strng{bibnamehash}{289f7783ec708dc87fc345ccf5c8fb25}
+      \strng{authorbibnamehash}{289f7783ec708dc87fc345ccf5c8fb25}
+      \strng{authornamehash}{289f7783ec708dc87fc345ccf5c8fb25}
+      \strng{authorfullhash}{289f7783ec708dc87fc345ccf5c8fb25}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{22}
+      \field{edition}{17}
+      \field{journaltitle}{Der Spiegel}
+      \field{month}{4}
+      \field{title}{Vom Regen in die Traufe}
+      \field{year}{2023}
+      \field{dateera}{ce}
+    \endentry
+    \entry{book_amerikaner_2023}{article}{}
+      \name{author}{3}{}{%
+        {{hash=2d660fcf6f6c509a06b22c440d0aa37f}{%
+           family={Book},
+           familyi={B\bibinitperiod},
+           given={Simon},
+           giveni={S\bibinitperiod}}}%
+        {{hash=0ddc8064aa83c1a8de2214b139bd8072}{%
+           family={Demling},
+           familyi={D\bibinitperiod},
+           given={Alexander},
+           giveni={A\bibinitperiod}}}%
+        {{hash=f820938a584c99c209047b559826271d}{%
+           family={Zöttl},
+           familyi={Z\bibinitperiod},
+           given={Ines},
+           giveni={I\bibinitperiod}}}%
+      }
+      \strng{namehash}{f4e11de5fec90b04e4d67be09b5cfb74}
+      \strng{fullhash}{f4e11de5fec90b04e4d67be09b5cfb74}
+      \strng{bibnamehash}{f4e11de5fec90b04e4d67be09b5cfb74}
+      \strng{authorbibnamehash}{f4e11de5fec90b04e4d67be09b5cfb74}
+      \strng{authornamehash}{f4e11de5fec90b04e4d67be09b5cfb74}
+      \strng{authorfullhash}{f4e11de5fec90b04e4d67be09b5cfb74}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{6}
+      \field{edition}{45}
+      \field{journaltitle}{Der Spiegel}
+      \field{month}{11}
+      \field{title}{Die Amerikaner sehnen sich nach Trumps Wirtschaftspolitik zurück}
+      \field{year}{2023}
+      \field{dateera}{ce}
+    \endentry
+    \entry{deutsche_bundesregierung_reden_2022}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=793ca12ee2209ced62bfe19160d05ddb}{%
+           family={Bundesregierung},
+           familyi={B\bibinitperiod},
+           given={Deutsche},
+           giveni={D\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Presse- und Informationsamt der Bundesregierung}%
+      }
+      \strng{namehash}{793ca12ee2209ced62bfe19160d05ddb}
+      \strng{fullhash}{793ca12ee2209ced62bfe19160d05ddb}
+      \strng{bibnamehash}{793ca12ee2209ced62bfe19160d05ddb}
+      \strng{authorbibnamehash}{793ca12ee2209ced62bfe19160d05ddb}
+      \strng{authornamehash}{793ca12ee2209ced62bfe19160d05ddb}
+      \strng{authorfullhash}{793ca12ee2209ced62bfe19160d05ddb}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Reden zur Zeitenwende. Bundeskanzler Olaf Scholz, Regierungserklärung in der Sondersitzung zum Krieg gegen die Ukraine vor dem Deutschen Bundestag am 27. Februar 2022 in Berlin}
+      \field{year}{2022}
+      \field{dateera}{ce}
+    \endentry
+    \entry{dauke_rohstoff-_2011}{incollection}{}
+      \name{author}{1}{}{%
+        {{hash=023edd2d6e48050120e1ad080a316f37}{%
+           family={Dauke},
+           familyi={D\bibinitperiod},
+           given={Detlef},
+           giveni={D\bibinitperiod}}}%
+      }
+      \name{editor}{4}{}{%
+        {{hash=54c92b788bd7fb2478c7ed6900708a6b}{%
+           family={Kausch},
+           familyi={K\bibinitperiod},
+           given={Peter},
+           giveni={P\bibinitperiod}}}%
+        {{hash=dd6e53d94c95cfd52bef5ffe0492da16}{%
+           family={Gutzmer},
+           familyi={G\bibinitperiod},
+           given={Jens},
+           giveni={J\bibinitperiod}}}%
+        {{hash=cf47df8a36ec1034d9908d226189a713}{%
+           family={Bertau},
+           familyi={B\bibinitperiod},
+           given={Martin},
+           giveni={M\bibinitperiod}}}%
+        {{hash=d0f3b693ef35715b402e6c600b94adfa}{%
+           family={Matschullat},
+           familyi={M\bibinitperiod},
+           given={Jörg},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Heidelberg}%
+      }
+      \list{publisher}{1}{%
+        {Spektrum Akademischer Verlag}%
+      }
+      \strng{namehash}{023edd2d6e48050120e1ad080a316f37}
+      \strng{fullhash}{023edd2d6e48050120e1ad080a316f37}
+      \strng{bibnamehash}{023edd2d6e48050120e1ad080a316f37}
+      \strng{authorbibnamehash}{023edd2d6e48050120e1ad080a316f37}
+      \strng{authornamehash}{023edd2d6e48050120e1ad080a316f37}
+      \strng{authorfullhash}{023edd2d6e48050120e1ad080a316f37}
+      \strng{editorbibnamehash}{c346490811336adcbc65d7e31c953551}
+      \strng{editornamehash}{c346490811336adcbc65d7e31c953551}
+      \strng{editorfullhash}{66d2b78371fc62ae3e49456c7307daaf}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Rohstoff- und Kreislaufwirtschaft als Chimäre, werden in diesem Beitrag verstanden als}
+      \field{booktitle}{Energie und Rohstoffe: Gestaltung unserer nachhaltigen Zukunft}
+      \field{title}{Rohstoff- und Kreislaufwirtschaft — eine volkswirtschaftliche Chimäre?}
+      \field{year}{2011}
+      \field{dateera}{ce}
+      \field{pages}{3\bibrangedash 7}
+      \range{pages}{5}
+    \endentry
+    \entry{falke_neue_2023}{article}{}
+      \name{author}{1}{}{%
+        {{hash=0a7822c1ee64db825d3d700bb992c7b4}{%
+           family={Falke},
+           familyi={F\bibinitperiod},
+           given={Josef},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{0a7822c1ee64db825d3d700bb992c7b4}
+      \strng{fullhash}{0a7822c1ee64db825d3d700bb992c7b4}
+      \strng{bibnamehash}{0a7822c1ee64db825d3d700bb992c7b4}
+      \strng{authorbibnamehash}{0a7822c1ee64db825d3d700bb992c7b4}
+      \strng{authornamehash}{0a7822c1ee64db825d3d700bb992c7b4}
+      \strng{authorfullhash}{0a7822c1ee64db825d3d700bb992c7b4}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Zeitschrift für Umweltrecht}
+      \field{number}{4}
+      \field{shortjournal}{{ZUR}}
+      \field{title}{Neue Entwicklungen im Europäischen Umweltrecht}
+      \field{volume}{2024}
+      \field{year}{2023}
+      \field{dateera}{ce}
+      \field{pages}{245\bibrangedash 255}
+      \range{pages}{11}
+    \endentry
+    \entry{feichtner_besonderheit_2016}{online}{}
+      \name{author}{1}{}{%
+        {{hash=70ae3e77db744bb49249e1523fa089e6}{%
+           family={Feichtner},
+           familyi={F\bibinitperiod},
+           given={Isabel},
+           giveni={I\bibinitperiod}}}%
+      }
+      \strng{namehash}{70ae3e77db744bb49249e1523fa089e6}
+      \strng{fullhash}{70ae3e77db744bb49249e1523fa089e6}
+      \strng{bibnamehash}{70ae3e77db744bb49249e1523fa089e6}
+      \strng{authorbibnamehash}{70ae3e77db744bb49249e1523fa089e6}
+      \strng{authornamehash}{70ae3e77db744bb49249e1523fa089e6}
+      \strng{authorfullhash}{70ae3e77db744bb49249e1523fa089e6}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{16}
+      \field{month}{5}
+      \field{title}{Die Besonderheit der Bodenschätze. Eine Erwiderung auf Markus Krajewski}
+      \field{titleaddon}{Völkerrechtsblog}
+      \field{urlday}{18}
+      \field{urlmonth}{12}
+      \field{urlyear}{2023}
+      \field{year}{2016}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://voelkerrechtsblog.org/de/die-besonderheit-der-bodenschatze/
+      \endverb
+      \verb{url}
+      \verb https://voelkerrechtsblog.org/de/die-besonderheit-der-bodenschatze/
+      \endverb
+    \endentry
+    \entry{feil_rohstoffkonflikte_2011}{book}{}
+      \name{author}{3}{}{%
+        {{hash=52972f54fe5cf3d7a76ebc9f89040d86}{%
+           family={Feil},
+           familyi={F\bibinitperiod},
+           given={Monika},
+           giveni={M\bibinitperiod}}}%
+        {{hash=79becef7addb1e69329f4e7f9171ae4d}{%
+           family={Barkemeyer},
+           familyi={B\bibinitperiod},
+           given={Janina},
+           giveni={J\bibinitperiod}}}%
+        {{hash=cfa648e38b41fbcc22a1f22dc82c9d54}{%
+           family={Supersberger},
+           familyi={S\bibinitperiod},
+           given={Nikolaus},
+           giveni={N\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Umweltbundesamt}%
+      }
+      \strng{namehash}{b22b16d80905cfd67eb585c6d2197b58}
+      \strng{fullhash}{b22b16d80905cfd67eb585c6d2197b58}
+      \strng{bibnamehash}{b22b16d80905cfd67eb585c6d2197b58}
+      \strng{authorbibnamehash}{b22b16d80905cfd67eb585c6d2197b58}
+      \strng{authornamehash}{b22b16d80905cfd67eb585c6d2197b58}
+      \strng{authorfullhash}{b22b16d80905cfd67eb585c6d2197b58}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Rohstoffkonflikte nachhaltig vermeiden. Ansätze zur Risikominimierung (Teilbericht 4)}
+      \field{year}{2011}
+      \field{dateera}{ce}
+    \endentry
+    \entry{frenz_staatliche_2023}{article}{}
+      \name{author}{1}{}{%
+        {{hash=981001590c07fba27a1169c71ffc5164}{%
+           family={Frenz},
+           familyi={F\bibinitperiod},
+           given={Walter},
+           giveni={W\bibinitperiod}}}%
+      }
+      \name{editor}{11}{}{%
+        {{hash=df052c28c3f70e2a62d5b357204183a6}{%
+           family={Brinker},
+           familyi={B\bibinitperiod},
+           given={Ingo},
+           giveni={I\bibinitperiod}}}%
+        {{hash=3edfc66fda3946ba3d1f387ef85b80f3}{%
+           family={Classen},
+           familyi={C\bibinitperiod},
+           given={Claus\bibnamedelima Dieter},
+           giveni={C\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=90bb559cabd1665b98fc18411cb1e935}{%
+           family={Ehlermann},
+           familyi={E\bibinitperiod},
+           given={Claus-Dieter},
+           giveni={C\bibinithyphendelim D\bibinitperiod}}}%
+        {{hash=30f6d47007ed9704806a4050b82e0d05}{%
+           family={Hatje},
+           familyi={H\bibinitperiod},
+           given={Armin},
+           giveni={A\bibinitperiod}}}%
+        {{hash=12dd2fd1dd76edbd61cb3d18a036dc5c}{%
+           family={Hilf},
+           familyi={H\bibinitperiod},
+           given={Meinhard},
+           giveni={M\bibinitperiod}}}%
+        {{hash=e7459cd428ee69fb11499a9280e37feb}{%
+           family={Lenaerts},
+           familyi={L\bibinitperiod},
+           given={Koen},
+           giveni={K\bibinitperiod}}}%
+        {{hash=d4ce88573e5b98c0d7bc4444595adbfe}{%
+           family={Müller-Graff},
+           familyi={M\bibinithyphendelim G\bibinitperiod},
+           given={Peter-Christian},
+           giveni={P\bibinithyphendelim C\bibinitperiod}}}%
+        {{hash=04d1767f49df169fca6cd5718d65b2d5}{%
+           family={Ruffert},
+           familyi={R\bibinitperiod},
+           given={Matthias},
+           giveni={M\bibinitperiod}}}%
+        {{hash=f555d2b064506fe0581c601e82f68a1f}{%
+           family={Schwarze},
+           familyi={S\bibinitperiod},
+           given={Jürgen},
+           giveni={J\bibinitperiod}}}%
+        {{hash=c0c58985e14c58c6e5ea82c375413480}{%
+           family={Skouris},
+           familyi={S\bibinitperiod},
+           given={Vassilios},
+           giveni={V\bibinitperiod}}}%
+        {{hash=ae2e45e999c3401fd14dde4bb1cecf6d}{%
+           family={Wölker},
+           familyi={W\bibinitperiod},
+           given={Ulrich},
+           giveni={U\bibinitperiod}}}%
+      }
+      \strng{namehash}{981001590c07fba27a1169c71ffc5164}
+      \strng{fullhash}{981001590c07fba27a1169c71ffc5164}
+      \strng{bibnamehash}{981001590c07fba27a1169c71ffc5164}
+      \strng{authorbibnamehash}{981001590c07fba27a1169c71ffc5164}
+      \strng{authornamehash}{981001590c07fba27a1169c71ffc5164}
+      \strng{authorfullhash}{981001590c07fba27a1169c71ffc5164}
+      \strng{editorbibnamehash}{402f3cd959a6fb7f430dd1f74dba750a}
+      \strng{editornamehash}{402f3cd959a6fb7f430dd1f74dba750a}
+      \strng{editorfullhash}{e9c52142b40acdf6541ca6333465295e}
+      \field{extraname}{1}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Europarecht}
+      \field{number}{3}
+      \field{shortjournal}{{EuR}}
+      \field{title}{Staatliche Rohstoffaktivitäten und Europarecht}
+      \field{volume}{58}
+      \field{year}{2023}
+      \field{dateera}{ce}
+      \field{pages}{238\bibrangedash 251}
+      \range{pages}{14}
+    \endentry
+    \entry{frenz_unternehmensabgabe_2023}{article}{}
+      \name{author}{1}{}{%
+        {{hash=981001590c07fba27a1169c71ffc5164}{%
+           family={Frenz},
+           familyi={F\bibinitperiod},
+           given={Walter},
+           giveni={W\bibinitperiod}}}%
+      }
+      \strng{namehash}{981001590c07fba27a1169c71ffc5164}
+      \strng{fullhash}{981001590c07fba27a1169c71ffc5164}
+      \strng{bibnamehash}{981001590c07fba27a1169c71ffc5164}
+      \strng{authorbibnamehash}{981001590c07fba27a1169c71ffc5164}
+      \strng{authornamehash}{981001590c07fba27a1169c71ffc5164}
+      \strng{authorfullhash}{981001590c07fba27a1169c71ffc5164}
+      \field{extraname}{2}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Betriebs-Berater}
+      \field{number}{11}
+      \field{title}{Unternehmensabgabe für staatliche Rohstoffsicherung und Verfassungsrecht}
+      \field{volume}{78}
+      \field{year}{2023}
+      \field{dateera}{ce}
+      \field{pages}{585\bibrangedash 588}
+      \range{pages}{4}
+    \endentry
+    \entry{frieske_zukunftsfahige_2022}{book}{}
+      \name{author}{2}{}{%
+        {{hash=0f93b2494948a93b997f33f02b17dc1d}{%
+           family={Frieske},
+           familyi={F\bibinitperiod},
+           given={Benjamin},
+           giveni={B\bibinitperiod}}}%
+        {{hash=cf3e62a9b8b4dd29ab624398fca66ea2}{%
+           family={Huber},
+           familyi={H\bibinitperiod},
+           given={Alexander},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {e-mobil {BW} {GmbH}}%
+      }
+      \strng{namehash}{54030139035a7bcd67bb31b5ed80e6c2}
+      \strng{fullhash}{54030139035a7bcd67bb31b5ed80e6c2}
+      \strng{bibnamehash}{54030139035a7bcd67bb31b5ed80e6c2}
+      \strng{authorbibnamehash}{54030139035a7bcd67bb31b5ed80e6c2}
+      \strng{authornamehash}{54030139035a7bcd67bb31b5ed80e6c2}
+      \strng{authorfullhash}{54030139035a7bcd67bb31b5ed80e6c2}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Zukunftsfähige Lieferketten und neue Wertschöpfungsstrukturen in der Automobilindustriew}
+      \field{year}{2022}
+      \field{dateera}{ce}
+    \endentry
+    \entry{gaus_rare_2021}{report}{}
+      \name{author}{12}{}{%
+        {{hash=b0c50e32c81b4fa23bbbd61c0013d86f}{%
+           family={Gauß},
+           familyi={G\bibinitperiod},
+           given={Roland},
+           giveni={R\bibinitperiod}}}%
+        {{hash=4d8b1da5023b7a0013ed7031ec0047d5}{%
+           family={Burkhardt},
+           familyi={B\bibinitperiod},
+           given={Carlo},
+           giveni={C\bibinitperiod}}}%
+        {{hash=7ff91e2890ec83a575cfb1507bb01a7a}{%
+           family={Carencotte},
+           familyi={C\bibinitperiod},
+           given={Frédéric},
+           giveni={F\bibinitperiod}}}%
+        {{hash=8446b1a63a4bec3ea87d79910d7ebc2d}{%
+           family={Gasparon},
+           familyi={G\bibinitperiod},
+           given={Massimo},
+           giveni={M\bibinitperiod}}}%
+        {{hash=4df71d583f9a39aaca4343c048447654}{%
+           family={Gutfleisch},
+           familyi={G\bibinitperiod},
+           given={Oliver},
+           giveni={O\bibinitperiod}}}%
+        {{hash=d137ff5bc1313a625c289e9d9450f8a8}{%
+           family={Higgins},
+           familyi={H\bibinitperiod},
+           given={Ian},
+           giveni={I\bibinitperiod}}}%
+        {{hash=716c3e9aa4bfa11b2c0f4cbc2b30f670}{%
+           family={Karajić},
+           familyi={K\bibinitperiod},
+           given={Milana},
+           giveni={M\bibinitperiod}}}%
+        {{hash=a46c63110811bf6b290ea44888d12259}{%
+           family={Klossek},
+           familyi={K\bibinitperiod},
+           given={Andreas},
+           giveni={A\bibinitperiod}}}%
+        {{hash=846c168b35d3ab13ff44956d2ceae86e}{%
+           family={Mäkinen},
+           familyi={M\bibinitperiod},
+           given={Maija},
+           giveni={M\bibinitperiod}}}%
+        {{hash=74e31d3424d14daf21102be9ec5abb90}{%
+           family={Schäfer},
+           familyi={S\bibinitperiod},
+           given={Bernd},
+           giveni={B\bibinitperiod}}}%
+        {{hash=154a74317a25fe3377afde2560155913}{%
+           family={Schindler},
+           familyi={S\bibinitperiod},
+           given={Reinhold},
+           giveni={R\bibinitperiod}}}%
+        {{hash=b2caa218b4af8190a6a6c0c59c88e39d}{%
+           family={Veluri},
+           familyi={V\bibinitperiod},
+           given={Badrinath},
+           giveni={B\bibinitperiod}}}%
+      }
+      \list{institution}{2}{%
+        {Rare Earth Magnets}%
+        {Motors Cluster of the European Raw Materials Alliance.}%
+      }
+      \list{location}{1}{%
+        {Berlin}%
+      }
+      \strng{namehash}{9cb4ec9ddb7c11e1337444607c57218d}
+      \strng{fullhash}{8fbb650d0b7c9ab785fac27226431bfe}
+      \strng{bibnamehash}{9cb4ec9ddb7c11e1337444607c57218d}
+      \strng{authorbibnamehash}{9cb4ec9ddb7c11e1337444607c57218d}
+      \strng{authornamehash}{9cb4ec9ddb7c11e1337444607c57218d}
+      \strng{authorfullhash}{8fbb650d0b7c9ab785fac27226431bfe}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Rare Earth Magnets and Motors: A European Call for Action}
+      \field{year}{2021}
+      \field{dateera}{ce}
+    \endentry
+    \entry{gramlich_zeisberg_2021}{article}{}
+      \name{author}{1}{}{%
+        {{hash=db351b8f3d66510fd42a55bfe41ceaef}{%
+           family={Gramlich},
+           familyi={G\bibinitperiod},
+           given={Ludwig},
+           giveni={L\bibinitperiod}}}%
+      }
+      \strng{namehash}{db351b8f3d66510fd42a55bfe41ceaef}
+      \strng{fullhash}{db351b8f3d66510fd42a55bfe41ceaef}
+      \strng{bibnamehash}{db351b8f3d66510fd42a55bfe41ceaef}
+      \strng{authorbibnamehash}{db351b8f3d66510fd42a55bfe41ceaef}
+      \strng{authornamehash}{db351b8f3d66510fd42a55bfe41ceaef}
+      \strng{authorfullhash}{db351b8f3d66510fd42a55bfe41ceaef}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Zeitschrift für ausländisches öffentliches Recht und Völkerrecht / Heidelberg Journal of International Law}
+      \field{number}{4}
+      \field{title}{Zeisberg, Marie-Christine: Ein Rohstoffvölkerrecht für das 21. Jahrhundert}
+      \field{volume}{81}
+      \field{year}{2021}
+      \field{dateera}{ce}
+      \field{pages}{1075\bibrangedash 1080}
+      \range{pages}{6}
+    \endentry
+    \entry{hanisch_besprechung_1984}{article}{}
+      \name{author}{1}{}{%
+        {{hash=bd84fc918b050ede5e2754a6bf5b68dd}{%
+           family={Hanisch},
+           familyi={H\bibinitperiod},
+           given={Rolf},
+           giveni={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{bd84fc918b050ede5e2754a6bf5b68dd}
+      \strng{fullhash}{bd84fc918b050ede5e2754a6bf5b68dd}
+      \strng{bibnamehash}{bd84fc918b050ede5e2754a6bf5b68dd}
+      \strng{authorbibnamehash}{bd84fc918b050ede5e2754a6bf5b68dd}
+      \strng{authornamehash}{bd84fc918b050ede5e2754a6bf5b68dd}
+      \strng{authorfullhash}{bd84fc918b050ede5e2754a6bf5b68dd}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{number}{3}
+      \field{series}{Verfassung und Recht in Übersee}
+      \field{title}{Besprechung Internationale und supranationale Rohstoffverwaltung}
+      \field{volume}{1984}
+      \field{year}{1984}
+      \field{dateera}{ce}
+      \field{pages}{401\bibrangedash 408}
+      \range{pages}{8}
+    \endentry
+    \entry{henning_politics_1968}{article}{}
+      \name{author}{1}{}{%
+        {{hash=9d1afa2c7bff2f14e306651abecdcdf0}{%
+           family={Henning},
+           familyi={H\bibinitperiod},
+           given={Daniel\bibnamedelima H.},
+           giveni={D\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+      }
+      \strng{namehash}{9d1afa2c7bff2f14e306651abecdcdf0}
+      \strng{fullhash}{9d1afa2c7bff2f14e306651abecdcdf0}
+      \strng{bibnamehash}{9d1afa2c7bff2f14e306651abecdcdf0}
+      \strng{authorbibnamehash}{9d1afa2c7bff2f14e306651abecdcdf0}
+      \strng{authornamehash}{9d1afa2c7bff2f14e306651abecdcdf0}
+      \strng{authorfullhash}{9d1afa2c7bff2f14e306651abecdcdf0}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{1}
+      \field{journaltitle}{The Annals of Regional Science}
+      \field{month}{12}
+      \field{number}{1}
+      \field{shortjournal}{The Annals of Regional Science}
+      \field{title}{The politics of natural resources administration}
+      \field{volume}{2}
+      \field{year}{1968}
+      \field{dateera}{ce}
+      \field{pages}{239\bibrangedash 248}
+      \range{pages}{10}
+    \endentry
+    \entry{herdegen_internationales_2020}{book}{}
+      \name{author}{1}{}{%
+        {{hash=783b8f4f19b2b93f47d258780eb82d5b}{%
+           family={Herdegen},
+           familyi={H\bibinitperiod},
+           given={Matthias},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {München}%
+      }
+      \list{publisher}{1}{%
+        {C.H.{BECK}}%
+      }
+      \strng{namehash}{783b8f4f19b2b93f47d258780eb82d5b}
+      \strng{fullhash}{783b8f4f19b2b93f47d258780eb82d5b}
+      \strng{bibnamehash}{783b8f4f19b2b93f47d258780eb82d5b}
+      \strng{authorbibnamehash}{783b8f4f19b2b93f47d258780eb82d5b}
+      \strng{authornamehash}{783b8f4f19b2b93f47d258780eb82d5b}
+      \strng{authorfullhash}{783b8f4f19b2b93f47d258780eb82d5b}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{12}
+      \field{series}{Juristische Kurzlehrbücher}
+      \field{title}{Internationales Wirtschaftsrecht}
+      \field{year}{2020}
+      \field{dateera}{ce}
+    \endentry
+    \entry{kagermann_resilienz_2021}{book}{}
+      \name{author}{6}{}{%
+        {{hash=4381ef0d3dbca077375c3d387b230ad1}{%
+           family={Kagermann},
+           familyi={K\bibinitperiod},
+           given={H.},
+           giveni={H\bibinitperiod}}}%
+        {{hash=654fc721db49f354bb3ab6e58349cdaa}{%
+           family={Süssenguth},
+           familyi={S\bibinitperiod},
+           given={F.},
+           giveni={F\bibinitperiod}}}%
+        {{hash=ba8dc2d9f0550d8922f93be2a1117160}{%
+           family={Körner},
+           familyi={K\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+        {{hash=73328d1532d8a208be1fa8d65bc40b43}{%
+           family={Liepold},
+           familyi={L\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=45dade77eb50a6713a5f5c1337a43e9a}{%
+           family={Behrens},
+           familyi={B\bibinitperiod},
+           given={J.H.},
+           giveni={J\bibinitperiod}}}%
+        {{hash=0b4e6d0dd48ee0ec1143c44a0ca65a92}{%
+           family={Technikwissenschaften},
+           familyi={T\bibinitperiod},
+           given={Deutsche\bibnamedelimb Akademie\bibnamedelima der},
+           giveni={D\bibinitperiod\bibinitdelim A\bibinitperiod\bibinitdelim d\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {acatech - Deutsche Akademie der Technikwissenschaften e.V}%
+      }
+      \strng{namehash}{88162f8468b30cf80856a7c21fea610e}
+      \strng{fullhash}{aedbe789dbdb6fc74900b5f2ba1cd7a3}
+      \strng{bibnamehash}{88162f8468b30cf80856a7c21fea610e}
+      \strng{authorbibnamehash}{88162f8468b30cf80856a7c21fea610e}
+      \strng{authornamehash}{88162f8468b30cf80856a7c21fea610e}
+      \strng{authorfullhash}{aedbe789dbdb6fc74900b5f2ba1cd7a3}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{series}{acatech Impuls}
+      \field{title}{Resilienz der Fahrzeugindustrie: zwischen globalen Strukturen und lokalen Herausforderungen}
+      \field{year}{2021}
+      \field{dateera}{ce}
+    \endentry
+    \entry{europaische_kommission_globale_2015}{book}{}
+      \name{author}{1}{}{%
+        {{hash=e82e2109bc6e3585cab659e453f438e6}{%
+           family={Kommission},
+           familyi={K\bibinitperiod},
+           given={Europäische},
+           giveni={E\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Publications Office}%
+      }
+      \strng{namehash}{e82e2109bc6e3585cab659e453f438e6}
+      \strng{fullhash}{e82e2109bc6e3585cab659e453f438e6}
+      \strng{bibnamehash}{e82e2109bc6e3585cab659e453f438e6}
+      \strng{authorbibnamehash}{e82e2109bc6e3585cab659e453f438e6}
+      \strng{authornamehash}{e82e2109bc6e3585cab659e453f438e6}
+      \strng{authorfullhash}{e82e2109bc6e3585cab659e453f438e6}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Globale Trends bis 2030 : kann die {EU} die anstehenden Herausforderungen bewältigen?}
+      \field{year}{2015}
+      \field{dateera}{ce}
+      \verb{doi}
+      \verb doi/10.2796/441289
+      \endverb
+    \endentry
+    \entry{europaische_kommission_study_2023}{book}{}
+      \name{author}{4}{}{%
+        {{hash=e82e2109bc6e3585cab659e453f438e6}{%
+           family={Kommission},
+           familyi={K\bibinitperiod},
+           given={Europäische},
+           giveni={E\bibinitperiod}}}%
+        {{hash=58efe34e334235c6ddbf6bdfd18758b3}{%
+           family={Generaldirektion\bibnamedelima Binnenmarkt},
+           familyi={G\bibinitperiod\bibinitdelim B\bibinitperiod},
+           given={Unternehmertum\bibnamedelimb und\bibnamedelima {KMU}},
+           giveni={U\bibinitperiod\bibinitdelim u\bibinitperiod\bibinitdelim K\bibinitperiod},
+           suffix={Industrie},
+           suffixi={I\bibinitperiod}}}%
+        {{hash=ac09236485eaf2b51eaaae5401101ff9}{%
+           family={Grohol},
+           familyi={G\bibinitperiod},
+           given={Milan},
+           giveni={M\bibinitperiod}}}%
+        {{hash=7d91c8d463933a78b8888d742105eb5d}{%
+           family={Veeh},
+           familyi={V\bibinitperiod},
+           given={Constanze},
+           giveni={C\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Publications Office of the European Union}%
+      }
+      \strng{namehash}{327621f2f6d7cdaa0719a0a73fd29ea0}
+      \strng{fullhash}{2d8e985fdcdf069e60d2a53ead214bfd}
+      \strng{bibnamehash}{327621f2f6d7cdaa0719a0a73fd29ea0}
+      \strng{authorbibnamehash}{327621f2f6d7cdaa0719a0a73fd29ea0}
+      \strng{authornamehash}{327621f2f6d7cdaa0719a0a73fd29ea0}
+      \strng{authorfullhash}{2d8e985fdcdf069e60d2a53ead214bfd}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Study on the critical raw materials for the {EU} 2023 – Final report}
+      \field{year}{2023}
+      \field{dateera}{ce}
+      \verb{doi}
+      \verb doi/10.2873/725585
+      \endverb
+    \endentry
+    \entry{krajewski_menschenrechte_2016}{online}{}
+      \name{author}{1}{}{%
+        {{hash=ac038c409a8bc51380175bed50f61d1b}{%
+           family={Krajewski},
+           familyi={K\bibinitperiod},
+           given={Markus},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{ac038c409a8bc51380175bed50f61d1b}
+      \strng{fullhash}{ac038c409a8bc51380175bed50f61d1b}
+      \strng{bibnamehash}{ac038c409a8bc51380175bed50f61d1b}
+      \strng{authorbibnamehash}{ac038c409a8bc51380175bed50f61d1b}
+      \strng{authornamehash}{ac038c409a8bc51380175bed50f61d1b}
+      \strng{authorfullhash}{ac038c409a8bc51380175bed50f61d1b}
+      \field{extraname}{1}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{11}
+      \field{month}{5}
+      \field{title}{Menschenrechte als Antwort auf Verteilungsfragen im transnationalen Rohstoffrecht}
+      \field{titleaddon}{Völkerrechtsblog}
+      \field{urlday}{29}
+      \field{urlmonth}{11}
+      \field{urlyear}{2023}
+      \field{year}{2016}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://voelkerrechtsblog.org/menschenrechte-als-antwort-auf-verteilungsfragen-im-transnationalen-rohstoffrecht/
+      \endverb
+      \verb{url}
+      \verb https://voelkerrechtsblog.org/menschenrechte-als-antwort-auf-verteilungsfragen-im-transnationalen-rohstoffrecht/
+      \endverb
+    \endentry
+    \entry{krajewski_wirtschaftsvolkerrecht_2021}{book}{}
+      \name{author}{1}{}{%
+        {{hash=ac038c409a8bc51380175bed50f61d1b}{%
+           family={Krajewski},
+           familyi={K\bibinitperiod},
+           given={Markus},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Heidelberg}%
+      }
+      \list{publisher}{1}{%
+        {C.F. Müller}%
+      }
+      \strng{namehash}{ac038c409a8bc51380175bed50f61d1b}
+      \strng{fullhash}{ac038c409a8bc51380175bed50f61d1b}
+      \strng{bibnamehash}{ac038c409a8bc51380175bed50f61d1b}
+      \strng{authorbibnamehash}{ac038c409a8bc51380175bed50f61d1b}
+      \strng{authornamehash}{ac038c409a8bc51380175bed50f61d1b}
+      \strng{authorfullhash}{ac038c409a8bc51380175bed50f61d1b}
+      \field{extraname}{2}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{5}
+      \field{title}{Wirtschaftsvölkerrecht}
+      \field{year}{2021}
+      \field{dateera}{ce}
+    \endentry
+    \entry{kuhne_gewinnung_2020}{incollection}{}
+      \name{author}{3}{}{%
+        {{hash=e8f6edf002fbecb4d865322a565bc6b8}{%
+           family={Kühne},
+           familyi={K\bibinitperiod},
+           given={Olaf},
+           giveni={O\bibinitperiod}}}%
+        {{hash=d16dc19b2724c2972006b7aa8193e7f7}{%
+           family={Berr},
+           familyi={B\bibinitperiod},
+           given={Karsten},
+           giveni={K\bibinitperiod}}}%
+        {{hash=8e40dd0a42be0f400a9afa1a0769d3c0}{%
+           family={Jenal},
+           familyi={J\bibinitperiod},
+           given={Corinna},
+           giveni={C\bibinitperiod}}}%
+      }
+      \name{editor}{3}{}{%
+        {{hash=6caaa072272ba4c7617e39a72eeae822}{%
+           family={Duttmann},
+           familyi={D\bibinitperiod},
+           given={Rainer},
+           giveni={R\bibinitperiod}}}%
+        {{hash=e8f6edf002fbecb4d865322a565bc6b8}{%
+           family={Kühne},
+           familyi={K\bibinitperiod},
+           given={Olaf},
+           giveni={O\bibinitperiod}}}%
+        {{hash=f815ebe7db8d18dfd85219377661c0f9}{%
+           family={Weber},
+           familyi={W\bibinitperiod},
+           given={Florian},
+           giveni={F\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Wiesbaden}%
+      }
+      \list{publisher}{1}{%
+        {Springer Fachmedien Wiesbaden}%
+      }
+      \strng{namehash}{ff67e31751543b491e61e77b23fedfce}
+      \strng{fullhash}{ff67e31751543b491e61e77b23fedfce}
+      \strng{bibnamehash}{ff67e31751543b491e61e77b23fedfce}
+      \strng{authorbibnamehash}{ff67e31751543b491e61e77b23fedfce}
+      \strng{authornamehash}{ff67e31751543b491e61e77b23fedfce}
+      \strng{authorfullhash}{ff67e31751543b491e61e77b23fedfce}
+      \strng{editorbibnamehash}{873613b56d7e8a179532d4349edbfb02}
+      \strng{editornamehash}{873613b56d7e8a179532d4349edbfb02}
+      \strng{editorfullhash}{873613b56d7e8a179532d4349edbfb02}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Landschaft als Prozess}
+      \field{title}{Die Gewinnung mineralischer Rohstoffe als konfliktärer Landschaftsprozess}
+      \field{year}{2020}
+      \field{dateera}{ce}
+      \field{pages}{585\bibrangedash 601}
+      \range{pages}{17}
+    \endentry
+    \entry{lohr_gesetz_2022}{article}{}
+      \name{author}{1}{}{%
+        {{hash=2a8267ae6701405ed5a739c912806632}{%
+           family={Löhr},
+           familyi={L\bibinitperiod},
+           given={Julia},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{2a8267ae6701405ed5a739c912806632}
+      \strng{fullhash}{2a8267ae6701405ed5a739c912806632}
+      \strng{bibnamehash}{2a8267ae6701405ed5a739c912806632}
+      \strng{authorbibnamehash}{2a8267ae6701405ed5a739c912806632}
+      \strng{authornamehash}{2a8267ae6701405ed5a739c912806632}
+      \strng{authorfullhash}{2a8267ae6701405ed5a739c912806632}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{17}
+      \field{journaltitle}{Frankfurter Allgemeine Zeitung}
+      \field{month}{10}
+      \field{title}{Ein Gesetz für die Rohstoffsicherheit}
+      \field{urlday}{23}
+      \field{urlmonth}{12}
+      \field{urlyear}{2023}
+      \field{year}{2022}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.faz.net/aktuell/wirtschaft/lehren-aus-der-gaskrise-gesetz-fuer-die-rohstoffsicherheit-18391005.html
+      \endverb
+      \verb{url}
+      \verb https://www.faz.net/aktuell/wirtschaft/lehren-aus-der-gaskrise-gesetz-fuer-die-rohstoffsicherheit-18391005.html
+      \endverb
+    \endentry
+    \entry{machnig_zeitenwende_2023}{online}{}
+      \name{author}{1}{}{%
+        {{hash=41ac25dd4af4a79c2cf0d52d6d214a08}{%
+           family={Machnig},
+           familyi={M\bibinitperiod},
+           given={Matthias},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{41ac25dd4af4a79c2cf0d52d6d214a08}
+      \strng{fullhash}{41ac25dd4af4a79c2cf0d52d6d214a08}
+      \strng{bibnamehash}{41ac25dd4af4a79c2cf0d52d6d214a08}
+      \strng{authorbibnamehash}{41ac25dd4af4a79c2cf0d52d6d214a08}
+      \strng{authornamehash}{41ac25dd4af4a79c2cf0d52d6d214a08}
+      \strng{authorfullhash}{41ac25dd4af4a79c2cf0d52d6d214a08}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Eine Zeitenwende in der Außenwirtschaftspolitik ist notwendig}
+      \field{titleaddon}{blog politische ökonomie}
+      \field{urlday}{12}
+      \field{urlmonth}{11}
+      \field{urlyear}{2023}
+      \field{year}{2023}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+    \endentry
+    \entry{mortsiefer_autobauer_2022}{article}{}
+      \name{author}{1}{}{%
+        {{hash=5ecd2343194da8f1e5ee7b8b9de9ba9e}{%
+           family={Mortsiefer},
+           familyi={M\bibinitperiod},
+           given={Henrik},
+           giveni={H\bibinitperiod}}}%
+      }
+      \strng{namehash}{5ecd2343194da8f1e5ee7b8b9de9ba9e}
+      \strng{fullhash}{5ecd2343194da8f1e5ee7b8b9de9ba9e}
+      \strng{bibnamehash}{5ecd2343194da8f1e5ee7b8b9de9ba9e}
+      \strng{authorbibnamehash}{5ecd2343194da8f1e5ee7b8b9de9ba9e}
+      \strng{authornamehash}{5ecd2343194da8f1e5ee7b8b9de9ba9e}
+      \strng{authorfullhash}{5ecd2343194da8f1e5ee7b8b9de9ba9e}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{5}
+      \field{journaltitle}{Tagesspiegel Background}
+      \field{month}{5}
+      \field{title}{Autobauer brauchen präventive Stresstests}
+      \field{year}{2022}
+      \field{dateera}{ce}
+    \endentry
+    \entry{moser_zeitenwende_2022}{article}{}
+      \name{author}{1}{}{%
+        {{hash=9b785c2161177c08ae760588841ec633}{%
+           family={Moser},
+           familyi={M\bibinitperiod},
+           given={Carolyn},
+           giveni={C\bibinitperiod}}}%
+      }
+      \strng{namehash}{9b785c2161177c08ae760588841ec633}
+      \strng{fullhash}{9b785c2161177c08ae760588841ec633}
+      \strng{bibnamehash}{9b785c2161177c08ae760588841ec633}
+      \strng{authorbibnamehash}{9b785c2161177c08ae760588841ec633}
+      \strng{authornamehash}{9b785c2161177c08ae760588841ec633}
+      \strng{authorfullhash}{9b785c2161177c08ae760588841ec633}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Zeitschrift für ausländisches öffentliches Recht und Völkerrecht / Heidelberg Journal of International Law}
+      \field{number}{4}
+      \field{title}{Die Zeitenwende: viel Zeit, wenig Wende?}
+      \field{volume}{82}
+      \field{year}{2022}
+      \field{dateera}{ce}
+      \field{pages}{741\bibrangedash 756}
+      \range{pages}{16}
+    \endentry
+    \entry{muller_reform_2023}{incollection}{}
+      \name{author}{1}{}{%
+        {{hash=c0e5bd4e41c1dd4fc4a2a6995708d7a8}{%
+           family={Müller},
+           familyi={M\bibinitperiod},
+           given={Melanie},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Stiftung Wissenschaft und Politik}%
+      }
+      \strng{namehash}{c0e5bd4e41c1dd4fc4a2a6995708d7a8}
+      \strng{fullhash}{c0e5bd4e41c1dd4fc4a2a6995708d7a8}
+      \strng{bibnamehash}{c0e5bd4e41c1dd4fc4a2a6995708d7a8}
+      \strng{authorbibnamehash}{c0e5bd4e41c1dd4fc4a2a6995708d7a8}
+      \strng{authornamehash}{c0e5bd4e41c1dd4fc4a2a6995708d7a8}
+      \strng{authorfullhash}{c0e5bd4e41c1dd4fc4a2a6995708d7a8}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Auf Partnersuche: neue Allianzen im Rohstoffsektor}
+      \field{series}{360 Grad}
+      \field{title}{Reform deutscher Rohstoffkooperationen}
+      \field{year}{2023}
+      \field{dateera}{ce}
+    \endentry
+    \entry{nowrot_bilaterale_2013}{incollection}{}
+      \name{author}{1}{}{%
+        {{hash=087c62af2c2e58e8191048a7e7416ee2}{%
+           family={Nowrot},
+           familyi={N\bibinitperiod},
+           given={Karsten},
+           giveni={K\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Martin-Luther-Universität Halle-Wittenberg}%
+      }
+      \strng{namehash}{087c62af2c2e58e8191048a7e7416ee2}
+      \strng{fullhash}{087c62af2c2e58e8191048a7e7416ee2}
+      \strng{bibnamehash}{087c62af2c2e58e8191048a7e7416ee2}
+      \strng{authorbibnamehash}{087c62af2c2e58e8191048a7e7416ee2}
+      \strng{authornamehash}{087c62af2c2e58e8191048a7e7416ee2}
+      \strng{authorfullhash}{087c62af2c2e58e8191048a7e7416ee2}
+      \field{extraname}{1}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{number}{128}
+      \field{series}{Beiträge zum Transnationalen Wirtschaftsrecht}
+      \field{title}{Bilaterale Rohstoffpartnerschaften. Betrachtungen zu einem neuen Steuerungsinstrument aus der Perspektive des Europa- und Völkerrechts}
+      \field{year}{2013}
+      \field{dateera}{ce}
+    \endentry
+    \entry{nowrot_menschenrechtliche_2022}{article}{}
+      \name{author}{1}{}{%
+        {{hash=087c62af2c2e58e8191048a7e7416ee2}{%
+           family={Nowrot},
+           familyi={N\bibinitperiod},
+           given={Karsten},
+           giveni={K\bibinitperiod}}}%
+      }
+      \strng{namehash}{087c62af2c2e58e8191048a7e7416ee2}
+      \strng{fullhash}{087c62af2c2e58e8191048a7e7416ee2}
+      \strng{bibnamehash}{087c62af2c2e58e8191048a7e7416ee2}
+      \strng{authorbibnamehash}{087c62af2c2e58e8191048a7e7416ee2}
+      \strng{authornamehash}{087c62af2c2e58e8191048a7e7416ee2}
+      \strng{authorfullhash}{087c62af2c2e58e8191048a7e7416ee2}
+      \field{extraname}{2}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{{ZEuS} Zeitschrift für Europarechtliche Studien}
+      \field{number}{2}
+      \field{title}{Menschenrechtliche Unternehmensverantwortung in der Lieferkette im internationalen Rohstoffrecht: Prozesse der Versicherheitlichung als Motor innovativer und global konsensfähiger Rechtsentwicklungen?}
+      \field{volume}{25}
+      \field{year}{2022}
+      \field{dateera}{ce}
+      \field{pages}{287\bibrangedash 318}
+      \range{pages}{32}
+    \endentry
+    \entry{nowrot_rohstoffhandel_2016}{incollection}{}
+      \name{author}{1}{}{%
+        {{hash=087c62af2c2e58e8191048a7e7416ee2}{%
+           family={Nowrot},
+           familyi={N\bibinitperiod},
+           given={Karsten},
+           giveni={K\bibinitperiod}}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=45b5dce9fc01fa2cfe93428f510e1d38}{%
+           family={Bungenberg},
+           familyi={B\bibinitperiod},
+           given={Marc},
+           giveni={M\bibinitperiod}}}%
+        {{hash=6d9db3a478533a1069dff868dc8601da}{%
+           family={Herrmann},
+           familyi={H\bibinitperiod},
+           given={Christoph},
+           giveni={C\bibinitperiod}}}%
+      }
+      \strng{namehash}{087c62af2c2e58e8191048a7e7416ee2}
+      \strng{fullhash}{087c62af2c2e58e8191048a7e7416ee2}
+      \strng{bibnamehash}{087c62af2c2e58e8191048a7e7416ee2}
+      \strng{authorbibnamehash}{087c62af2c2e58e8191048a7e7416ee2}
+      \strng{authornamehash}{087c62af2c2e58e8191048a7e7416ee2}
+      \strng{authorfullhash}{087c62af2c2e58e8191048a7e7416ee2}
+      \strng{editorbibnamehash}{7d5eb978b29c84263d1f5f0969cf3f1e}
+      \strng{editornamehash}{7d5eb978b29c84263d1f5f0969cf3f1e}
+      \strng{editorfullhash}{7d5eb978b29c84263d1f5f0969cf3f1e}
+      \field{extraname}{3}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Die gemeinsame Handelspolitik der Europäischen Union}
+      \field{title}{Rohstoffhandel und Good Governance}
+      \field{volume}{93}
+      \field{year}{2016}
+      \field{dateera}{ce}
+      \field{pages}{217\bibrangedash 253}
+      \range{pages}{37}
+    \endentry
+    \entry{oehl_sustainable_2022}{book}{}
+      \name{author}{1}{}{%
+        {{hash=bb54f3efb78d55db8425e0fb0716f4cf}{%
+           family={Oehl},
+           familyi={O\bibinitperiod},
+           given={Maximilian},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer International}%
+      }
+      \strng{namehash}{bb54f3efb78d55db8425e0fb0716f4cf}
+      \strng{fullhash}{bb54f3efb78d55db8425e0fb0716f4cf}
+      \strng{bibnamehash}{bb54f3efb78d55db8425e0fb0716f4cf}
+      \strng{authorbibnamehash}{bb54f3efb78d55db8425e0fb0716f4cf}
+      \strng{authornamehash}{bb54f3efb78d55db8425e0fb0716f4cf}
+      \strng{authorfullhash}{bb54f3efb78d55db8425e0fb0716f4cf}
+      \field{sortinit}{O}
+      \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{series}{European Yearbook of International Economic Law}
+      \field{title}{Sustainable Commodity Use}
+      \field{year}{2022}
+      \field{dateera}{ce}
+    \endentry
+    \entry{europaisches_parlament_securing_2023}{book}{}
+      \name{author}{1}{}{%
+        {{hash=45cd6a5af8acafcce44edc4a7e07f22b}{%
+           family={Parlament},
+           familyi={P\bibinitperiod},
+           given={Europäisches},
+           giveni={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{45cd6a5af8acafcce44edc4a7e07f22b}
+      \strng{fullhash}{45cd6a5af8acafcce44edc4a7e07f22b}
+      \strng{bibnamehash}{45cd6a5af8acafcce44edc4a7e07f22b}
+      \strng{authorbibnamehash}{45cd6a5af8acafcce44edc4a7e07f22b}
+      \strng{authornamehash}{45cd6a5af8acafcce44edc4a7e07f22b}
+      \strng{authorfullhash}{45cd6a5af8acafcce44edc4a7e07f22b}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{series}{Briefing}
+      \field{title}{Securing Europe's supply of critical raw materials. The material nature of the {EU}'s strategic goals}
+      \field{year}{2023}
+      \field{dateera}{ce}
+    \endentry
+    \entry{pavel_genehmigungsverfahren_2022}{book}{}
+      \name{author}{7}{}{%
+        {{hash=33574f40dbf3c0c5f4dbd527bcf3518a}{%
+           family={Pavel},
+           familyi={P\bibinitperiod},
+           given={Ferdinand},
+           giveni={F\bibinitperiod}}}%
+        {{hash=9a21befeb8dd87adbc6727cd5b02076e}{%
+           family={Knuth},
+           familyi={K\bibinitperiod},
+           given={Lars},
+           giveni={L\bibinitperiod}}}%
+        {{hash=9589e5bb020659b5861706c735e58101}{%
+           family={Bernstein},
+           familyi={B\bibinitperiod},
+           given={Maria},
+           giveni={M\bibinitperiod}}}%
+        {{hash=5c1ae44eee6f4e39b0caacc3b0567133}{%
+           family={Matheoschat},
+           familyi={M\bibinitperiod},
+           given={Maximilian},
+           giveni={M\bibinitperiod}}}%
+        {{hash=f6e0f2e3c5fb94e08d844c92ba6d6fd6}{%
+           family={Otto},
+           familyi={O\bibinitperiod},
+           given={Sven-Joachim},
+           giveni={S\bibinithyphendelim J\bibinitperiod}}}%
+        {{hash=981001590c07fba27a1169c71ffc5164}{%
+           family={Frenz},
+           familyi={F\bibinitperiod},
+           given={Walter},
+           giveni={W\bibinitperiod}}}%
+        {{hash=c79ecf4894b3ab865e0a2a554bb2f483}{%
+           family={Pielow},
+           familyi={P\bibinitperiod},
+           given={Johann-Christian},
+           giveni={J\bibinithyphendelim C\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Ernst \& Young {GmbH} Wirtschaftsprüfungsgesellschaft}%
+      }
+      \strng{namehash}{9ce4fae78cf223c8eb84be66c4bb191b}
+      \strng{fullhash}{ff19ff3e3f691056344599c35589eb80}
+      \strng{bibnamehash}{9ce4fae78cf223c8eb84be66c4bb191b}
+      \strng{authorbibnamehash}{9ce4fae78cf223c8eb84be66c4bb191b}
+      \strng{authornamehash}{9ce4fae78cf223c8eb84be66c4bb191b}
+      \strng{authorfullhash}{ff19ff3e3f691056344599c35589eb80}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{series}{Studie im Auftrag des Bundesministeriums für Wirtschaft und Klimaschutz ({BMWK})}
+      \field{title}{Genehmigungsverfahren zum Rohstofabbau in Deutschland}
+      \field{year}{2022}
+      \field{dateera}{ce}
+    \endentry
+    \entry{priebe_lithiumabbau_2023}{article}{}
+      \name{author}{2}{}{%
+        {{hash=1faf2e3a3f1766a9faf1d4e3a180acf4}{%
+           family={Priebe},
+           familyi={P\bibinitperiod},
+           given={Anna-Lena},
+           giveni={A\bibinithyphendelim L\bibinitperiod}}}%
+        {{hash=c0ebc2084376f2a8a1386218d940db21}{%
+           family={Eschweiler},
+           familyi={E\bibinitperiod},
+           given={Jana},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{85714536b4097f6607a366ecbf9f53ed}
+      \strng{fullhash}{85714536b4097f6607a366ecbf9f53ed}
+      \strng{bibnamehash}{85714536b4097f6607a366ecbf9f53ed}
+      \strng{authorbibnamehash}{85714536b4097f6607a366ecbf9f53ed}
+      \strng{authornamehash}{85714536b4097f6607a366ecbf9f53ed}
+      \strng{authorfullhash}{85714536b4097f6607a366ecbf9f53ed}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Klima und Recht}
+      \field{number}{9}
+      \field{shortjournal}{{KlimR}}
+      \field{title}{Lithiumabbau und sein Einfluss auf Menschenrechte und Umwelt – der europäische Rechtsrahmen}
+      \field{year}{2023}
+      \field{dateera}{ce}
+      \field{pages}{268\bibrangedash 273}
+      \range{pages}{6}
+    \endentry
+    \entry{proff_key_2023}{book}{}
+      \name{author}{4}{}{%
+        {{hash=b65844f8ebe2ef54fa3f979cb97b48d9}{%
+           family={Proff},
+           familyi={P\bibinitperiod},
+           given={Harald},
+           giveni={H\bibinitperiod}}}%
+        {{hash=36a63ef7818d81eb5a314a84f0474e40}{%
+           family={Zauner},
+           familyi={Z\bibinitperiod},
+           given={Nicolas},
+           giveni={N\bibinitperiod}}}%
+        {{hash=940ceb700a53666c42d1774b612f5173}{%
+           family={Schlueter},
+           familyi={S\bibinitperiod},
+           given={Benedikt},
+           giveni={B\bibinitperiod}}}%
+        {{hash=ab9682a2309e1406fc865cc2e41eb4a0}{%
+           family={Kunzler},
+           familyi={K\bibinitperiod},
+           given={Rolf},
+           giveni={R\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Deloitte}%
+      }
+      \strng{namehash}{6325d6be79cf3d79ae1ffb8409031aab}
+      \strng{fullhash}{4299810e5f526b78b01087ce761a4b2e}
+      \strng{bibnamehash}{6325d6be79cf3d79ae1ffb8409031aab}
+      \strng{authorbibnamehash}{6325d6be79cf3d79ae1ffb8409031aab}
+      \strng{authornamehash}{6325d6be79cf3d79ae1ffb8409031aab}
+      \strng{authorfullhash}{4299810e5f526b78b01087ce761a4b2e}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The key of battery cost in Automotive}
+      \field{year}{2023}
+      \field{dateera}{ce}
+    \endentry
+    \entry{puls_geschaftsmodell_2021}{article}{}
+      \name{author}{1}{}{%
+        {{hash=4c12af43dd3e633de6f01018644b2a94}{%
+           family={Puls},
+           familyi={P\bibinitperiod},
+           given={Thomas},
+           giveni={T\bibinitperiod}}}%
+      }
+      \strng{namehash}{4c12af43dd3e633de6f01018644b2a94}
+      \strng{fullhash}{4c12af43dd3e633de6f01018644b2a94}
+      \strng{bibnamehash}{4c12af43dd3e633de6f01018644b2a94}
+      \strng{authorbibnamehash}{4c12af43dd3e633de6f01018644b2a94}
+      \strng{authornamehash}{4c12af43dd3e633de6f01018644b2a94}
+      \strng{authorfullhash}{4c12af43dd3e633de6f01018644b2a94}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{ifo Schnelldienst}
+      \field{number}{5}
+      \field{title}{Das Geschäftsmodell der deutschen Autohersteller und der Strukturwandel}
+      \field{volume}{74}
+      \field{year}{2021}
+      \field{dateera}{ce}
+      \field{pages}{3\bibrangedash 6}
+      \range{pages}{4}
+    \endentry
+    \entry{reh_quellen-_1995}{incollection}{}
+      \name{author}{1}{}{%
+        {{hash=d1cb8307a2061f000db98a6ec9793a82}{%
+           family={Reh},
+           familyi={R\bibinitperiod},
+           given={Werner},
+           giveni={W\bibinitperiod}}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=489e4d7a37ac02f5a781d7bda9306477}{%
+           family={Alemann},
+           familyi={A\bibinitperiod},
+           given={Ulrich},
+           giveni={U\bibinitperiod},
+           prefix={von},
+           prefixi={v\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Wiesbaden}%
+      }
+      \list{publisher}{1}{%
+        {{VS} Verlag für Sozialwissenschaften}%
+      }
+      \strng{namehash}{d1cb8307a2061f000db98a6ec9793a82}
+      \strng{fullhash}{d1cb8307a2061f000db98a6ec9793a82}
+      \strng{bibnamehash}{d1cb8307a2061f000db98a6ec9793a82}
+      \strng{authorbibnamehash}{d1cb8307a2061f000db98a6ec9793a82}
+      \strng{authornamehash}{d1cb8307a2061f000db98a6ec9793a82}
+      \strng{authorfullhash}{d1cb8307a2061f000db98a6ec9793a82}
+      \strng{editorbibnamehash}{489e4d7a37ac02f5a781d7bda9306477}
+      \strng{editornamehash}{489e4d7a37ac02f5a781d7bda9306477}
+      \strng{editorfullhash}{489e4d7a37ac02f5a781d7bda9306477}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Politikwissenschaftliche Methoden: Grundriß für Studium und Forschung}
+      \field{title}{Quellen- und Dokumentenanalyse in der Politikfeldforschung: Wer steuert die Verkehrspolitik?}
+      \field{year}{1995}
+      \field{dateera}{ce}
+      \field{pages}{201\bibrangedash 259}
+      \range{pages}{59}
+    \endentry
+    \entry{ruttinger_deutschen_2016}{book}{}
+      \name{author}{4}{}{%
+        {{hash=fd8da7cbdd9cd47dc3e73fa134da1f26}{%
+           family={Rüttinger},
+           familyi={R\bibinitperiod},
+           given={Lukas},
+           giveni={L\bibinitperiod}}}%
+        {{hash=d8faca989a8efd52ca449493feb63b39}{%
+           family={Schüler},
+           familyi={S\bibinitperiod},
+           given={Fiona},
+           giveni={F\bibinitperiod}}}%
+        {{hash=c0feef5f677dbf35fbb8dc0d0c1b2325}{%
+           family={Scholl},
+           familyi={S\bibinitperiod},
+           given={Christine},
+           giveni={C\bibinitperiod}}}%
+        {{hash=4ef2cc6b58b0cf18c2be287481284f98}{%
+           family={Bach},
+           familyi={B\bibinitperiod},
+           given={Anna},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Umweltbundesamt}%
+      }
+      \strng{namehash}{86596d6c1acd5304bd52359834c52a97}
+      \strng{fullhash}{23b26ad587bb9e771c63caba47041a36}
+      \strng{bibnamehash}{86596d6c1acd5304bd52359834c52a97}
+      \strng{authorbibnamehash}{86596d6c1acd5304bd52359834c52a97}
+      \strng{authornamehash}{86596d6c1acd5304bd52359834c52a97}
+      \strng{authorfullhash}{23b26ad587bb9e771c63caba47041a36}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{number}{6}
+      \field{series}{{RohPolRess}-Kurzanalyse}
+      \field{title}{Die deutschen Rohstoffpartnerschaften. Analyse der Umsetzung und Ausblick}
+      \field{year}{2016}
+      \field{dateera}{ce}
+    \endentry
+    \entry{sauga_klub_2023}{article}{}
+      \name{author}{1}{}{%
+        {{hash=8cd68e0b69c936bfefb3cca8a5912ea8}{%
+           family={Sauga},
+           familyi={S\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{8cd68e0b69c936bfefb3cca8a5912ea8}
+      \strng{fullhash}{8cd68e0b69c936bfefb3cca8a5912ea8}
+      \strng{bibnamehash}{8cd68e0b69c936bfefb3cca8a5912ea8}
+      \strng{authorbibnamehash}{8cd68e0b69c936bfefb3cca8a5912ea8}
+      \strng{authornamehash}{8cd68e0b69c936bfefb3cca8a5912ea8}
+      \strng{authorfullhash}{8cd68e0b69c936bfefb3cca8a5912ea8}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{29}
+      \field{edition}{18}
+      \field{journaltitle}{Der Spiegel}
+      \field{month}{4}
+      \field{title}{Ein Klub gegen China}
+      \field{year}{2023}
+      \field{dateera}{ce}
+      \field{pages}{61}
+      \range{pages}{1}
+    \endentry
+    \entry{schelewsky_vulnerabilitat_2017}{article}{}
+      \name{author}{2}{}{%
+        {{hash=e94463e8ba2be299685c985aa02930ad}{%
+           family={Schelewsky},
+           familyi={S\bibinitperiod},
+           given={Marc},
+           giveni={M\bibinitperiod}}}%
+        {{hash=0f702271cd71ef97cb7c5f3af320674b}{%
+           family={Canzler},
+           familyi={C\bibinitperiod},
+           given={Weert},
+           giveni={W\bibinitperiod}}}%
+      }
+      \strng{namehash}{eafad71b2b0090d7c716c1c418f9a206}
+      \strng{fullhash}{eafad71b2b0090d7c716c1c418f9a206}
+      \strng{bibnamehash}{eafad71b2b0090d7c716c1c418f9a206}
+      \strng{authorbibnamehash}{eafad71b2b0090d7c716c1c418f9a206}
+      \strng{authornamehash}{eafad71b2b0090d7c716c1c418f9a206}
+      \strng{authorfullhash}{eafad71b2b0090d7c716c1c418f9a206}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Ökologisches Wirtschaften}
+      \field{number}{32}
+      \field{title}{Vulnerabilität und Resilienz im Verkehrssektor Autor/innen Marc Schelewsky}
+      \field{volume}{4}
+      \field{year}{2017}
+      \field{dateera}{ce}
+      \field{pages}{25\bibrangedash 26}
+      \range{pages}{2}
+    \endentry
+    \entry{schladebach_zur_2017}{incollection}{}
+      \name{author}{1}{}{%
+        {{hash=88b047b9435a4acdd836bcd6546a91ce}{%
+           family={Schladebach},
+           familyi={S\bibinitperiod},
+           given={Marcus},
+           giveni={M\bibinitperiod}}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=6b5f7a7f587c6dc874b78ec9eb07c776}{%
+           family={Lorenzmeier},
+           familyi={L\bibinitperiod},
+           given={Stefan},
+           giveni={S\bibinitperiod}}}%
+        {{hash=0c6a097367a92937612a2e89b6ebf1e7}{%
+           family={Folz},
+           familyi={F\bibinitperiod},
+           given={Hans-Peter},
+           giveni={H\bibinithyphendelim P\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Nomos}%
+      }
+      \strng{namehash}{88b047b9435a4acdd836bcd6546a91ce}
+      \strng{fullhash}{88b047b9435a4acdd836bcd6546a91ce}
+      \strng{bibnamehash}{88b047b9435a4acdd836bcd6546a91ce}
+      \strng{authorbibnamehash}{88b047b9435a4acdd836bcd6546a91ce}
+      \strng{authornamehash}{88b047b9435a4acdd836bcd6546a91ce}
+      \strng{authorfullhash}{88b047b9435a4acdd836bcd6546a91ce}
+      \strng{editorbibnamehash}{c36392b6d93b5eb46e8ff061eaf5671f}
+      \strng{editornamehash}{c36392b6d93b5eb46e8ff061eaf5671f}
+      \strng{editorfullhash}{c36392b6d93b5eb46e8ff061eaf5671f}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Recht und Realität. Festschrift für Christoph Vedder}
+      \field{title}{Zur Renaissance des Rohstoffvölkerrechts}
+      \field{year}{2017}
+      \field{dateera}{ce}
+      \field{pages}{593\bibrangedash 612}
+      \range{pages}{20}
+    \endentry
+    \entry{schmidt_theorie_2019}{incollection}{}
+      \name{author}{1}{}{%
+        {{hash=38fb32d06f94fdeaa3cb7029d77d9069}{%
+           family={Schmidt},
+           familyi={S\bibinitperiod},
+           given={André},
+           giveni={A\bibinitperiod}}}%
+      }
+      \name{editor}{6}{}{%
+        {{hash=c07253b40ed733a4c774b9a074b0910b}{%
+           family={Apolte},
+           familyi={A\bibinitperiod},
+           given={Thomas},
+           giveni={T\bibinitperiod}}}%
+        {{hash=2b04753e16c786c1122e91f7dc0e7bb7}{%
+           family={Erlei},
+           familyi={E\bibinitperiod},
+           given={Mathias},
+           giveni={M\bibinitperiod}}}%
+        {{hash=9070f30dbc42bdf61542543b4f0f6e3d}{%
+           family={Göcke},
+           familyi={G\bibinitperiod},
+           given={Matthias},
+           giveni={M\bibinitperiod}}}%
+        {{hash=7d8e401c6f304466f164f8fa5814d865}{%
+           family={Menges},
+           familyi={M\bibinitperiod},
+           given={Roland},
+           giveni={R\bibinitperiod}}}%
+        {{hash=83f294e24db12e5b7aeeca2247ce7a8e}{%
+           family={Ott},
+           familyi={O\bibinitperiod},
+           given={Notburga},
+           giveni={N\bibinitperiod}}}%
+        {{hash=38fb32d06f94fdeaa3cb7029d77d9069}{%
+           family={Schmidt},
+           familyi={S\bibinitperiod},
+           given={André},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Wiesbaden}%
+      }
+      \list{publisher}{1}{%
+        {Springer Fachmedien Wiesbaden}%
+      }
+      \strng{namehash}{38fb32d06f94fdeaa3cb7029d77d9069}
+      \strng{fullhash}{38fb32d06f94fdeaa3cb7029d77d9069}
+      \strng{bibnamehash}{38fb32d06f94fdeaa3cb7029d77d9069}
+      \strng{authorbibnamehash}{38fb32d06f94fdeaa3cb7029d77d9069}
+      \strng{authornamehash}{38fb32d06f94fdeaa3cb7029d77d9069}
+      \strng{authorfullhash}{38fb32d06f94fdeaa3cb7029d77d9069}
+      \strng{editorbibnamehash}{01d1683a9c16fbe05c65b734b1d88429}
+      \strng{editornamehash}{01d1683a9c16fbe05c65b734b1d88429}
+      \strng{editorfullhash}{dfea79085e73466a42d90c67305bbe1f}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Kompendium der Wirtschaftstheorie und Wirtschaftspolitik {III} : Wirtschaftspolitik}
+      \field{title}{Theorie der Wirtschaftspolitik}
+      \field{year}{2019}
+      \field{dateera}{ce}
+      \field{pages}{1\bibrangedash 114}
+      \range{pages}{114}
+    \endentry
+    \entry{schorkopf_internationale_2008}{article}{}
+      \name{author}{1}{}{%
+        {{hash=69e4d7aaf0a50cec51a34ce1ec416cad}{%
+           family={Schorkopf},
+           familyi={S\bibinitperiod},
+           given={Frank},
+           giveni={F\bibinitperiod}}}%
+      }
+      \strng{namehash}{69e4d7aaf0a50cec51a34ce1ec416cad}
+      \strng{fullhash}{69e4d7aaf0a50cec51a34ce1ec416cad}
+      \strng{bibnamehash}{69e4d7aaf0a50cec51a34ce1ec416cad}
+      \strng{authorbibnamehash}{69e4d7aaf0a50cec51a34ce1ec416cad}
+      \strng{authornamehash}{69e4d7aaf0a50cec51a34ce1ec416cad}
+      \strng{authorfullhash}{69e4d7aaf0a50cec51a34ce1ec416cad}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1868-7121}
+      \field{issue}{- 2}
+      \field{journaltitle}{Treatises}
+      \field{note}{Publisher: Mohr Siebeck}
+      \field{title}{Internationale Rohstoffverwaltung zwischen Lenkung und Markt}
+      \field{volume}{46}
+      \field{year}{2008}
+      \field{dateera}{ce}
+      \field{pages}{233\bibrangedash 258}
+      \range{pages}{26}
+    \endentry
+    \entry{schraven_internationale_1982}{book}{}
+      \name{author}{1}{}{%
+        {{hash=3351c7ed59892c78af6348611e84db76}{%
+           family={Schraven},
+           familyi={S\bibinitperiod},
+           given={Josef},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Deutsche Universität für Verwaltungswissenschaften Speyer}%
+      }
+      \strng{namehash}{3351c7ed59892c78af6348611e84db76}
+      \strng{fullhash}{3351c7ed59892c78af6348611e84db76}
+      \strng{bibnamehash}{3351c7ed59892c78af6348611e84db76}
+      \strng{authorbibnamehash}{3351c7ed59892c78af6348611e84db76}
+      \strng{authornamehash}{3351c7ed59892c78af6348611e84db76}
+      \strng{authorfullhash}{3351c7ed59892c78af6348611e84db76}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{number}{Bd. 89}
+      \field{series}{Schriftenreihe der Deutschen Universität für Verwaltungswissenschaften Speyer}
+      \field{title}{Internationale und supranationale Rohstoffverwaltung}
+      \field{year}{1982}
+      \field{dateera}{ce}
+    \endentry
+    \entry{u_s_geological_survey_final_2022}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=fc2fc4ad877fbdaf88ac88216dc859db}{%
+           family={Survey},
+           familyi={S\bibinitperiod},
+           given={U.\bibnamedelimi S.\bibnamedelimi Geological},
+           giveni={U\bibinitperiod\bibinitdelim S\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+      }
+      \strng{namehash}{fc2fc4ad877fbdaf88ac88216dc859db}
+      \strng{fullhash}{fc2fc4ad877fbdaf88ac88216dc859db}
+      \strng{bibnamehash}{fc2fc4ad877fbdaf88ac88216dc859db}
+      \strng{authorbibnamehash}{fc2fc4ad877fbdaf88ac88216dc859db}
+      \strng{authornamehash}{fc2fc4ad877fbdaf88ac88216dc859db}
+      \strng{authorfullhash}{fc2fc4ad877fbdaf88ac88216dc859db}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Final List of Critical Minerals}
+      \field{year}{2022}
+      \field{dateera}{ce}
+      \verb{urlraw}
+      \verb 87 FR 10381
+      \endverb
+      \verb{url}
+      \verb 87%20FR%2010381
+      \endverb
+    \endentry
+    \entry{terhechte_falle_2012}{article}{}
+      \name{author}{1}{}{%
+        {{hash=98a0753371fc8f1086d60e9b1f2ac6a9}{%
+           family={Terhechte},
+           familyi={T\bibinitperiod},
+           given={Jörg\bibnamedelima Philipp},
+           giveni={J\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+      }
+      \strng{namehash}{98a0753371fc8f1086d60e9b1f2ac6a9}
+      \strng{fullhash}{98a0753371fc8f1086d60e9b1f2ac6a9}
+      \strng{bibnamehash}{98a0753371fc8f1086d60e9b1f2ac6a9}
+      \strng{authorbibnamehash}{98a0753371fc8f1086d60e9b1f2ac6a9}
+      \strng{authornamehash}{98a0753371fc8f1086d60e9b1f2ac6a9}
+      \strng{authorfullhash}{98a0753371fc8f1086d60e9b1f2ac6a9}
+      \field{extraname}{1}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{27}
+      \field{journaltitle}{Frankfurter Allgemeine Zeitung}
+      \field{month}{12}
+      \field{title}{In der Falle? Es droht eine Abschottung des Rechts – Europäische Rechtsgebiete wie das Rohstoffrecht verlangen eine Neupositionierung der Wissenschaft}
+      \field{year}{2012}
+      \field{dateera}{ce}
+      \field{pages}{12}
+      \range{pages}{1}
+    \endentry
+    \entry{terhechte_konsolidierung_2015}{inbook}{}
+      \name{author}{1}{}{%
+        {{hash=98a0753371fc8f1086d60e9b1f2ac6a9}{%
+           family={Terhechte},
+           familyi={T\bibinitperiod},
+           given={Jörg\bibnamedelima Philipp},
+           giveni={J\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+      }
+      \name{bookauthor}{1}{}{%
+        {{hash=cf4f84916af064972638d965ea3768d2}{%
+           family={Nowak},
+           familyi={N\bibinitperiod},
+           given={Carsten},
+           giveni={C\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Nomos}%
+      }
+      \strng{namehash}{98a0753371fc8f1086d60e9b1f2ac6a9}
+      \strng{fullhash}{98a0753371fc8f1086d60e9b1f2ac6a9}
+      \strng{bibnamehash}{98a0753371fc8f1086d60e9b1f2ac6a9}
+      \strng{authorbibnamehash}{98a0753371fc8f1086d60e9b1f2ac6a9}
+      \strng{authornamehash}{98a0753371fc8f1086d60e9b1f2ac6a9}
+      \strng{authorfullhash}{98a0753371fc8f1086d60e9b1f2ac6a9}
+      \strng{bookauthorbibnamehash}{cf4f84916af064972638d965ea3768d2}
+      \strng{bookauthornamehash}{cf4f84916af064972638d965ea3768d2}
+      \strng{bookauthorfullhash}{cf4f84916af064972638d965ea3768d2}
+      \field{extraname}{2}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Konsolidierung und Entwicklungsperspektiven des Europäischen Umweltrechts}
+      \field{title}{Konsolidierung oder Emergenz? – Impulse des Lissabonner Vertrags für ein europäisches Rohstoffrecht}
+      \field{year}{2015}
+      \field{dateera}{ce}
+      \field{pages}{357\bibrangedash 386}
+      \range{pages}{30}
+    \endentry
+    \entry{thielmann_batterien_2020}{book}{}
+      \name{author}{13}{}{%
+        {{hash=700a268f73ce1c6f84df01c4a8ef7eeb}{%
+           family={Thielmann},
+           familyi={T\bibinitperiod},
+           given={Axel},
+           giveni={A\bibinitperiod}}}%
+        {{hash=fe0bc959d1a336d47a9beb92d4cdfbd2}{%
+           family={Wietschel},
+           familyi={W\bibinitperiod},
+           given={Martin},
+           giveni={M\bibinitperiod}}}%
+        {{hash=d89d2da990f41eb63534060621e0d0a0}{%
+           family={Funke},
+           familyi={F\bibinitperiod},
+           given={Simon},
+           giveni={S\bibinitperiod}}}%
+        {{hash=adb2a9867b4fcb634e714aa8cd728774}{%
+           family={Grimm},
+           familyi={G\bibinitperiod},
+           given={Anna},
+           giveni={A\bibinitperiod}}}%
+        {{hash=08cac22daf1c4ef22d30fe3b5235b2ac}{%
+           family={Hettesheimer},
+           familyi={H\bibinitperiod},
+           given={Tim},
+           giveni={T\bibinitperiod}}}%
+        {{hash=015c5466e97862684d018f8e5435eec9}{%
+           family={Langkau},
+           familyi={L\bibinitperiod},
+           given={Sabine},
+           giveni={S\bibinitperiod}}}%
+        {{hash=19fa0a6e25b78d2560346640e7cf6602}{%
+           family={Loibl},
+           familyi={L\bibinitperiod},
+           given={Antonia},
+           giveni={A\bibinitperiod}}}%
+        {{hash=ef7aaab871fc92ee65222e3c781c89bc}{%
+           family={Moll},
+           familyi={M\bibinitperiod},
+           given={Cornelius},
+           giveni={C\bibinitperiod}}}%
+        {{hash=d0bc50e2c58849e529a74690fc93d66c}{%
+           family={Neef},
+           familyi={N\bibinitperiod},
+           given={Christoph},
+           giveni={C\bibinitperiod}}}%
+        {{hash=c0788521b0c2e5c1e078a0ae813bc93d}{%
+           family={Plötz},
+           familyi={P\bibinitperiod},
+           given={Patrick},
+           giveni={P\bibinitperiod}}}%
+        {{hash=a4a1b690a6df2dcc5c922df75590328c}{%
+           family={Sievers},
+           familyi={S\bibinitperiod},
+           given={Luisa},
+           giveni={L\bibinitperiod}}}%
+        {{hash=46adc04d8d2802590468aa67b9a26579}{%
+           family={Tercero\bibnamedelima Espinoza},
+           familyi={T\bibinitperiod\bibinitdelim E\bibinitperiod},
+           given={Luis},
+           giveni={L\bibinitperiod}}}%
+        {{hash=5d4a61fed534717a07d8f4eaa92dc25c}{%
+           family={Edler},
+           familyi={E\bibinitperiod},
+           given={Jakob},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Fraunhofer {ISI}}%
+      }
+      \strng{namehash}{243124982d2f3f77dd606ebc4e0eeacd}
+      \strng{fullhash}{7dd61d5cd61acc15cdcaa3272fead01d}
+      \strng{bibnamehash}{243124982d2f3f77dd606ebc4e0eeacd}
+      \strng{authorbibnamehash}{243124982d2f3f77dd606ebc4e0eeacd}
+      \strng{authornamehash}{243124982d2f3f77dd606ebc4e0eeacd}
+      \strng{authorfullhash}{7dd61d5cd61acc15cdcaa3272fead01d}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Batterien für Elektroautos: Faktencheck und Handlungsbedarf}
+      \field{year}{2020}
+      \field{dateera}{ce}
+    \endentry
+    \entry{bundesministerium_fur_wirtschaft_und_klimaschutz_bmwk_batterien_2020}{article}{}
+      \name{author}{1}{}{%
+        {{hash=56e54fbaa32a31bd8f29ebd5206f316a}{%
+           family={Wirtschaft\bibnamedelimb und\bibnamedelimb Klimaschutz\bibnamedelima ({BMWK})},
+           familyi={W\bibinitperiod\bibinitdelim u\bibinitperiod\bibinitdelim K\bibinitperiod\bibinitdelim (\bibinitperiod},
+           given={Bundesministerium},
+           giveni={B\bibinitperiod},
+           prefix={für},
+           prefixi={f\bibinitperiod}}}%
+      }
+      \strng{namehash}{56e54fbaa32a31bd8f29ebd5206f316a}
+      \strng{fullhash}{56e54fbaa32a31bd8f29ebd5206f316a}
+      \strng{bibnamehash}{56e54fbaa32a31bd8f29ebd5206f316a}
+      \strng{authorbibnamehash}{56e54fbaa32a31bd8f29ebd5206f316a}
+      \strng{authornamehash}{56e54fbaa32a31bd8f29ebd5206f316a}
+      \strng{authorfullhash}{56e54fbaa32a31bd8f29ebd5206f316a}
+      \field{extraname}{1}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Batterien für die Mobilität von morgen}
+      \field{urlday}{20}
+      \field{urlmonth}{12}
+      \field{urlyear}{2023}
+      \field{year}{2020}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.bmwk.de/Redaktion/DE/Artikel/Industrie/batteriezellfertigung.html
+      \endverb
+      \verb{url}
+      \verb https://www.bmwk.de/Redaktion/DE/Artikel/Industrie/batteriezellfertigung.html
+      \endverb
+    \endentry
+    \entry{bundesministerium_fur_wirtschaft_und_klimaschutz_bmwk_industriepolitik_2023}{book}{}
+      \name{author}{1}{}{%
+        {{hash=56e54fbaa32a31bd8f29ebd5206f316a}{%
+           family={Wirtschaft\bibnamedelimb und\bibnamedelimb Klimaschutz\bibnamedelima ({BMWK})},
+           familyi={W\bibinitperiod\bibinitdelim u\bibinitperiod\bibinitdelim K\bibinitperiod\bibinitdelim (\bibinitperiod},
+           given={Bundesministerium},
+           giveni={B\bibinitperiod},
+           prefix={für},
+           prefixi={f\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Öffentlichkeitsarbeit}%
+      }
+      \strng{namehash}{56e54fbaa32a31bd8f29ebd5206f316a}
+      \strng{fullhash}{56e54fbaa32a31bd8f29ebd5206f316a}
+      \strng{bibnamehash}{56e54fbaa32a31bd8f29ebd5206f316a}
+      \strng{authorbibnamehash}{56e54fbaa32a31bd8f29ebd5206f316a}
+      \strng{authornamehash}{56e54fbaa32a31bd8f29ebd5206f316a}
+      \strng{authorfullhash}{56e54fbaa32a31bd8f29ebd5206f316a}
+      \field{extraname}{2}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Industriepolitik in der Zeitenwende}
+      \field{year}{2023}
+      \field{dateera}{ce}
+    \endentry
+    \entry{zeisberg_rohstoffvolkerrecht_2021}{book}{}
+      \name{author}{1}{}{%
+        {{hash=ead9ac62fa2e0c25692edd2dc536516a}{%
+           family={Zeisberg},
+           familyi={Z\bibinitperiod},
+           given={Marie-Christine},
+           giveni={M\bibinithyphendelim C\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Nomos}%
+      }
+      \strng{namehash}{ead9ac62fa2e0c25692edd2dc536516a}
+      \strng{fullhash}{ead9ac62fa2e0c25692edd2dc536516a}
+      \strng{bibnamehash}{ead9ac62fa2e0c25692edd2dc536516a}
+      \strng{authorbibnamehash}{ead9ac62fa2e0c25692edd2dc536516a}
+      \strng{authornamehash}{ead9ac62fa2e0c25692edd2dc536516a}
+      \strng{authorfullhash}{ead9ac62fa2e0c25692edd2dc536516a}
+      \field{sortinit}{Z}
+      \field{sortinithash}{96892c0b0a36bb8557c40c49813d48b3}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{number}{32}
+      \field{series}{Studien zu Internationalen Wirtschaftsrecht}
+      \field{title}{Ein Rohstoffvölkerrecht für das 21. Jahrhundert}
+      \field{year}{2021}
+      \field{dateera}{ce}
+    \endentry
+  \enddatalist
+  \missing{Rohstofferschließungsvorhaben in Entwicklungsländern}
+  \missing{[695-701]schaffer_ausenwirtschaftsrecht_2023}
+  \missing{frau}
+  \missing{frau 2023}
+  \missing{frau2023}
+\endrefsection
+\endinput
+

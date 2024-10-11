@@ -1,0 +1,135 @@
+\documentclass[12pt,a4paper,oneside]{book} % 'oneside' für einseitigen Druck
+
+% Kodierung, Sprache und Schrift
+\usepackage[utf8]{inputenc} % Erlaubt die Verwendung von Umlauten
+\usepackage[T1]{fontenc} % Bessere Schriftkodierung
+\usepackage[ngerman]{babel} % Deutsche Lokalisierung
+
+% Schriftarten
+\usepackage{lmodern} % Modernere Schriftart, gut für Skalierbarkeit und Lesbarkeit
+
+% Für Abbildungen
+\usepackage{graphicx}
+\graphicspath{{bilder/}} % Verzeichnis, in dem Bilder gespeichert sind
+
+% Für Tabellen
+\usepackage{booktabs}
+
+% Für Links und PDF-Metadaten
+\usepackage[hidelinks]{hyperref}
+\hypersetup{
+	pdftitle={Titel der Dissertation},
+	pdfauthor={Autor},
+	pdfsubject={Doktorarbeit in den Sozial- und Rechtswissenschaften},
+	pdfkeywords={Schlüsselwörter},
+}
+
+% Für Bibliographie - Anpassung für Geisteswissenschaften
+%%\usepackage[style=authoryear-icomp,backend=biber]{biblatex}
+%%\usepackage[backend=biber, style=authoryear-icomp]{biblatex}
+%%\usepackage[backend=biber, style=verbose-trad1]{biblatex}
+\usepackage[backend=biber, style=verbose-inote]{biblatex}
+%%\usepackage{biblatex}
+\addbibresource{literatur.bib} % Name der BibTeX-Datei
+\DeclareNameAlias{author}{family-given} % Nachname des Autors zuerst
+
+% Anpassung der Nummerierung mit Punkten
+\renewcommand{\thechapter}{\arabic{chapter}.} % Kapitel: 1., 2., 3., ...
+\renewcommand{\thesection}{\Alph{section}.} % Abschnitt: A., B., C., ...
+\renewcommand{\thesubsection}{\Roman{subsection}.} % Unterabschnitt: I., II., III., ...
+\renewcommand{\thesubsubsection}{\arabic{subsubsection}.} % Unterunterabschnitt: 1., 2., 3., ...
+\renewcommand{\theparagraph}{\alph{paragraph}.} % Absatz: a., b., c., ...
+
+
+% Für Fußnoten
+%%\usepackage[bottom]{footmisc} % Fußnoten am Seitenende
+
+
+% Anpassung der Kapitelüberschriften
+%\usepackage{titlesec}
+%\titleformat{\chapter}[hang]{\Huge\bfseries}{\thechapter\quad}{0pt}{\Huge\bfseries}
+
+% Abstand der Fußnoten
+\setlength{\footnotesep}{0.5cm}
+
+% Tiefe der Nummerierung und des Inhaltsverzeichnisses
+\setcounter{secnumdepth}{4} % Nummerierungstiefe einstellen
+\setcounter{tocdepth}{4} % Inhaltsverzeichnistiefe einstellen
+
+% Abstand zwischen Absätzen und kein Einzug
+%\usepackage{parskip}
+%\setlength{\parskip}{0.5em}
+%\setlength{\parindent}{0pt}
+
+% Für Abkürzungsverzeichnis
+\usepackage[printonlyused]{acronym}
+
+% Für Zitate und Theoreme (falls benötigt)
+\usepackage{csquotes}
+
+% Für Gesetzestexte, Zitate und andere strukturierte Texte
+\usepackage{enumitem}
+
+% Zeilenabstand auf 1.3
+\usepackage{setspace}
+
+% Beginn des Dokuments
+\begin{document}
+	% Hier beginnt der eigentliche Inhalt der Arbeit
+	% ...
+	
+	
+	\chapter{Rohstoffe als Treibstoff der Industrie}
+	
+	Das folgende Kapitel dient zunächst der Erfassung der notwendigen Begriffsdefinitionen, der Einschätzung der Relevanz der Rohstoffversorgung und erwarteten -abhängigkeit des deutschen Automobilsektors, und schließlich der abschließenden Beurteilung der Ergebnisse.
+	
+	\section{Begriffsdefinitionen}
+	% Hier auf die unklare Definition von Rohstoff eingehen
+	% Auch erwähnen, das ein Rohstoff nicht unbedingt ein Mineral oÄ sein muss, sondern gerade im Automobilsektor auch ein Teil (Stoßstange oÄ) umfassen
+	% Unterschied Rohstoff und Ressource
+	
+	\subsection{Rohstoff}
+	
+	
+	\subsubsection{Das Merkmal der Kritikalität}
+	Wie auch beim übergeordneten Begriff des "Rohstoffs" existieren fürderhin auch keine allgemeingültige Definitionen oder generelle Kriterien für einen \textit{kritischen} Rohstoff. Im Bereich der EU-Verordnung zu kritischen Rohstoffen (s. dazu \ref{EU-Verordnung}) wird beispielsweise an das Versorgungsrisiko und ihre wirtschaftliche Bedeutung angeknüpft.
+	
+	\subsection{Rohstoffwirtschaft}
+	
+	\subsection{Rohstoffverwaltungsrecht}
+	
+	\subsection{Slowbalization}
+	Das Phänomen „Slowbalization”\footnote{\textit{alternativ Slowbalisation}} trat prominent auf dem Titelbild des „The Economist” zum Jahresbeginn 2019\autocite{economist_slowbalisation_2019} in Erscheinung, und beschreibt die zunehmende Verlangsamung oder Umgestaltung der bisherigen Trends der Globalisierung und des internationalen Handels, sodass die Wirtschaftsleistung schneller steigt als der globale Handel%für Fußnote:The Economist: The steam has gone out of globalisation. The Economist, 24. Januar 2019. https://www.economist.com/leaders/2019/01/24/the-steam-has-gone-out-of-globalisation. .\autocite{bibid} 
+	Die Slowbalization stellt eine bedeutende Herausforderung dar und wirkt sich auf verschiedene Wirtschaftszweige aus, darunter die Automobilindustrie in Deutschland. Bei dieser „Globalisierung im Rückwärtsgang“ ist insbesondere das deutsche Export- und Globalisierungsmodell betroffen, sodass eine „neue Wirtschaftspolitik“ erforderlich sei.\autocite{maier_globalisierung_2019} Auch gibt es Tendenzen hin zu einer De-Globalisierung – diese könne aber nicht im Interesse einer Automobilindustrie sein, die auf Diversifikation, Effizienz und Resilienz setze,\autocite{rade_globalisierung_2022} sodass Slowbalization als alternatives Konzept hier hervortritt. Insbesondere unter weltwirtschaftlichen Krisen wie die Covid-19-Pandemie hat die Thematik an Aufmerksamkeit gewonnen, sodass die akademische Auseinandersetzung insbesondere die Abgrenzung zwischen De-Globalisierung und Slowbalisierung fokussiert.\autocites{dalla_longa_urban_2023}{inferrera_globalisation_2021}
+	
+	
+	\subsection{Decoupling}
+	Decoupling, also die Entkopplung zweier oder mehrerer Handelsakteure, ist ein denkbares Szenario im Bereich der Handelspolitik – so beispielsweise beschrieben zwischen der EU und China.\autocite{fuest_geopolitische_2022} Decoupling steht in engem Bezug zur Begrifflichkeit Derisking. Insbesondere die Nutzung des Terminus Decoupling wird inzwischen, auch von deutscher Seite aus, vermieden, um stattdessen auf ein „entschärftes” Derisking zurückzugreifen\footnote{\textit{Siehe hierzu auch} Rede U. von der Leyens, Weltwirtschaftsforum Davos, 17. Januar 2023: „EU must seek to de-risk rather than decouple from China”.}, wobei inhaltlich derselbe Prozess gemeint ist. Es ist nicht eindeutig, wo der Begriff erstmalig in der öffentlichen Diskussion auftauchte, lässt sich jedoch auf die EU-Kommission und die deutsche Bundesregierung zurückführen.\autocite{kormbaki_wettstreit_2023} Eine direkte Entkopplung, also ein wortwörtliches Decoupling, scheint derzeit keine gangbare Alternative, wie auch vom Hohen Vertreter der Europäischen Union für Außen- und Sicherheitspolitik, Josep Borrell, beschrieben: Diese Möglichkeit werde nicht in Betracht gezogen, selbst eine gewollte Entkopplung sei nicht möglich.\autocite{europaischer_auswartiger_dienst_foreign_2023} Die Frage nach einem Decoupling stellt sich insbesondere in Bezug auf China. Neben der globalen Schlüsselposition hinsichtlich der eigenen Rohstoffreserven tritt China zunehmend auch als Rohstoffakteur im Ausland auf, verfolgt eine nationalistisch geprägte und vollkommen staatlich gesteuerte Rohstoffpolitik und verhindert privatwirtschaftliche Aktivität, die bereits vor fast zehn Jahren identifiziert wurde.\autocite{sausmikat_chinas_2015} China besitzt zudem die global größten Vorkommen an kritischen Materialien, die auch für die Fahrzeugbatterie- und Halbleiterproduktion vonnöten sind, insbesondere Lithium und andere Seltene Erden. Grundsätzlich sei der Ausweg aus der Importabhängigkeit die Erschließung neuer Lagerstätten und Recycling, zusätzlich verstärkt durch Änderung nationaler und multinationaler Strategien.\autocite{wissenschaftliche_dienste_des_deutschen_bundestages_seltene_2022}
+
+	
+	\subsection{Nearshoring}
+	Im allgemeinen wirtschaftlichen Verständnis bezeichnet Nearshoring zunächst eine Sonderform des Offshorings, in Form von Verlagerung von Produktion ins nahe Ausland.\autocite{bendel_nearshoring_2022} Der Begriff des Nearshorings ist auch als „Reshoring“ oder „Backshoring“ bekannt, bezeichnet jedoch stets die Rückverlagerung von Produktion aus vielfältigen Gründen in das Heimatland eines Betriebes, fast ausnahmslos bezieht sich dies jedoch auf die Staaten des sog. Globalen Nordens.\autocite{butollo_deglobalisierung_2022} Nearshoring beeinflusst also die Art und Weise, wie auch deutsche Automobilunternehmen Rohstoffe beschaffen und ihre Lieferketten organisieren, u. U. also ebenso eine Rückverlagerung. Im Bereich der Rohstoffverwaltung ist hierfür die Existenz einer tatsächlichen Grundlage erforderlich – die zur Produktion erforderlichen mineralischen Rohstoffe erfordern ein entsprechendes natürliches Vorkommen oder zumindest ein Vorliegen der Rohstoffe aus anderen Quellen wie dem Recycling. Eine besondere Form des Nearshorings kann zudem im Falle der wirtschaftsverwaltungsrechtlichen Ausformung im Sinne von Ausfuhrvorschriften bzw. Exportverboten sichtbar werden – so kann Produktion dazu gezwungen werden, im Land der Rohstoffgewinnung zu verharren, anstatt die der Rohstoffgewinnung nachgelagerten Schritte in ausländische Wertschöpfungsketten zu verlagern. So könnte hier also Produktion zwangsweise verlagert werden, sodass Nearshoring eher aus staatlicher Verwaltungssicht statt aus unternehmerischer Strategie geschieht. China hat bereits solche Ausfuhrkontrollen für die Metalle Gallium und Germanium eingerichtet, die insbesondere für die Halbleiterproduktion von Bedeutung sind – begründet werden diese handelspolitischen Maßnahmen mit „nationaler Sicherheit und nationalem Interesse“. \autocite{lamby-schmitt_china_2023}
+	Ein weiterer Effekt ist, dass Produktion erst gar nicht aus dem jeweiligen Land abwandert, sondern rohstoffgewinnende Unternehmen durch Ausfuhrverbote zu lokaler Weiterverarbeitung gedrängt sind und so die nationalen, nachgelagerten Industrien mitaufbauen, wie im Beispiel Indonesien deutlich wird. Die EU hat 2019 gegen solche indonesischen Exportverbote geklagt und die WTO diese Ausfuhrbeschränkungen 2022 für unverhältnismäßig erklärt, wogegen Indonesien Einspruch erhob.footnote{WTO Dispute Settlement DS592, WT/DS592/R.} In Anbetracht der Tatsache, dass der „Appelate Body“ jedoch derzeit nicht arbeitsfähig ist, betrachtet die EU das Arbeitsverfahren des Panels als ausgesetzt\footnote{Ibid.}, sodass mit keiner Entscheidung vor einer Wiederherstellung der Arbeitsfähigkeit der Rechtsinstanzen der WTO zu rechnen ist. Dies eröffnet zudem auch Fragestellungen hinsichtlich eines effektiven Rohstoffwirtschaftsvölkerrecht. Auch hier ist deutlich zu erkennen, dass der Bereich des Rohstoffverwaltungsrecht, besonders im Bereich des Wirtschaftsverwaltungsrechts, tangiert ist und das Untersuchungsinteresse hier anknüpft. Dies bestätigt auch Befürchtungen von Verwaltung in Politik, dass die Rohstoffversorgung durch „Rohstoffnationalismus“ und verstärkter Konkurrenz in rohstoffbesitzenden Schwellenländern erschwert wird, und zudem insbesondere in diesem Bereich zusätzlich mit den Interessen der Rohstoffwirtschaftsnachhaltigkeit und Menschenrechtssicherung in Konflikt geraten.\autocite{feichtner_besonderheit_2016} Schließlich tragen Decoupling und Nearshoring dann zu einer allgemeinen, oben erwähnten De-Globalisierung bei – mit entsprechenden Folgen für die Weltwirtschaft, insbesondere sektoralen Veränderungen der Wertschöpfung für die Industrie sind hier nicht ausgeschlossen, wobei insbesondere bei einem möglichen Handelskrieg zwischen der EU und China als Folge der beschriebenen Phänomene die Automobilindustrie die größten Wertschöpfungsverluste verzeichnet.\autocite[3]{fuest_geopolitische_2022} Nichtsdestotrotz erinnert SCHÄFFER daran, dass trotz der Umorientierung im globalen Außenhandel die nationale Wirtschaft „nicht im Übermaß protegiert“ werden dürfe, „insbesondere nicht zum Kollateralschaden zwischen China und den EU“ trotz der Erforderlichkeit einer EU-Antwort auf die „tiefe Krise“ des Multilateralismus.\autocite[700]{schaffer_ausenwirtschaftsrecht_2023} Auch ökonomische Effekte des Nearshorings nach Europa, insbesondere auf das Realeinkommen, müssen bedacht werden.\autocite{sandkamp_reshoring_2022}
+	
+	
+	
+	% hier auch auf Reshoring eingehen
+	% Regulierung von Nearshoring
+	
+	Nach einer Studie der Kreditanstalt für Wiederaufbau (KfW) gehen rund ein Drittel der deutschen mittelständischen Unternehmen davon aus, dass eine 
+	
+	\subsection{Weitere Verortungen}
+	% Zeitenwende?
+	
+	% ggf. umgruppieren 
+	
+	\subsection{Strategische und kritische Rohstoffe und Mineralien}
+	
+	\subsection{Rohstoff im engen und weiteren Sinn}
+	
+	\section{Rohstoffversorgung des deutschen Automobilsektors}
+	
+	\section{Interimsfazit}
+
+
+\end{document}
