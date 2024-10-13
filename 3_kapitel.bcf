@@ -2362,20 +2362,62 @@
     <bcf:datasource type="file" datatype="bibtex" glob="false">literatur.bib</bcf:datasource>
   </bcf:bibdata>
   <bcf:section number="0">
-    <bcf:citekey order="1" intorder="1">ruettinger_doddfrank_2015</bcf:citekey>
-    <bcf:citekey order="2" intorder="1">OECDleitfaden2019</bcf:citekey>
-    <bcf:citekey order="3" intorder="1">ruttloff_lieferkettensorgfaltspflichtengesetz_2022</bcf:citekey>
-    <bcf:citekey order="4" intorder="1">DEKSOR_Bericht_2023</bcf:citekey>
-    <bcf:citekey order="5" intorder="1">DEKSOR</bcf:citekey>
-    <bcf:citekey order="6" intorder="1">DEKSOR</bcf:citekey>
-    <bcf:citekey order="7" intorder="1">teicke_gesetzliche_2018</bcf:citekey>
-    <bcf:citekey order="8" intorder="1">grado_eu_2018</bcf:citekey>
-    <bcf:citekey order="9" intorder="1">teicke_gesetzliche_2018</bcf:citekey>
-    <bcf:citekey order="10" intorder="1">deutsche\_kontrollstelle\_eu-sorgfaltspflichten\_in\_rohstofflieferketten\_jahresbericht\_2023</bcf:citekey>
-    <bcf:citekey order="11" intorder="1">deutsche\_kontrollstelle\_eu-sorgfaltspflichten\_in\_rohstofflieferketten\_jahresbericht\_2023</bcf:citekey>
-    <bcf:citekey order="12" intorder="1">teicke_gesetzliche_2018</bcf:citekey>
-    <bcf:citekey order="13" intorder="1">ruttloff_lieferkettensorgfaltspflichtengesetz_2022</bcf:citekey>
-    <bcf:citekey order="14" intorder="1">ruttloff_lieferkettensorgfaltspflichtengesetz_2022</bcf:citekey>
+    <bcf:citekey order="1" intorder="1">QUOTE NEEDED</bcf:citekey>
+    <bcf:citekey order="2" intorder="1">Frau</bcf:citekey>
+    <bcf:citekey order="2" intorder="2">387</bcf:citekey>
+    <bcf:citekey order="3" intorder="1">Dauses/Ludwigs</bcf:citekey>
+    <bcf:citekey order="3" intorder="2">Handbuch des EU-Wirtschaftsrechts</bcf:citekey>
+    <bcf:citekey order="3" intorder="3">Gundel</bcf:citekey>
+    <bcf:citekey order="3" intorder="4">§ M</bcf:citekey>
+    <bcf:citekey order="3" intorder="5">Rn. 26 27</bcf:citekey>
+    <bcf:citekey order="4" intorder="1">Nettesheim in Grabitz/Hilf</bcf:citekey>
+    <bcf:citekey order="4" intorder="2">AEUV Art. 194</bcf:citekey>
+    <bcf:citekey order="4" intorder="3">Rn. 16</bcf:citekey>
+    <bcf:citekey order="5" intorder="1">Umbach</bcf:citekey>
+    <bcf:citekey order="5" intorder="2">ET 2005</bcf:citekey>
+    <bcf:citekey order="5" intorder="3">629</bcf:citekey>
+    <bcf:citekey order="6" intorder="1">Nettesheim in Grabitz/Hilf</bcf:citekey>
+    <bcf:citekey order="6" intorder="2">AEUV Art. 194</bcf:citekey>
+    <bcf:citekey order="6" intorder="3">Rn. 17</bcf:citekey>
+    <bcf:citekey order="7" intorder="1">Nettesheim in Grabitz/Hilf</bcf:citekey>
+    <bcf:citekey order="7" intorder="2">AEUV Art. 194</bcf:citekey>
+    <bcf:citekey order="7" intorder="3">Rn. 16</bcf:citekey>
+    <bcf:citekey order="8" intorder="1">CITATIONNEEDED</bcf:citekey>
+    <bcf:citekey order="9" intorder="1">Nettesheim in Grabitz/Hilf</bcf:citekey>
+    <bcf:citekey order="9" intorder="2">AEUV Art. 194</bcf:citekey>
+    <bcf:citekey order="9" intorder="3">Rn. 10</bcf:citekey>
+    <bcf:citekey order="10" intorder="1">Rn. 10</bcf:citekey>
+    <bcf:citekey order="11" intorder="1">Nettesheim in Grabitz/Hilf</bcf:citekey>
+    <bcf:citekey order="11" intorder="2">AEUV Art. 194</bcf:citekey>
+    <bcf:citekey order="11" intorder="3">Rn. 44</bcf:citekey>
+    <bcf:citekey order="12" intorder="1">Dauses/Ludwigs</bcf:citekey>
+    <bcf:citekey order="12" intorder="2">Handbuch des EU-Wirtschaftsrechts</bcf:citekey>
+    <bcf:citekey order="12" intorder="3">Gundel</bcf:citekey>
+    <bcf:citekey order="12" intorder="4">§ M</bcf:citekey>
+    <bcf:citekey order="12" intorder="5">Rn. 28</bcf:citekey>
+    <bcf:citekey order="12" intorder="6">29</bcf:citekey>
+    <bcf:citekey order="13" intorder="1">Dauses/Ludwigs</bcf:citekey>
+    <bcf:citekey order="13" intorder="2">Handbuch des EU-Wirtschaftsrechts</bcf:citekey>
+    <bcf:citekey order="13" intorder="3">Gundel</bcf:citekey>
+    <bcf:citekey order="13" intorder="4">§ M</bcf:citekey>
+    <bcf:citekey order="13" intorder="5">Rn.29</bcf:citekey>
+    <bcf:citekey order="14" intorder="1">Nettesheim in Grabitz/Hilf</bcf:citekey>
+    <bcf:citekey order="14" intorder="2">AEUV Art. 194</bcf:citekey>
+    <bcf:citekey order="14" intorder="3">Rn. 40</bcf:citekey>
+    <bcf:citekey order="15" intorder="1">ruettinger_doddfrank_2015</bcf:citekey>
+    <bcf:citekey order="16" intorder="1">OECDleitfaden2019</bcf:citekey>
+    <bcf:citekey order="17" intorder="1">ruttloff_lieferkettensorgfaltspflichtengesetz_2022</bcf:citekey>
+    <bcf:citekey order="18" intorder="1">DEKSOR_Bericht_2023</bcf:citekey>
+    <bcf:citekey order="19" intorder="1">DEKSOR</bcf:citekey>
+    <bcf:citekey order="20" intorder="1">DEKSOR</bcf:citekey>
+    <bcf:citekey order="21" intorder="1">teicke_gesetzliche_2018</bcf:citekey>
+    <bcf:citekey order="22" intorder="1">grado_eu_2018</bcf:citekey>
+    <bcf:citekey order="23" intorder="1">teicke_gesetzliche_2018</bcf:citekey>
+    <bcf:citekey order="24" intorder="1">deutsche\_kontrollstelle\_eu-sorgfaltspflichten\_in\_rohstofflieferketten\_jahresbericht\_2023</bcf:citekey>
+    <bcf:citekey order="25" intorder="1">deutsche\_kontrollstelle\_eu-sorgfaltspflichten\_in\_rohstofflieferketten\_jahresbericht\_2023</bcf:citekey>
+    <bcf:citekey order="26" intorder="1">teicke_gesetzliche_2018</bcf:citekey>
+    <bcf:citekey order="27" intorder="1">ruttloff_lieferkettensorgfaltspflichtengesetz_2022</bcf:citekey>
+    <bcf:citekey order="28" intorder="1">ruttloff_lieferkettensorgfaltspflichtengesetz_2022</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="nty">
