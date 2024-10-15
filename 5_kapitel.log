@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2024.2.12)  15 OCT 2024 15:56
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2024.2.12)  15 OCT 2024 14:53
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**3_kapitel.tex
-(./3_kapitel.tex
+**5_kapitel.tex
+(./5_kapitel.tex
 LaTeX2e <2022-11-01> patch level 1
 L3 programming layer <2023-02-22>
 (c:/texlive/2023/texmf-dist/tex/latex/base/book.cls
@@ -589,8 +589,8 @@ LaTeX Font Info:    Trying to load font information for T1+lmr on input line 78
 
 (c:/texlive/2023/texmf-dist/tex/latex/lm/t1lmr.fd
 File: t1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
-) (./3_kapitel.aux)
-\openout1 = `3_kapitel.aux'.
+) (./5_kapitel.aux)
+\openout1 = `5_kapitel.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 78.
 LaTeX Font Info:    ... okay on input line 78.
@@ -635,9 +635,9 @@ e
 ))
 Package hyperref Info: Link coloring OFF on input line 78.
 
-(./3_kapitel.out) (./3_kapitel.out)
+(./5_kapitel.out) (./5_kapitel.out)
 \@outlinefile=\write4
-\openout4 = `3_kapitel.out'.
+\openout4 = `5_kapitel.out'.
 
 Package biblatex Info: Trying to load language 'ngerman'...
 Package biblatex Info: ... file 'ngerman.lbx' found.
@@ -659,119 +659,120 @@ File: german.lbx 2023/03/05 v3.19 biblatex localization (PK/MW)
 Package biblatex Info: Input encoding 'utf8' detected.
 Package biblatex Info: Automatic encoding selection.
 (biblatex)             Assuming data encoding 'utf8'.
-\openout3 = `3_kapitel.bcf'.
+\openout3 = `5_kapitel.bcf'.
 
 Package biblatex Info: Trying to load bibliographic data...
-Package biblatex Info: ... file '3_kapitel.bbl' found.
+Package biblatex Info: ... file '5_kapitel.bbl' found.
 
-(./3_kapitel.bbl)
+(./5_kapitel.bbl)
 Package biblatex Info: Reference section=0 on input line 78.
 Package biblatex Info: Reference segment=0 on input line 78.
 
-Kapitel 1..
-LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 9
-2.
+Overfull \hbox (18.74147pt too wide) in paragraph at lines 80--80
+\T1/lmr/bx/n/17.28 na-les Roh-stoff(wirtschafts)verwaltungsrecht
+ []
+
+LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 8
+4.
 (c:/texlive/2023/texmf-dist/tex/latex/lm/ot1lmr.fd
 File: ot1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-LaTeX Font Info:    Trying to load font information for OML+lmm on input line 9
-2.
+LaTeX Font Info:    Trying to load font information for OML+lmm on input line 8
+4.
 
 (c:/texlive/2023/texmf-dist/tex/latex/lm/omllmm.fd
 File: omllmm.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 
-92.
+84.
 
 (c:/texlive/2023/texmf-dist/tex/latex/lm/omslmsy.fd
 File: omslmsy.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 
-92.
+84.
 
 (c:/texlive/2023/texmf-dist/tex/latex/lm/omxlmex.fd
 File: omxlmex.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <12> on input line 92.
+(Font)              <12> on input line 84.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 92.
+(Font)              <8> on input line 84.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 92.
+(Font)              <6> on input line 84.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10> on input line 92.
+(Font)              <10> on input line 84.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <7> on input line 92.
+(Font)              <7> on input line 84.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <5> on input line 92.
- [1
+(Font)              <5> on input line 84.
 
 
-{c:/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{c:/texlive/2023/
-texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}]
-Overfull \hbox (31.0184pt too wide) has occurred while \output is active
-\T1/lmr/m/sl/12 KAPITEL 1..  DER GEGENSTAND DES ROHSTOFFVERWALTUNGSRECHT \T1/lm
-r/m/n/12 2
+LaTeX Warning: Citation 'frau2023' on page 1 undefined on input line 84.
+
+[1{c:/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{c:/texlive/202
+3/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}
+
+] [2]
+
+LaTeX Warning: Reference `kapitel3' on page 3 undefined on input line 124.
+
+
+Overfull \hbox (3.49698pt too wide) in paragraph at lines 146--149
+[]\T1/lmr/m/n/12 Antragstellung und Ge-neh-mi-gung Um-welt-ver-träg-lich-keits-
+prü-fun-gen Nach-
  []
 
-[2]
 
-LaTeX Warning: Citation 'callies_euvaeuv_2022' on page 3 undefined on input lin
-e 110.
-
-
-LaTeX Warning: Citation 'callies_stellungnahme_2007' on page 3 undefined on inp
-ut line 110.
-
-
-LaTeX Warning: Citation 'frau_rohstoffe_2025' on page 3 undefined on input line
- 124.
-
-
-LaTeX Warning: Citation 'dauses_handbuch_2024' on page 3 undefined on input lin
-e 124.
-
-
-LaTeX Warning: Citation 'von_der_groeben_europaisches_2024' on page 3 undefined
- on input line 125.
-
-
-Overfull \hbox (31.0184pt too wide) has occurred while \output is active
-\T1/lmr/m/sl/12 KAPITEL 1..  DER GEGENSTAND DES ROHSTOFFVERWALTUNGSRECHT \T1/lm
-r/m/n/12 3
+Overfull \hbox (2.49849pt too wide) in paragraph at lines 150--153
+[]\T1/lmr/m/n/12 Umwelt- und Nach-hal-tig-keits-kri-te-ri-en Maÿ-nah-men zur Kr
+eis-l-auf-wirt-schaft
  []
 
-[3]
-Overfull \hbox (31.0184pt too wide) has occurred while \output is active
-\T1/lmr/m/sl/12 KAPITEL 1..  DER GEGENSTAND DES ROHSTOFFVERWALTUNGSRECHT \T1/lm
-r/m/n/12 4
+
+Overfull \hbox (21.5851pt too wide) in paragraph at lines 162--165
+[]\T1/lmr/m/n/12 Umsetzung in-ter-na-tio-na-ler Ab-kom-men Har-mo-ni-sie-rung m
+it EU-Recht Rechts-
  []
 
-[4])
-Runaway argument?
-{{Nettesheim in Grabitz/Hilf, AEUV Art. 194, Rn. 17} Der VollstÃ¤ndig\ETC.
-! File ended while scanning use of \blx@citeargs@iii.
-<inserted text> 
-                \par 
-<*> 3_kapitel.tex
-                 
-I suspect you have forgotten a `}', causing me
-to read past where you wanted me to stop.
-I'll try to recover; but if the error is serious,
-you'd better type `E' or `X' now and fix your file.
+[3] (./5_kapitel.aux)
 
-! Emergency stop.
-<*> 3_kapitel.tex
-                 
-*** (job aborted, no legal \end found)
+LaTeX Warning: There were undefined references.
 
- 
+Package rerunfilecheck Info: File `5_kapitel.out' has not changed.
+(rerunfilecheck)             Checksum: 83D75D529A36025361BA5EB53308F85F;1026.
+
+Package biblatex Warning: Please (re)run Biber on the file:
+(biblatex)                5_kapitel
+(biblatex)                and rerun LaTeX afterwards.
+
+Package logreq Info: Writing requests to '5_kapitel.run.xml'.
+\openout1 = `5_kapitel.run.xml'.
+
+ ) 
 Here is how much of TeX's memory you used:
- 18825 strings out of 476025
- 330981 string characters out of 5794015
- 1862382 words of memory out of 5000000
- 39016 multiletter control sequences out of 15000+600000
- 582704 words of font info for 68 fonts, out of 8000000 for 9000
+ 18812 strings out of 476025
+ 330797 string characters out of 5794015
+ 1861382 words of memory out of 5000000
+ 39014 multiletter control sequences out of 15000+600000
+ 572428 words of font info for 65 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
- 75i,8n,76p,4238b,2367s stack positions out of 10000i,1000n,20000p,200000b,200000s
-!  ==> Fatal error occurred, no output PDF file produced!
+ 75i,8n,76p,1123b,2367s stack positions out of 10000i,1000n,20000p,200000b,200000s
+
+pdfTeX warning (dest): name{Hfootnote.1} has been referenced but does not exist
+, replaced by a fixed one
+
+<c:/texlive/2023/texmf-dist/fonts/type1/public/lm/lmbx10.pfb><c:/texlive/2023/t
+exmf-dist/fonts/type1/public/lm/lmbx12.pfb><c:/texlive/2023/texmf-dist/fonts/ty
+pe1/public/lm/lmr10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/lm/lmr12
+.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/lm/lmr7.pfb><c:/texlive/202
+3/texmf-dist/fonts/type1/public/lm/lmr8.pfb><c:/texlive/2023/texmf-dist/fonts/t
+ype1/public/lm/lmri12.pfb>
+Output written on 5_kapitel.pdf (3 pages, 161406 bytes).
+PDF statistics:
+ 74 PDF objects out of 1000 (max. 8388607)
+ 54 compressed objects within 1 object stream
+ 8 named destinations out of 1000 (max. 500000)
+ 25 words of extra memory for PDF output out of 10000 (max. 10000000)
+
