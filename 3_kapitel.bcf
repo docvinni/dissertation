@@ -2367,3 +2367,65 @@
     <bcf:citekey order="3" intorder="1">frau_rohstoffe_2025</bcf:citekey>
     <bcf:citekey order="4" intorder="1">dauses_handbuch_2024</bcf:citekey>
     <bcf:citekey order="5" intorder="1">von_der_groeben_europaisches_2024</bcf:citekey>
+    <bcf:citekey order="6" intorder="1">grabitz_recht_2024</bcf:citekey>
+    <bcf:citekey order="7" intorder="1">umbach_europaische_2005</bcf:citekey>
+    <bcf:citekey order="8" intorder="1">grabitz_recht_2024</bcf:citekey>
+    <bcf:citekey order="9" intorder="1">grabitz_recht_2024</bcf:citekey>
+    <bcf:citekey order="10" intorder="1">Nettesheim in Grabitz/Hilf</bcf:citekey>
+    <bcf:citekey order="10" intorder="2">AEUV Art. 194</bcf:citekey>
+    <bcf:citekey order="10" intorder="3">Rn. 17</bcf:citekey>
+    <bcf:citekey order="11" intorder="1">grabitz_recht_2024</bcf:citekey>
+    <bcf:citekey order="12" intorder="1">grabitz_recht_2024</bcf:citekey>
+    <bcf:citekey order="13" intorder="1">grabitz_recht_2024</bcf:citekey>
+    <bcf:citekey order="14" intorder="1">dauses_handbuch_2024</bcf:citekey>
+    <bcf:citekey order="15" intorder="1">dauses_handbuch_2024</bcf:citekey>
+    <bcf:citekey order="16" intorder="1">classen_europarecht_2021</bcf:citekey>
+    <bcf:citekey order="17" intorder="1">chamon_anwendung_2023</bcf:citekey>
+    <bcf:citekey order="18" intorder="1">callies_umweltrecht_2022</bcf:citekey>
+    <bcf:citekey order="19" intorder="1">grabitz_recht_2024</bcf:citekey>
+    <bcf:citekey order="20" intorder="1">ruettinger_doddfrank_2015</bcf:citekey>
+    <bcf:citekey order="21" intorder="1">OECDleitfaden2019</bcf:citekey>
+    <bcf:citekey order="22" intorder="1">ruttloff_lieferkettensorgfaltspflichtengesetz_2022</bcf:citekey>
+    <bcf:citekey order="23" intorder="1">deutsche\_kontrollstelle\_eu-sorgfaltspflichten\_in\_rohstofflieferketten\_jahresbericht\_2023</bcf:citekey>
+    <bcf:citekey order="24" intorder="1">deutsche\_kontrollstelle\_eu-sorgfaltspflichten\_in\_rohstofflieferketten\_jahresbericht\_2023</bcf:citekey>
+    <bcf:citekey order="25" intorder="1">deutsche\_kontrollstelle\_eu-sorgfaltspflichten\_in\_rohstofflieferketten\_jahresbericht\_2023</bcf:citekey>
+    <bcf:citekey order="26" intorder="1">teicke_gesetzliche_2018</bcf:citekey>
+    <bcf:citekey order="27" intorder="1">grado_eu_2018</bcf:citekey>
+    <bcf:citekey order="28" intorder="1">teicke_gesetzliche_2018</bcf:citekey>
+    <bcf:citekey order="29" intorder="1">deutsche\_kontrollstelle\_eu-sorgfaltspflichten\_in\_rohstofflieferketten\_jahresbericht\_2023</bcf:citekey>
+    <bcf:citekey order="30" intorder="1">deutsche\_kontrollstelle\_eu-sorgfaltspflichten\_in\_rohstofflieferketten\_jahresbericht\_2023</bcf:citekey>
+    <bcf:citekey order="31" intorder="1">teicke_gesetzliche_2018</bcf:citekey>
+    <bcf:citekey order="32" intorder="1">ruttloff_lieferkettensorgfaltspflichtengesetz_2022</bcf:citekey>
+    <bcf:citekey order="33" intorder="1">ruttloff_lieferkettensorgfaltspflichtengesetz_2022</bcf:citekey>
+  </bcf:section>
+  <!-- SORTING TEMPLATES -->
+  <bcf:sortingtemplate name="nty">
+    <bcf:sort order="1">
+      <bcf:sortitem order="1">presort</bcf:sortitem>
+    </bcf:sort>
+    <bcf:sort order="2" final="1">
+      <bcf:sortitem order="1">sortkey</bcf:sortitem>
+    </bcf:sort>
+    <bcf:sort order="3">
+      <bcf:sortitem order="1">sortname</bcf:sortitem>
+      <bcf:sortitem order="2">author</bcf:sortitem>
+      <bcf:sortitem order="3">editor</bcf:sortitem>
+      <bcf:sortitem order="4">translator</bcf:sortitem>
+      <bcf:sortitem order="5">sorttitle</bcf:sortitem>
+      <bcf:sortitem order="6">title</bcf:sortitem>
+    </bcf:sort>
+    <bcf:sort order="4">
+      <bcf:sortitem order="1">sorttitle</bcf:sortitem>
+      <bcf:sortitem order="2">title</bcf:sortitem>
+    </bcf:sort>
+    <bcf:sort order="5">
+      <bcf:sortitem order="1">sortyear</bcf:sortitem>
+      <bcf:sortitem order="2">year</bcf:sortitem>
+    </bcf:sort>
+    <bcf:sort order="6">
+      <bcf:sortitem order="1">volume</bcf:sortitem>
+      <bcf:sortitem literal="1" order="2">0</bcf:sortitem>
+    </bcf:sort>
+  </bcf:sortingtemplate>
+  <!-- DATALISTS -->
+</bcf:controlfile>

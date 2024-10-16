@@ -1,0 +1,466 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nty/global//global/global}
+    \entry{callies_stellungnahme_2007}{report}{}
+      \name{author}{1}{}{%
+        {{hash=a97fd9feebd5e0cff7415ce0825719bd}{%
+           family={Callies},
+           familyi={C\bibinitperiod},
+           given={Christian},
+           giveni={C\bibinitperiod}}}%
+      }
+      \strng{namehash}{a97fd9feebd5e0cff7415ce0825719bd}
+      \strng{fullhash}{a97fd9feebd5e0cff7415ce0825719bd}
+      \strng{bibnamehash}{a97fd9feebd5e0cff7415ce0825719bd}
+      \strng{authorbibnamehash}{a97fd9feebd5e0cff7415ce0825719bd}
+      \strng{authornamehash}{a97fd9feebd5e0cff7415ce0825719bd}
+      \strng{authorfullhash}{a97fd9feebd5e0cff7415ce0825719bd}
+      \field{extraname}{1}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{23}
+      \field{month}{10}
+      \field{title}{Stellungnahme als Sachverständiger im Rahmen des öffentlichen Expertengesprächs des Unterausschusses Europarecht des Rechtsausschusses des deutschen Bundestages zum Thema „Entsteht ein einheitliches europäisches Strafrecht?“ am 28. November 2007}
+      \field{year}{2007}
+      \field{dateera}{ce}
+    \endentry
+    \entry{callies_umweltrecht_2022}{article}{}
+      \name{author}{1}{}{%
+        {{hash=a97fd9feebd5e0cff7415ce0825719bd}{%
+           family={Callies},
+           familyi={C\bibinitperiod},
+           given={Christian},
+           giveni={C\bibinitperiod}}}%
+      }
+      \strng{namehash}{a97fd9feebd5e0cff7415ce0825719bd}
+      \strng{fullhash}{a97fd9feebd5e0cff7415ce0825719bd}
+      \strng{bibnamehash}{a97fd9feebd5e0cff7415ce0825719bd}
+      \strng{authorbibnamehash}{a97fd9feebd5e0cff7415ce0825719bd}
+      \strng{authornamehash}{a97fd9feebd5e0cff7415ce0825719bd}
+      \strng{authorfullhash}{a97fd9feebd5e0cff7415ce0825719bd}
+      \field{extraname}{2}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{31}
+      \field{journaltitle}{Berliner Online-Beiträge zum Europarecht}
+      \field{month}{1}
+      \field{number}{137}
+      \field{title}{Umweltrecht und Klimarecht der Europäischen Union ({EU}) – Kompetenzen, Leitprinzipien und Regelungsstrategien im europäischen Umweltverbund}
+      \field{year}{2022}
+      \field{dateera}{ce}
+    \endentry
+    \entry{callies_euvaeuv_2022}{book}{}
+      \name{author}{2}{}{%
+        {{hash=a97fd9feebd5e0cff7415ce0825719bd}{%
+           family={Callies},
+           familyi={C\bibinitperiod},
+           given={Christian},
+           giveni={C\bibinitperiod}}}%
+        {{hash=04d1767f49df169fca6cd5718d65b2d5}{%
+           family={Ruffert},
+           familyi={R\bibinitperiod},
+           given={Matthias},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {C.H.{BECK}}%
+      }
+      \strng{namehash}{e55a993b54440de5f68179b701b8fbcd}
+      \strng{fullhash}{e55a993b54440de5f68179b701b8fbcd}
+      \strng{bibnamehash}{e55a993b54440de5f68179b701b8fbcd}
+      \strng{authorbibnamehash}{e55a993b54440de5f68179b701b8fbcd}
+      \strng{authornamehash}{e55a993b54440de5f68179b701b8fbcd}
+      \strng{authorfullhash}{e55a993b54440de5f68179b701b8fbcd}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{6}
+      \field{title}{{EUV}/{AEUV}}
+      \field{year}{2022}
+      \field{dateera}{ce}
+    \endentry
+    \entry{chamon_anwendung_2023}{report}{}
+      \name{author}{1}{}{%
+        {{hash=017fff0530788c0372778d7f1562d86e}{%
+           family={Chamon},
+           familyi={C\bibinitperiod},
+           given={Merijn},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Europäisches Parlament}%
+      }
+      \strng{namehash}{017fff0530788c0372778d7f1562d86e}
+      \strng{fullhash}{017fff0530788c0372778d7f1562d86e}
+      \strng{bibnamehash}{017fff0530788c0372778d7f1562d86e}
+      \strng{authorbibnamehash}{017fff0530788c0372778d7f1562d86e}
+      \strng{authornamehash}{017fff0530788c0372778d7f1562d86e}
+      \strng{authorfullhash}{017fff0530788c0372778d7f1562d86e}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{number}{{PE} 753.307}
+      \field{title}{Anwendung von Artikel 122 {AEUV}: Institutionelle Auswirkungen und Auswirkungen auf die demokratische Rechenschaftspflicht}
+      \field{year}{2023}
+      \field{dateera}{ce}
+    \endentry
+    \entry{classen_europarecht_2021}{book}{}
+      \name{author}{3}{}{%
+        {{hash=3edfc66fda3946ba3d1f387ef85b80f3}{%
+           family={Classen},
+           familyi={C\bibinitperiod},
+           given={Claus\bibnamedelima Dieter},
+           giveni={C\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=5e3f3f240247975785ee6bc16f25d238}{%
+           family={Nettesheim},
+           familyi={N\bibinitperiod},
+           given={Martin},
+           giveni={M\bibinitperiod}}}%
+        {{hash=5f669793e4699e50e6578683ea61065a}{%
+           family={Oppermann},
+           familyi={O\bibinitperiod},
+           given={Thomas},
+           giveni={T\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {C.H.{BECK}}%
+      }
+      \strng{namehash}{93febcb30978039d629e8b305cbaf08b}
+      \strng{fullhash}{93febcb30978039d629e8b305cbaf08b}
+      \strng{bibnamehash}{93febcb30978039d629e8b305cbaf08b}
+      \strng{authorbibnamehash}{93febcb30978039d629e8b305cbaf08b}
+      \strng{authornamehash}{93febcb30978039d629e8b305cbaf08b}
+      \strng{authorfullhash}{93febcb30978039d629e8b305cbaf08b}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{9}
+      \field{title}{Europarecht}
+      \field{year}{2021}
+      \field{dateera}{ce}
+    \endentry
+    \entry{dauses_handbuch_2024}{collection}{}
+      \name{editor}{2}{}{%
+        {{hash=00fe4b0b0e116b097544a5c0faae55cb}{%
+           family={Dauses},
+           familyi={D\bibinitperiod},
+           given={Manfred},
+           giveni={M\bibinitperiod}}}%
+        {{hash=0953f9f9851c8dcf445472fec4fc605f}{%
+           family={Ludwigs},
+           familyi={L\bibinitperiod},
+           given={Markus},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {C.H.{BECK}}%
+      }
+      \strng{namehash}{e87f0894251305e2fed339b23a949730}
+      \strng{fullhash}{e87f0894251305e2fed339b23a949730}
+      \strng{bibnamehash}{e87f0894251305e2fed339b23a949730}
+      \strng{editorbibnamehash}{e87f0894251305e2fed339b23a949730}
+      \strng{editornamehash}{e87f0894251305e2fed339b23a949730}
+      \strng{editorfullhash}{e87f0894251305e2fed339b23a949730}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \true{singletitle}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{title}
+      \field{edition}{60}
+      \field{title}{Handbuch des {EU}-Wirtschaftsrechts}
+      \field{year}{2024}
+      \field{dateera}{ce}
+    \endentry
+    \entry{frau_rohstoffe_2025}{book}{}
+      \name{author}{1}{}{%
+        {{hash=33f0a0aa7b601c52c1234985573ff106}{%
+           family={Frau},
+           familyi={F\bibinitperiod},
+           given={Robert},
+           giveni={R\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Mohr Siebeck}%
+      }
+      \strng{namehash}{33f0a0aa7b601c52c1234985573ff106}
+      \strng{fullhash}{33f0a0aa7b601c52c1234985573ff106}
+      \strng{bibnamehash}{33f0a0aa7b601c52c1234985573ff106}
+      \strng{authorbibnamehash}{33f0a0aa7b601c52c1234985573ff106}
+      \strng{authornamehash}{33f0a0aa7b601c52c1234985573ff106}
+      \strng{authorfullhash}{33f0a0aa7b601c52c1234985573ff106}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{1}
+      \field{title}{Rohstoffe und staatliches Handeln}
+      \field{year}{2025}
+      \field{dateera}{ce}
+      \keyw{Digitalisierung,Nachhaltigkeit,Umweltrecht,Wirtschaftsrecht,Zukunftstechnologien}
+    \endentry
+    \entry{grabitz_recht_2024}{book}{}
+      \name{author}{3}{}{%
+        {{hash=0374246a69ec19a8340f25d04850c4dc}{%
+           family={Grabitz},
+           familyi={G\bibinitperiod},
+           given={Eberhard},
+           giveni={E\bibinitperiod}}}%
+        {{hash=12dd2fd1dd76edbd61cb3d18a036dc5c}{%
+           family={Hilf},
+           familyi={H\bibinitperiod},
+           given={Meinhard},
+           giveni={M\bibinitperiod}}}%
+        {{hash=5e3f3f240247975785ee6bc16f25d238}{%
+           family={Nettesheim},
+           familyi={N\bibinitperiod},
+           given={Martin},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {C.H.{BECK}}%
+      }
+      \strng{namehash}{9018494a43d51edbb9e9d57deb15e2be}
+      \strng{fullhash}{9018494a43d51edbb9e9d57deb15e2be}
+      \strng{bibnamehash}{9018494a43d51edbb9e9d57deb15e2be}
+      \strng{authorbibnamehash}{9018494a43d51edbb9e9d57deb15e2be}
+      \strng{authornamehash}{9018494a43d51edbb9e9d57deb15e2be}
+      \strng{authorfullhash}{9018494a43d51edbb9e9d57deb15e2be}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{82}
+      \field{title}{Das Recht der Europäischen Union: {EUV}/{AEUV}}
+      \field{year}{2024}
+      \field{dateera}{ce}
+    \endentry
+    \entry{grado_eu_2018}{article}{}
+      \name{author}{1}{}{%
+        {{hash=024ae37be8c17dfda6afa3a70cdeb623}{%
+           family={Grado},
+           familyi={G\bibinitperiod},
+           given={Valentina},
+           giveni={V\bibinitperiod}}}%
+      }
+      \strng{namehash}{024ae37be8c17dfda6afa3a70cdeb623}
+      \strng{fullhash}{024ae37be8c17dfda6afa3a70cdeb623}
+      \strng{bibnamehash}{024ae37be8c17dfda6afa3a70cdeb623}
+      \strng{authorbibnamehash}{024ae37be8c17dfda6afa3a70cdeb623}
+      \strng{authornamehash}{024ae37be8c17dfda6afa3a70cdeb623}
+      \strng{authorfullhash}{024ae37be8c17dfda6afa3a70cdeb623}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The Italian Yearbook of International Law Online}
+      \field{number}{1}
+      \field{title}{The {EU} Conflict Minerals Regulation: Potentialities and Limits in the Light of the International Standards on Responsible Sourcing}
+      \field{volume}{27}
+      \field{year}{2018}
+      \field{dateera}{ce}
+      \field{pages}{235\bibrangedash 257}
+      \range{pages}{23}
+    \endentry
+    \entry{von_der_groeben_europaisches_2024}{collection}{}
+      \name{editor}{4}{}{%
+        {{hash=9c04e80d2a1610101e0b7bca5590b72e}{%
+           family={Groeben},
+           familyi={G\bibinitperiod},
+           given={Hans},
+           giveni={H\bibinitperiod},
+           prefix={von\bibnamedelima der},
+           prefixi={v\bibinitperiod\bibinitdelim d\bibinitperiod}}}%
+        {{hash=30f6d47007ed9704806a4050b82e0d05}{%
+           family={Hatje},
+           familyi={H\bibinitperiod},
+           given={Armin},
+           giveni={A\bibinitperiod}}}%
+        {{hash=f555d2b064506fe0581c601e82f68a1f}{%
+           family={Schwarze},
+           familyi={S\bibinitperiod},
+           given={Jürgen},
+           giveni={J\bibinitperiod}}}%
+        {{hash=98a0753371fc8f1086d60e9b1f2ac6a9}{%
+           family={Terhechte},
+           familyi={T\bibinitperiod},
+           given={Jörg\bibnamedelima Philipp},
+           giveni={J\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Nomos}%
+      }
+      \strng{namehash}{f4b799fb7db088f7229c2232c2b484f1}
+      \strng{fullhash}{4ae55b2c5bd74b45a81bd407d04b2046}
+      \strng{bibnamehash}{f4b799fb7db088f7229c2232c2b484f1}
+      \strng{editorbibnamehash}{f4b799fb7db088f7229c2232c2b484f1}
+      \strng{editornamehash}{f4b799fb7db088f7229c2232c2b484f1}
+      \strng{editorfullhash}{4ae55b2c5bd74b45a81bd407d04b2046}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \true{singletitle}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{title}
+      \field{edition}{8}
+      \field{title}{Europäisches Unionsrecht}
+      \field{year}{2024}
+      \field{dateera}{ce}
+    \endentry
+    \entry{ruttloff_lieferkettensorgfaltspflichtengesetz_2022}{inbook}{}
+      \name{author}{2}{}{%
+        {{hash=2d786fe5e21055096dcd5fda72a655e2}{%
+           family={Ruttloff},
+           familyi={R\bibinitperiod},
+           given={Marc},
+           giveni={M\bibinitperiod}}}%
+        {{hash=7afe514317d31bd4d7e566b816a61964}{%
+           family={Kappler},
+           familyi={K\bibinitperiod},
+           given={Lisa},
+           giveni={L\bibinitperiod}}}%
+      }
+      \name{bookauthor}{3}{}{%
+        {{hash=27de2490f48205a87e0876d508592e83}{%
+           family={Wagner},
+           familyi={W\bibinitperiod},
+           given={Eric},
+           giveni={E\bibinitperiod}}}%
+        {{hash=2d786fe5e21055096dcd5fda72a655e2}{%
+           family={Ruttloff},
+           familyi={R\bibinitperiod},
+           given={Marc},
+           giveni={M\bibinitperiod}}}%
+        {{hash=2d3ceeec1604e98568daa4ab180efe70}{%
+           family={Wagner},
+           familyi={W\bibinitperiod},
+           given={Simon},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {München}%
+      }
+      \list{publisher}{1}{%
+        {C.H. Beck}%
+      }
+      \strng{namehash}{fadb8f73ed0254e6bbe45035c33f6984}
+      \strng{fullhash}{fadb8f73ed0254e6bbe45035c33f6984}
+      \strng{bibnamehash}{fadb8f73ed0254e6bbe45035c33f6984}
+      \strng{authorbibnamehash}{fadb8f73ed0254e6bbe45035c33f6984}
+      \strng{authornamehash}{fadb8f73ed0254e6bbe45035c33f6984}
+      \strng{authorfullhash}{fadb8f73ed0254e6bbe45035c33f6984}
+      \strng{bookauthorbibnamehash}{32545af85648b298a461c27f5486268f}
+      \strng{bookauthornamehash}{32545af85648b298a461c27f5486268f}
+      \strng{bookauthorfullhash}{32545af85648b298a461c27f5486268f}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Das Lieferkettensorgfaltspflichtengesetz in der Unternehmenspraxis}
+      \field{isbn}{978-3-406-77834-6}
+      \field{title}{Das Lieferkettensorgfaltspflichtengesetz in der Unternehmenspraxis}
+      \field{year}{2022}
+      \field{dateera}{ce}
+    \endentry
+    \entry{teicke_gesetzliche_2018}{article}{}
+      \name{author}{2}{}{%
+        {{hash=220d4fbc788a2eb2ad31e9b1bbbe9742}{%
+           family={Teicke},
+           familyi={T\bibinitperiod},
+           given={Tobias},
+           giveni={T\bibinitperiod}}}%
+        {{hash=875001bc4b22630fb306ce246d2e5d19}{%
+           family={Rust},
+           familyi={R\bibinitperiod},
+           given={Maximilian},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{901f6ff791774511ad91e7383267b36a}
+      \strng{fullhash}{901f6ff791774511ad91e7383267b36a}
+      \strng{bibnamehash}{901f6ff791774511ad91e7383267b36a}
+      \strng{authorbibnamehash}{901f6ff791774511ad91e7383267b36a}
+      \strng{authornamehash}{901f6ff791774511ad91e7383267b36a}
+      \strng{authorfullhash}{901f6ff791774511ad91e7383267b36a}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Corporate Compliance Zeitschrift}
+      \field{number}{1}
+      \field{shortjournal}{{CCZ}}
+      \field{title}{Gesetzliche Vorgaben für Supply Chain Compliance. Die neue Konfliktmineralien-Verordnung}
+      \field{year}{2018}
+      \field{dateera}{ce}
+      \field{pages}{39\bibrangedash 43}
+      \range{pages}{5}
+    \endentry
+    \entry{umbach_europaische_2005}{article}{}
+      \name{author}{1}{}{%
+        {{hash=82f9d1ccd9290204a92c541869bdaa08}{%
+           family={Umbach},
+           familyi={U\bibinitperiod},
+           given={Frank},
+           giveni={F\bibinitperiod}}}%
+      }
+      \strng{namehash}{82f9d1ccd9290204a92c541869bdaa08}
+      \strng{fullhash}{82f9d1ccd9290204a92c541869bdaa08}
+      \strng{bibnamehash}{82f9d1ccd9290204a92c541869bdaa08}
+      \strng{authorbibnamehash}{82f9d1ccd9290204a92c541869bdaa08}
+      \strng{authornamehash}{82f9d1ccd9290204a92c541869bdaa08}
+      \strng{authorfullhash}{82f9d1ccd9290204a92c541869bdaa08}
+      \field{sortinit}{U}
+      \field{sortinithash}{6901a00e45705986ee5e7ca9fd39adca}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Energiewirtschaftliche Tagesfragen}
+      \field{number}{9}
+      \field{title}{Europäische und deutsche Energieversorgungssicherheit am Scheideweg}
+      \field{volume}{55}
+      \field{year}{2005}
+      \field{dateera}{ce}
+      \field{pages}{629\bibrangedash 639}
+      \range{pages}{11}
+      \keyw{Nachhaltigkeit,Bundesrepublik Deutschland,Energiepolitik,Energieverbrauch,Energieversorgung,energy consumption,energy policy,energy supply,{EU},Europa,Europe,Federal Republic of Germany,raw materials,resources,Ressourcen,Rohstoff,Russia,Russland,sustainability}
+    \endentry
+  \enddatalist
+  \missing{AEUV Art. 194}
+  \missing{Nettesheim in Grabitz/Hilf}
+  \missing{OECDleitfaden2019}
+  \missing{Rn. 17}
+  \missing{deutsche\_kontrollstelle\_eu-sorgfaltspflichten\_in\_rohstofflieferketten\_jahresbericht\_2023}
+  \missing{ruettinger_doddfrank_2015}
+\endrefsection
+\endinput
+

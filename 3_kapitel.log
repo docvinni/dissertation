@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2024.2.12)  15 OCT 2024 16:40
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2024.2.12)  16 OCT 2024 11:06
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -664,7 +664,51 @@ Package biblatex Info: Automatic encoding selection.
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file '3_kapitel.bbl' found.
 
-(./3_kapitel.bbl)
+(./3_kapitel.bbl
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                AEUV Art. 194
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                Nettesheim in Grabitz/Hilf
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                OECDleitfaden2019
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                Rn. 17
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                deutsche\_kontrollstelle\_eu-sorgfaltspflichten\_in\_
+rohstofflieferketten\_jahresbericht\_2023
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                ruettinger_doddfrank_2015
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+)
 Package biblatex Info: Reference section=0 on input line 80.
 Package biblatex Info: Reference segment=0 on input line 80.
 
@@ -715,27 +759,6 @@ r/m/n/12 2
  []
 
 [2]
-
-LaTeX Warning: Citation 'callies_euvaeuv_2022' on page 3 undefined on input lin
-e 112.
-
-
-LaTeX Warning: Citation 'callies_stellungnahme_2007' on page 3 undefined on inp
-ut line 112.
-
-
-LaTeX Warning: Citation 'frau_rohstoffe_2025' on page 3 undefined on input line
- 126.
-
-
-LaTeX Warning: Citation 'dauses_handbuch_2024' on page 3 undefined on input lin
-e 126.
-
-
-LaTeX Warning: Citation 'von_der_groeben_europaisches_2024' on page 3 undefined
- on input line 127.
-
-
 Overfull \hbox (31.0184pt too wide) has occurred while \output is active
 \T1/lmr/m/sl/12 KAPITEL 1..  DER GEGENSTAND DES ROHSTOFFVERWALTUNGSRECHT \T1/lm
 r/m/n/12 3
@@ -747,31 +770,602 @@ Overfull \hbox (31.0184pt too wide) has occurred while \output is active
 r/m/n/12 4
  []
 
-[4])
-Runaway argument?
-{{Nettesheim in Grabitz/Hilf, AEUV Art. 194, Rn. 17} Der Vollst√§ndig\ETC.
-! File ended while scanning use of \blx@citeargs@iii.
-<inserted text> 
-                \par 
-<*> 3_kapitel.tex
-                 
-I suspect you have forgotten a `}', causing me
-to read past where you wanted me to stop.
-I'll try to recover; but if the error is serious,
-you'd better type `E' or `X' now and fix your file.
+[4]
 
-! Emergency stop.
-<*> 3_kapitel.tex
-                 
-*** (job aborted, no legal \end found)
+LaTeX Warning: Citation 'Nettesheim in Grabitz/Hilf' on page 5 undefined on inp
+ut line 140.
 
- 
+
+LaTeX Warning: Citation 'AEUV Art. 194' on page 5 undefined on input line 140.
+
+
+LaTeX Warning: Citation 'Rn. 17' on page 5 undefined on input line 140.
+
+
+Overfull \hbox (31.0184pt too wide) has occurred while \output is active
+\T1/lmr/m/sl/12 KAPITEL 1..  DER GEGENSTAND DES ROHSTOFFVERWALTUNGSRECHT \T1/lm
+r/m/n/12 5
+ []
+
+[5]
+Overfull \hbox (31.0184pt too wide) has occurred while \output is active
+\T1/lmr/m/sl/12 KAPITEL 1..  DER GEGENSTAND DES ROHSTOFFVERWALTUNGSRECHT \T1/lm
+r/m/n/12 6
+ []
+
+[6]
+Overfull \hbox (31.0184pt too wide) has occurred while \output is active
+\T1/lmr/m/sl/12 KAPITEL 1..  DER GEGENSTAND DES ROHSTOFFVERWALTUNGSRECHT \T1/lm
+r/m/n/12 7
+ []
+
+[7]
+Overfull \hbox (31.0184pt too wide) has occurred while \output is active
+\T1/lmr/m/sl/12 KAPITEL 1..  DER GEGENSTAND DES ROHSTOFFVERWALTUNGSRECHT \T1/lm
+r/m/n/12 8
+ []
+
+[8]
+Overfull \hbox (31.0184pt too wide) has occurred while \output is active
+\T1/lmr/m/sl/12 KAPITEL 1..  DER GEGENSTAND DES ROHSTOFFVERWALTUNGSRECHT \T1/lm
+r/m/n/12 9
+ []
+
+[9]
+Overfull \hbox (36.89339pt too wide) has occurred while \output is active
+\T1/lmr/m/sl/12 KAPITEL 1..  DER GEGENSTAND DES ROHSTOFFVERWALTUNGSRECHT \T1/lm
+r/m/n/12 10
+ []
+
+[10]
+Overfull \hbox (36.89339pt too wide) has occurred while \output is active
+\T1/lmr/m/sl/12 KAPITEL 1..  DER GEGENSTAND DES ROHSTOFFVERWALTUNGSRECHT \T1/lm
+r/m/n/12 11
+ []
+
+[11]
+
+LaTeX Warning: Reference `Kapitel 1' on page 12 undefined on input line 213.
+
+
+Overfull \hbox (9.31917pt too wide) in paragraph at lines 213--214
+\T1/lmr/m/n/12 tig-te Zu-gang zu Roh-stof-fen als es-sen-ti-el-ler Fak-tor der 
+EU-Wettbewerbsf‰higkeit
+ []
+
+
+Overfull \hbox (36.89339pt too wide) has occurred while \output is active
+\T1/lmr/m/sl/12 KAPITEL 1..  DER GEGENSTAND DES ROHSTOFFVERWALTUNGSRECHT \T1/lm
+r/m/n/12 12
+ []
+
+[12]
+Overfull \hbox (29.3307pt too wide) in paragraph at lines 215--216
+\T1/lmr/m/n/12 als ein wei-te-rer, aber durch-aus be-deu-ten-de-rer Mei-len-ste
+in in der EU-Rohstoffpolitik
+ []
+
+
+Overfull \hbox (36.89339pt too wide) has occurred while \output is active
+\T1/lmr/m/sl/12 KAPITEL 1..  DER GEGENSTAND DES ROHSTOFFVERWALTUNGSRECHT \T1/lm
+r/m/n/12 13
+ []
+
+[13]
+
+LaTeX Warning: Citation 'ruettinger_doddfrank_2015' on page 14 undefined on inp
+ut line 230.
+
+
+Overfull \hbox (36.89339pt too wide) has occurred while \output is active
+\T1/lmr/m/sl/12 KAPITEL 1..  DER GEGENSTAND DES ROHSTOFFVERWALTUNGSRECHT \T1/lm
+r/m/n/12 14
+ []
+
+[14]
+Overfull \hbox (36.89339pt too wide) has occurred while \output is active
+\T1/lmr/m/sl/12 KAPITEL 1..  DER GEGENSTAND DES ROHSTOFFVERWALTUNGSRECHT \T1/lm
+r/m/n/12 15
+ []
+
+[15]
+Overfull \hbox (36.89339pt too wide) has occurred while \output is active
+\T1/lmr/m/sl/12 KAPITEL 1..  DER GEGENSTAND DES ROHSTOFFVERWALTUNGSRECHT \T1/lm
+r/m/n/12 16
+ []
+
+[16]
+Overfull \hbox (55.01375pt too wide) in paragraph at lines 347--348
+\T1/lmr/m/n/12 Die Ver-ord-nung (EU) 2017/821, auch be-kannt als "Konfliktminer
+alien-Verordnung"(VO)
+ []
+
+
+Overfull \hbox (36.89339pt too wide) has occurred while \output is active
+\T1/lmr/m/sl/12 KAPITEL 1..  DER GEGENSTAND DES ROHSTOFFVERWALTUNGSRECHT \T1/lm
+r/m/n/12 17
+ []
+
+[17]
+Overfull \hbox (36.89339pt too wide) has occurred while \output is active
+\T1/lmr/m/sl/12 KAPITEL 1..  DER GEGENSTAND DES ROHSTOFFVERWALTUNGSRECHT \T1/lm
+r/m/n/12 18
+ []
+
+[18]
+
+LaTeX Warning: Citation 'OECDleitfaden2019' on page 19 undefined on input line 
+354.
+
+
+Overfull \hbox (5.33263pt too wide) in paragraph at lines 360--361
+\T1/lmr/m/n/12 (Mineralische-Rohstoffe-Sorgfaltspflichten-Gesetz, Min-Roh-SorgG
+) zur Ver-ord-
+ []
+
+
+Overfull \hbox (14.18826pt too wide) in paragraph at lines 362--363
+\T1/lmr/m/n/12 chen-de Kon-troll-stel-le ge-schaf-fen, die mit der An-wen-dung 
+der Konfliktmineralien-
+ []
+
+
+Overfull \hbox (36.89339pt too wide) has occurred while \output is active
+\T1/lmr/m/sl/12 KAPITEL 1..  DER GEGENSTAND DES ROHSTOFFVERWALTUNGSRECHT \T1/lm
+r/m/n/12 19
+ []
+
+[19]
+
+LaTeX Warning: Citation 'deutsche\_kontrollstelle\_eu-sorgfaltspflichten\_in\_r
+ohstofflieferketten\_jahresbericht\_2023' on page 20 undefined on input line 36
+4.
+
+
+Overfull \hbox (119.03307pt too wide) in paragraph at lines 364--364
+[][][]\T1/lmr/m/n/10 .| 
+ []
+
+
+LaTeX Warning: Citation 'deutsche\_kontrollstelle\_eu-sorgfaltspflichten\_in\_r
+ohstofflieferketten\_jahresbericht\_2023' on page 20 undefined on input line 36
+5.
+
+
+Overfull \hbox (119.03307pt too wide) in paragraph at lines 365--365
+[][][]\T1/lmr/m/n/10 .| 
+ []
+
+
+Overfull \hbox (36.89339pt too wide) has occurred while \output is active
+\T1/lmr/m/sl/12 KAPITEL 1..  DER GEGENSTAND DES ROHSTOFFVERWALTUNGSRECHT \T1/lm
+r/m/n/12 20
+ []
+
+[20{c:/texlive/2023/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc}]
+
+LaTeX Warning: Citation 'deutsche\_kontrollstelle\_eu-sorgfaltspflichten\_in\_r
+ohstofflieferketten\_jahresbericht\_2023' on page 21 undefined on input line 37
+2.
+
+
+Overfull \hbox (119.03307pt too wide) in paragraph at lines 372--372
+[][][]\T1/lmr/m/n/10 .| 
+ []
+
+
+Overfull \hbox (36.89339pt too wide) has occurred while \output is active
+\T1/lmr/m/sl/12 KAPITEL 1..  DER GEGENSTAND DES ROHSTOFFVERWALTUNGSRECHT \T1/lm
+r/m/n/12 21
+ []
+
+[21]
+Overfull \hbox (0.5037pt too wide) in paragraph at lines 385--386
+[]\T1/lmr/m/n/12 Schlieˇlich stellt die DEK-SOR fest, dass Ver-su-che von Un-te
+r-neh-men wahr-
+ []
+
+
+Overfull \hbox (1.01488pt too wide) in paragraph at lines 391--393
+\T1/lmr/m/n/12 lun-gen nach-zu-kom-men, so-dass hier mit der Schaf-fung ei-ner 
+sektor- und rechts-
+ []
+
+
+Overfull \hbox (36.89339pt too wide) has occurred while \output is active
+\T1/lmr/m/sl/12 KAPITEL 1..  DER GEGENSTAND DES ROHSTOFFVERWALTUNGSRECHT \T1/lm
+r/m/n/12 22
+ []
+
+[22]
+Overfull \hbox (36.89339pt too wide) has occurred while \output is active
+\T1/lmr/m/sl/12 KAPITEL 1..  DER GEGENSTAND DES ROHSTOFFVERWALTUNGSRECHT \T1/lm
+r/m/n/12 23
+ []
+
+[23]
+Overfull \hbox (42.58649pt too wide) in paragraph at lines 410--411
+[]\T1/lmr/m/n/12 Nichtsdestotrotz kann fest-ge-hal-ten wer-den, dass es sich be
+i der Konfliktmineralien-
+ []
+
+
+Overfull \hbox (36.89339pt too wide) has occurred while \output is active
+\T1/lmr/m/sl/12 KAPITEL 1..  DER GEGENSTAND DES ROHSTOFFVERWALTUNGSRECHT \T1/lm
+r/m/n/12 24
+ []
+
+[24]
+
+LaTeX Warning: Citation 'deutsche\_kontrollstelle\_eu-sorgfaltspflichten\_in\_r
+ohstofflieferketten\_jahresbericht\_2023' on page 25 undefined on input line 41
+4.
+
+
+Overfull \hbox (119.03307pt too wide) in paragraph at lines 414--414
+[][][]\T1/lmr/m/n/10 .| 
+ []
+
+
+Overfull \hbox (3.21457pt too wide) in paragraph at lines 417--418
+[]\T1/lmr/m/n/12 Berufen auf Ver-trau-en des Uni-ons-ein-f¸h-rers/Verh¸tter/Roh
+stoffproduzent 
+ []
+
+
+LaTeX Warning: Citation 'deutsche\_kontrollstelle\_eu-sorgfaltspflichten\_in\_r
+ohstofflieferketten\_jahresbericht\_2023' on page 25 undefined on input line 41
+9.
+
+
+Overfull \hbox (119.03307pt too wide) in paragraph at lines 419--419
+[][][]\T1/lmr/m/n/10 .| 
+ []
+
+
+Overfull \hbox (36.89339pt too wide) has occurred while \output is active
+\T1/lmr/m/sl/12 KAPITEL 1..  DER GEGENSTAND DES ROHSTOFFVERWALTUNGSRECHT \T1/lm
+r/m/n/12 25
+ []
+
+[25]
+Overfull \hbox (36.89339pt too wide) has occurred while \output is active
+\T1/lmr/m/sl/12 KAPITEL 1..  DER GEGENSTAND DES ROHSTOFFVERWALTUNGSRECHT \T1/lm
+r/m/n/12 26
+ []
+
+[26]
+Overfull \hbox (15.88524pt too wide) in paragraph at lines 445--445
+[]\T1/lmr/bx/n/17.28 Wechselwirkungen zwi-schen deut-schem und
+ []
+
+
+Overfull \hbox (10.37944pt too wide) in paragraph at lines 457--457
+[]\T1/lmr/bx/n/17.28 Betrachtung wei-te-rer aus-ge-w‰hl-ter Rechts-
+ []
+
+
+Overfull \hbox (36.89339pt too wide) has occurred while \output is active
+\T1/lmr/m/sl/12 KAPITEL 1..  DER GEGENSTAND DES ROHSTOFFVERWALTUNGSRECHT \T1/lm
+r/m/n/12 27
+ []
+
+[27]
+Overfull \hbox (36.89339pt too wide) has occurred while \output is active
+\T1/lmr/m/sl/12 KAPITEL 1..  DER GEGENSTAND DES ROHSTOFFVERWALTUNGSRECHT \T1/lm
+r/m/n/12 28
+ []
+
+[28]
+Overfull \hbox (2.43636pt too wide) in paragraph at lines 478--478
+[]\T1/lmr/bx/n/17.28 Herausforderungen f¸r das Roh-stoff-ver-wal-
+ []
+
+
+Overfull \hbox (36.89339pt too wide) has occurred while \output is active
+\T1/lmr/m/sl/12 KAPITEL 1..  DER GEGENSTAND DES ROHSTOFFVERWALTUNGSRECHT \T1/lm
+r/m/n/12 29
+ []
+
+[29]
+Overfull \hbox (36.89339pt too wide) has occurred while \output is active
+\T1/lmr/m/sl/12 KAPITEL 1..  DER GEGENSTAND DES ROHSTOFFVERWALTUNGSRECHT \T1/lm
+r/m/n/12 30
+ []
+
+[30]
+Overfull \hbox (36.89339pt too wide) has occurred while \output is active
+\T1/lmr/m/sl/12 KAPITEL 1..  DER GEGENSTAND DES ROHSTOFFVERWALTUNGSRECHT \T1/lm
+r/m/n/12 31
+ []
+
+[31] (./3_kapitel.aux)
+
+LaTeX Warning: There were undefined references.
+
+Package rerunfilecheck Info: File `3_kapitel.out' has not changed.
+(rerunfilecheck)             Checksum: 9A217EE35DDB7E7A11FC60A73A2D54CC;8454.
+Package logreq Info: Writing requests to '3_kapitel.run.xml'.
+\openout1 = `3_kapitel.run.xml'.
+
+ ) 
 Here is how much of TeX's memory you used:
- 18825 strings out of 476025
- 330981 string characters out of 5794015
- 1862382 words of memory out of 5000000
- 39016 multiletter control sequences out of 15000+600000
- 582704 words of font info for 68 fonts, out of 8000000 for 9000
+ 19148 strings out of 476025
+ 336946 string characters out of 5794015
+ 1868382 words of memory out of 5000000
+ 39207 multiletter control sequences out of 15000+600000
+ 585499 words of font info for 69 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
- 75i,8n,76p,4238b,2367s stack positions out of 10000i,1000n,20000p,200000b,200000s
-!  ==> Fatal error occurred, no output PDF file produced!
+ 75i,8n,76p,4342b,2367s stack positions out of 10000i,1000n,20000p,200000b,200000s
+
+pdfTeX warning (dest): name{Hfootnote.64} has been referenced but does not exis
+t, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{Hfootnote.63} has been referenced but does not exis
+t, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{Hfootnote.62} has been referenced but does not exis
+t, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{Hfootnote.61} has been referenced but does not exis
+t, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{Hfootnote.60} has been referenced but does not exis
+t, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{Hfootnote.59} has been referenced but does not exis
+t, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{Hfootnote.58} has been referenced but does not exis
+t, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{Hfootnote.57} has been referenced but does not exis
+t, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{Hfootnote.56} has been referenced but does not exis
+t, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{Hfootnote.55} has been referenced but does not exis
+t, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{Hfootnote.54} has been referenced but does not exis
+t, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{Hfootnote.53} has been referenced but does not exis
+t, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{Hfootnote.52} has been referenced but does not exis
+t, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{Hfootnote.51} has been referenced but does not exis
+t, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{Hfootnote.50} has been referenced but does not exis
+t, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{Hfootnote.49} has been referenced but does not exis
+t, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{Hfootnote.48} has been referenced but does not exis
+t, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{Hfootnote.47} has been referenced but does not exis
+t, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{Hfootnote.46} has been referenced but does not exis
+t, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{Hfootnote.45} has been referenced but does not exis
+t, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{Hfootnote.44} has been referenced but does not exis
+t, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{Hfootnote.43} has been referenced but does not exis
+t, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{Hfootnote.42} has been referenced but does not exis
+t, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{Hfootnote.41} has been referenced but does not exis
+t, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{Hfootnote.40} has been referenced but does not exis
+t, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{Hfootnote.39} has been referenced but does not exis
+t, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{Hfootnote.38} has been referenced but does not exis
+t, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{Hfootnote.37} has been referenced but does not exis
+t, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{Hfootnote.36} has been referenced but does not exis
+t, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{Hfootnote.35} has been referenced but does not exis
+t, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{Hfootnote.34} has been referenced but does not exis
+t, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{Hfootnote.33} has been referenced but does not exis
+t, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{Hfootnote.32} has been referenced but does not exis
+t, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{Hfootnote.31} has been referenced but does not exis
+t, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{Hfootnote.30} has been referenced but does not exis
+t, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{Hfootnote.29} has been referenced but does not exis
+t, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{Hfootnote.28} has been referenced but does not exis
+t, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{Hfootnote.27} has been referenced but does not exis
+t, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{Hfootnote.26} has been referenced but does not exis
+t, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{Hfootnote.25} has been referenced but does not exis
+t, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{Hfootnote.24} has been referenced but does not exis
+t, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{Hfootnote.23} has been referenced but does not exis
+t, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{Hfootnote.22} has been referenced but does not exis
+t, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{Hfootnote.21} has been referenced but does not exis
+t, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{Hfootnote.20} has been referenced but does not exis
+t, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{Hfootnote.19} has been referenced but does not exis
+t, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{Hfootnote.18} has been referenced but does not exis
+t, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{Hfootnote.17} has been referenced but does not exis
+t, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{Hfootnote.16} has been referenced but does not exis
+t, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{Hfootnote.15} has been referenced but does not exis
+t, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{Hfootnote.14} has been referenced but does not exis
+t, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{Hfootnote.13} has been referenced but does not exis
+t, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{Hfootnote.12} has been referenced but does not exis
+t, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{Hfootnote.11} has been referenced but does not exis
+t, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{Hfootnote.10} has been referenced but does not exis
+t, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{Hfootnote.9} has been referenced but does not exist
+, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{Hfootnote.8} has been referenced but does not exist
+, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{Hfootnote.7} has been referenced but does not exist
+, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{Hfootnote.6} has been referenced but does not exist
+, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{Hfootnote.5} has been referenced but does not exist
+, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{Hfootnote.4} has been referenced but does not exist
+, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{Hfootnote.3} has been referenced but does not exist
+, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{Hfootnote.2} has been referenced but does not exist
+, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{Hfootnote.1} has been referenced but does not exist
+, replaced by a fixed one
+
+<c:/texlive/2023/texmf-dist/fonts/type1/public/lm/lmbx10.pfb><c:/texlive/2023/t
+exmf-dist/fonts/type1/public/lm/lmbx12.pfb><c:/texlive/2023/texmf-dist/fonts/ty
+pe1/public/lm/lmcsc10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/lm/lmm
+i12.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/lm/lmr10.pfb><c:/texlive
+/2023/texmf-dist/fonts/type1/public/lm/lmr12.pfb><c:/texlive/2023/texmf-dist/fo
+nts/type1/public/lm/lmr7.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/lm/
+lmr8.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/lm/lmri10.pfb><c:/texli
+ve/2023/texmf-dist/fonts/type1/public/lm/lmri12.pfb><c:/texlive/2023/texmf-dist
+/fonts/type1/public/lm/lmro12.pfb>
+Output written on 3_kapitel.pdf (31 pages, 368141 bytes).
+PDF statistics:
+ 540 PDF objects out of 1000 (max. 8388607)
+ 480 compressed objects within 5 object streams
+ 148 named destinations out of 1000 (max. 500000)
+ 313 words of extra memory for PDF output out of 10000 (max. 10000000)
+
