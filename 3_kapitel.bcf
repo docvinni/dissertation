@@ -2362,47 +2362,97 @@
     <bcf:datasource type="file" datatype="bibtex" glob="false">literatur.bib</bcf:datasource>
   </bcf:bibdata>
   <bcf:section number="0">
-    <bcf:citekey order="1" intorder="1">callies_euvaeuv_2022</bcf:citekey>
-    <bcf:citekey order="2" intorder="1">callies_stellungnahme_2007</bcf:citekey>
-    <bcf:citekey order="3" intorder="1">frau_rohstoffe_2025</bcf:citekey>
-    <bcf:citekey order="4" intorder="1">dauses_handbuch_2024</bcf:citekey>
-    <bcf:citekey order="5" intorder="1">von_der_groeben_europaisches_2024</bcf:citekey>
-    <bcf:citekey order="6" intorder="1">grabitz_recht_2024</bcf:citekey>
-    <bcf:citekey order="7" intorder="1">umbach_europaische_2005</bcf:citekey>
-    <bcf:citekey order="8" intorder="1">grabitz_recht_2024</bcf:citekey>
-    <bcf:citekey order="9" intorder="1">grabitz_recht_2024</bcf:citekey>
-    <bcf:citekey order="10" intorder="1">Bings in Streinz</bcf:citekey>
-    <bcf:citekey order="10" intorder="2">Art. 194 Rn. 32f.</bcf:citekey>
-    <bcf:citekey order="11" intorder="1">Bings in Streinz</bcf:citekey>
-    <bcf:citekey order="11" intorder="2">Art. 194 Rn. 33</bcf:citekey>
-    <bcf:citekey order="12" intorder="1">Bings in Streinz</bcf:citekey>
-    <bcf:citekey order="12" intorder="2">Art. 194 Rn. 33</bcf:citekey>
-    <bcf:citekey order="13" intorder="1">Nettesheim in Grabitz/Hilf</bcf:citekey>
-    <bcf:citekey order="13" intorder="2">AEUV Art. 194</bcf:citekey>
-    <bcf:citekey order="13" intorder="3">Rn. 17</bcf:citekey>
-    <bcf:citekey order="14" intorder="1">grabitz_recht_2024</bcf:citekey>
+    <bcf:citekey order="1" intorder="1">Callies</bcf:citekey>
+    <bcf:citekey order="1" intorder="2">Berliner Beiträge 137</bcf:citekey>
+    <bcf:citekey order="1" intorder="3">S. 39f.</bcf:citekey>
+    <bcf:citekey order="2" intorder="1">callies_euvaeuv_2022</bcf:citekey>
+    <bcf:citekey order="3" intorder="1">Nettesheim</bcf:citekey>
+    <bcf:citekey order="3" intorder="2">Grabits/Hilf/Nettesheim</bcf:citekey>
+    <bcf:citekey order="3" intorder="3">AEUV Art 194 Rn. 35</bcf:citekey>
+    <bcf:citekey order="4" intorder="1">callies_stellungnahme_2007</bcf:citekey>
+    <bcf:citekey order="5" intorder="1">Callies</bcf:citekey>
+    <bcf:citekey order="5" intorder="2">Berliner Beiträge 137</bcf:citekey>
+    <bcf:citekey order="5" intorder="3">S. 40</bcf:citekey>
+    <bcf:citekey order="6" intorder="1">Callies</bcf:citekey>
+    <bcf:citekey order="6" intorder="2">Berliner Beiträge 137</bcf:citekey>
+    <bcf:citekey order="6" intorder="3">S. 40</bcf:citekey>
+    <bcf:citekey order="7" intorder="1">Gundel</bcf:citekey>
+    <bcf:citekey order="7" intorder="2">Theobald/Kühling</bcf:citekey>
+    <bcf:citekey order="7" intorder="3">Europäisches Energierecht</bcf:citekey>
+    <bcf:citekey order="7" intorder="4">V. Rn. 86</bcf:citekey>
+    <bcf:citekey order="8" intorder="1">Gundel</bcf:citekey>
+    <bcf:citekey order="8" intorder="2">Theobald/Kühling</bcf:citekey>
+    <bcf:citekey order="8" intorder="3">Europäisches Energierecht</bcf:citekey>
+    <bcf:citekey order="8" intorder="4">V. Rn. 87</bcf:citekey>
+    <bcf:citekey order="9" intorder="1">Gundel in Tehobald/Kühling</bcf:citekey>
+    <bcf:citekey order="9" intorder="2">IV</bcf:citekey>
+    <bcf:citekey order="9" intorder="3">Energieumweltrecht</bcf:citekey>
+    <bcf:citekey order="9" intorder="4">Rn. 74ff.</bcf:citekey>
+    <bcf:citekey order="10" intorder="1">frau_rohstoffe_2025</bcf:citekey>
+    <bcf:citekey order="11" intorder="1">dauses_handbuch_2024</bcf:citekey>
+    <bcf:citekey order="12" intorder="1">von_der_groeben_europaisches_2024</bcf:citekey>
+    <bcf:citekey order="13" intorder="1">grabitz_recht_2024</bcf:citekey>
+    <bcf:citekey order="14" intorder="1">umbach_europaische_2005</bcf:citekey>
     <bcf:citekey order="15" intorder="1">grabitz_recht_2024</bcf:citekey>
     <bcf:citekey order="16" intorder="1">grabitz_recht_2024</bcf:citekey>
-    <bcf:citekey order="17" intorder="1">dauses_handbuch_2024</bcf:citekey>
-    <bcf:citekey order="18" intorder="1">dauses_handbuch_2024</bcf:citekey>
-    <bcf:citekey order="19" intorder="1">classen_europarecht_2021</bcf:citekey>
-    <bcf:citekey order="20" intorder="1">chamon_anwendung_2023</bcf:citekey>
-    <bcf:citekey order="21" intorder="1">callies_umweltrecht_2022</bcf:citekey>
+    <bcf:citekey order="17" intorder="1">Bings in Streinz</bcf:citekey>
+    <bcf:citekey order="17" intorder="2">Art. 194 Rn. 32f.</bcf:citekey>
+    <bcf:citekey order="18" intorder="1">Bings in Streinz</bcf:citekey>
+    <bcf:citekey order="18" intorder="2">Art. 194 Rn. 33</bcf:citekey>
+    <bcf:citekey order="19" intorder="1">Bings in Streinz</bcf:citekey>
+    <bcf:citekey order="19" intorder="2">Art. 194 Rn. 33</bcf:citekey>
+    <bcf:citekey order="20" intorder="1">Nettesheim</bcf:citekey>
+    <bcf:citekey order="20" intorder="2">Grabitz/Hilf/nettesheim AEUV Art. 194</bcf:citekey>
+    <bcf:citekey order="20" intorder="3">Rn 35</bcf:citekey>
+    <bcf:citekey order="21" intorder="1">Nettesheim in Grabitz/Hilf</bcf:citekey>
+    <bcf:citekey order="21" intorder="2">AEUV Art. 194</bcf:citekey>
+    <bcf:citekey order="21" intorder="3">Rn. 17</bcf:citekey>
     <bcf:citekey order="22" intorder="1">grabitz_recht_2024</bcf:citekey>
-    <bcf:citekey order="23" intorder="1">ruettinger_doddfrank_2015</bcf:citekey>
-    <bcf:citekey order="24" intorder="1">OECDleitfaden2019</bcf:citekey>
-    <bcf:citekey order="25" intorder="1">ruttloff_lieferkettensorgfaltspflichtengesetz_2022</bcf:citekey>
-    <bcf:citekey order="26" intorder="1">deutsche\_kontrollstelle\_eu-sorgfaltspflichten\_in\_rohstofflieferketten\_jahresbericht\_2023</bcf:citekey>
-    <bcf:citekey order="27" intorder="1">deutsche\_kontrollstelle\_eu-sorgfaltspflichten\_in\_rohstofflieferketten\_jahresbericht\_2023</bcf:citekey>
-    <bcf:citekey order="28" intorder="1">deutsche\_kontrollstelle\_eu-sorgfaltspflichten\_in\_rohstofflieferketten\_jahresbericht\_2023</bcf:citekey>
-    <bcf:citekey order="29" intorder="1">teicke_gesetzliche_2018</bcf:citekey>
-    <bcf:citekey order="30" intorder="1">grado_eu_2018</bcf:citekey>
-    <bcf:citekey order="31" intorder="1">teicke_gesetzliche_2018</bcf:citekey>
-    <bcf:citekey order="32" intorder="1">deutsche\_kontrollstelle\_eu-sorgfaltspflichten\_in\_rohstofflieferketten\_jahresbericht\_2023</bcf:citekey>
-    <bcf:citekey order="33" intorder="1">deutsche\_kontrollstelle\_eu-sorgfaltspflichten\_in\_rohstofflieferketten\_jahresbericht\_2023</bcf:citekey>
-    <bcf:citekey order="34" intorder="1">teicke_gesetzliche_2018</bcf:citekey>
-    <bcf:citekey order="35" intorder="1">ruttloff_lieferkettensorgfaltspflichtengesetz_2022</bcf:citekey>
-    <bcf:citekey order="36" intorder="1">ruttloff_lieferkettensorgfaltspflichtengesetz_2022</bcf:citekey>
+    <bcf:citekey order="23" intorder="1">grabitz_recht_2024</bcf:citekey>
+    <bcf:citekey order="24" intorder="1">grabitz_recht_2024</bcf:citekey>
+    <bcf:citekey order="25" intorder="1">dauses_handbuch_2024</bcf:citekey>
+    <bcf:citekey order="26" intorder="1">dauses_handbuch_2024</bcf:citekey>
+    <bcf:citekey order="27" intorder="1">classen_europarecht_2021</bcf:citekey>
+    <bcf:citekey order="28" intorder="1">chamon_anwendung_2023</bcf:citekey>
+    <bcf:citekey order="29" intorder="1">callies_umweltrecht_2022</bcf:citekey>
+    <bcf:citekey order="30" intorder="1">Ehricke/Hackländer: ZEuS 2008</bcf:citekey>
+    <bcf:citekey order="30" intorder="2">S. 579</bcf:citekey>
+    <bcf:citekey order="30" intorder="3">595f.</bcf:citekey>
+    <bcf:citekey order="31" intorder="1">Callies</bcf:citekey>
+    <bcf:citekey order="31" intorder="2">Berliner Online Beiträge zum Europarecht</bcf:citekey>
+    <bcf:citekey order="31" intorder="3">Nr 52</bcf:citekey>
+    <bcf:citekey order="32" intorder="1">Gundel in Dause/Ludwigs</bcf:citekey>
+    <bcf:citekey order="32" intorder="2">M.</bcf:citekey>
+    <bcf:citekey order="32" intorder="3">Rn 45 iVm u. mwN v. Danwitz EWS 2003 393ff.</bcf:citekey>
+    <bcf:citekey order="33" intorder="1">Calliies</bcf:citekey>
+    <bcf:citekey order="33" intorder="2">Berliner Beiträge 52</bcf:citekey>
+    <bcf:citekey order="33" intorder="3">S. 18ff.</bcf:citekey>
+    <bcf:citekey order="33" intorder="4">mwN Hamer in von der Groeben/schwarze/Hatje 2015</bcf:citekey>
+    <bcf:citekey order="33" intorder="5">Art. 194</bcf:citekey>
+    <bcf:citekey order="33" intorder="6">Rn. 26</bcf:citekey>
+    <bcf:citekey order="34" intorder="1">Gundel EWS 2011</bcf:citekey>
+    <bcf:citekey order="34" intorder="2">25</bcf:citekey>
+    <bcf:citekey order="34" intorder="3">29; Kahl EuR 2009</bcf:citekey>
+    <bcf:citekey order="34" intorder="4">601</bcf:citekey>
+    <bcf:citekey order="34" intorder="5">608</bcf:citekey>
+    <bcf:citekey order="35" intorder="1">grabitz_recht_2024</bcf:citekey>
+    <bcf:citekey order="36" intorder="1">ruettinger_doddfrank_2015</bcf:citekey>
+    <bcf:citekey order="37" intorder="1">OECDleitfaden2019</bcf:citekey>
+    <bcf:citekey order="38" intorder="1">ruttloff_lieferkettensorgfaltspflichtengesetz_2022</bcf:citekey>
+    <bcf:citekey order="39" intorder="1">deutsche\_kontrollstelle\_eu-sorgfaltspflichten\_in\_rohstofflieferketten\_jahresbericht\_2023</bcf:citekey>
+    <bcf:citekey order="40" intorder="1">deutsche\_kontrollstelle\_eu-sorgfaltspflichten\_in\_rohstofflieferketten\_jahresbericht\_2023</bcf:citekey>
+    <bcf:citekey order="41" intorder="1">deutsche\_kontrollstelle\_eu-sorgfaltspflichten\_in\_rohstofflieferketten\_jahresbericht\_2023</bcf:citekey>
+    <bcf:citekey order="42" intorder="1">teicke_gesetzliche_2018</bcf:citekey>
+    <bcf:citekey order="43" intorder="1">grado_eu_2018</bcf:citekey>
+    <bcf:citekey order="44" intorder="1">teicke_gesetzliche_2018</bcf:citekey>
+    <bcf:citekey order="45" intorder="1">deutsche\_kontrollstelle\_eu-sorgfaltspflichten\_in\_rohstofflieferketten\_jahresbericht\_2023</bcf:citekey>
+    <bcf:citekey order="46" intorder="1">deutsche\_kontrollstelle\_eu-sorgfaltspflichten\_in\_rohstofflieferketten\_jahresbericht\_2023</bcf:citekey>
+    <bcf:citekey order="47" intorder="1">teicke_gesetzliche_2018</bcf:citekey>
+    <bcf:citekey order="48" intorder="1">ruttloff_lieferkettensorgfaltspflichtengesetz_2022</bcf:citekey>
+    <bcf:citekey order="49" intorder="1">ruttloff_lieferkettensorgfaltspflichtengesetz_2022</bcf:citekey>
+    <bcf:citekey order="50" intorder="1">Ludiwgs</bcf:citekey>
+    <bcf:citekey order="50" intorder="2">NVwZ 2018</bcf:citekey>
+    <bcf:citekey order="50" intorder="3">1417</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="nty">
