@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.7.13)  23 OCT 2024 21:19
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.7.13)  27 OCT 2024 01:34
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -711,82 +711,68 @@ UF EUROPÄISCHER UND NATIONALER EBENE \T1/lmr/m/n/12 2
  []
 
 [2]
-
-LaTeX Warning: Citation 'Callies' on page 3 undefined on input line 124.
-
-
-LaTeX Warning: Citation 'Berliner BeitrÃ¤ge 137' on page 3 undefined on input l
-ine 124.
-
-
-LaTeX Warning: Citation 'S. 39f.' on page 3 undefined on input line 124.
-
-
-LaTeX Warning: Citation 'callies_euvaeuv_2022' on page 3 undefined on input lin
-e 126.
-
-
-LaTeX Warning: Citation 'Nettesheim' on page 3 undefined on input line 126.
-
-
-LaTeX Warning: Citation 'Grabits/Hilf/Nettesheim' on page 3 undefined on input 
-line 126.
-
-
-LaTeX Warning: Citation 'AEUV Art 194 Rn. 35' on page 3 undefined on input line
- 126.
-
-
-LaTeX Warning: Citation 'callies_stellungnahme_2007' on page 3 undefined on inp
-ut line 126.
-
-
-LaTeX Warning: Citation 'Callies' on page 3 undefined on input line 126.
-
-
-LaTeX Warning: Citation 'Berliner BeitrÃ¤ge 137' on page 3 undefined on input l
-ine 126.
-
-
-LaTeX Warning: Citation 'S. 40' on page 3 undefined on input line 126.
-
-
-LaTeX Warning: Citation 'Callies' on page 3 undefined on input line 126.
-
-
-LaTeX Warning: Citation 'Berliner BeitrÃ¤ge 137' on page 3 undefined on input l
-ine 126.
-
-
-LaTeX Warning: Citation 'S. 40' on page 3 undefined on input line 126.
-
-
 Overfull \hbox (328.40247pt too wide) has occurred while \output is active
 \T1/lmr/m/sl/12 KAPITEL 1..  ROHSTOFFPOLITISCHE ZUSTÄNDIGKEITEN UND AKTIVITÄT A
 UF EUROPÄISCHER UND NATIONALER EBENE \T1/lmr/m/n/12 3
  []
 
 [3]
+
+LaTeX Warning: Citation 'Callies' on page 4 undefined on input line 124.
+
+
+LaTeX Warning: Citation 'Berliner BeitrÃ¤ge 137' on page 4 undefined on input l
+ine 124.
+
+
+LaTeX Warning: Citation 'S. 39f.' on page 4 undefined on input line 124.
+
+
+LaTeX Warning: Citation 'callies_euvaeuv_2022' on page 4 undefined on input lin
+e 126.
+
+
+LaTeX Warning: Citation 'Nettesheim' on page 4 undefined on input line 126.
+
+
+LaTeX Warning: Citation 'Grabits/Hilf/Nettesheim' on page 4 undefined on input 
+line 126.
+
+
+LaTeX Warning: Citation 'AEUV Art 194 Rn. 35' on page 4 undefined on input line
+ 126.
+
+
+LaTeX Warning: Citation 'callies_stellungnahme_2007' on page 4 undefined on inp
+ut line 126.
+
+
+LaTeX Warning: Citation 'Callies' on page 4 undefined on input line 126.
+
+
+LaTeX Warning: Citation 'Berliner BeitrÃ¤ge 137' on page 4 undefined on input l
+ine 126.
+
+
+LaTeX Warning: Citation 'S. 40' on page 4 undefined on input line 126.
+
+
+LaTeX Warning: Citation 'Callies' on page 4 undefined on input line 126.
+
+
+LaTeX Warning: Citation 'Berliner BeitrÃ¤ge 137' on page 4 undefined on input l
+ine 126.
+
+
+LaTeX Warning: Citation 'S. 40' on page 4 undefined on input line 126.
+
+
 Overfull \hbox (328.40247pt too wide) has occurred while \output is active
 \T1/lmr/m/sl/12 KAPITEL 1..  ROHSTOFFPOLITISCHE ZUSTÄNDIGKEITEN UND AKTIVITÄT A
 UF EUROPÄISCHER UND NATIONALER EBENE \T1/lmr/m/n/12 4
  []
 
 [4]
-
-LaTeX Warning: Citation 'Gundel' on page 5 undefined on input line 132.
-
-
-LaTeX Warning: Citation 'Theobald/KÃ¼hling' on page 5 undefined on input line 1
-32.
-
-
-LaTeX Warning: Citation 'EuropÃ¤isches Energierecht' on page 5 undefined on inp
-ut line 132.
-
-
-LaTeX Warning: Citation 'V. Rn. 86' on page 5 undefined on input line 132.
-
 
 LaTeX Warning: Citation 'Gundel' on page 5 undefined on input line 134.
 
@@ -799,13 +785,75 @@ LaTeX Warning: Citation 'EuropÃ¤isches Energierecht' on page 5 undefined on inp
 ut line 134.
 
 
-LaTeX Warning: Citation 'V. Rn. 87' on page 5 undefined on input line 134.
+LaTeX Warning: Citation 'V. Rn. 86' on page 5 undefined on input line 134.
 
 
-Overfull \hbox (18.36569pt too wide) in paragraph at lines 134--135
+LaTeX Warning: Citation 'Gundel' on page 5 undefined on input line 136.
+
+
+LaTeX Warning: Citation 'Theobald/KÃ¼hling' on page 5 undefined on input line 1
+36.
+
+
+LaTeX Warning: Citation 'EuropÃ¤isches Energierecht' on page 5 undefined on inp
+ut line 136.
+
+
+LaTeX Warning: Citation 'V. Rn. 87' on page 5 undefined on input line 136.
+
+
+Overfull \hbox (18.36569pt too wide) in paragraph at lines 136--137
 []\T1/lmr/m/n/12 Eine Stüt-zung ei-ner Energie-Auÿenpolitik kön-ne zu-min-dest 
 nicht auf Umwelt-
  []
+
+
+LaTeX Warning: Citation 'Paschke' on page 5 undefined on input line 138.
+
+
+LaTeX Warning: Citation 'RdTW 2024' on page 5 undefined on input line 138.
+
+
+LaTeX Warning: Citation '206; SchÃ¤ffer/Hach' on page 5 undefined on input line
+ 138.
+
+
+LaTeX Warning: Citation 'ZRP 2023' on page 5 undefined on input line 138.
+
+
+LaTeX Warning: Citation '207f' on page 5 undefined on input line 138.
+
+
+LaTeX Warning: Citation 'SchÃ¤ffer/hach' on page 5 undefined on input line 138.
+
+
+
+LaTeX Warning: Citation 'ZRP 2023' on page 5 undefined on input line 138.
+
+
+LaTeX Warning: Citation '207' on page 5 undefined on input line 138.
+
+
+LaTeX Warning: Citation 'Paschke' on page 5 undefined on input line 138.
+
+
+LaTeX Warning: Citation 'RdTW 2024' on page 5 undefined on input line 138.
+
+
+LaTeX Warning: Citation '206' on page 5 undefined on input line 138.
+
+
+LaTeX Warning: Citation '216; SchÃ¤ffer' on page 5 undefined on input line 138.
+
+
+
+LaTeX Warning: Citation 'EuZW 2023' on page 5 undefined on input line 138.
+
+
+LaTeX Warning: Citation '695' on page 5 undefined on input line 138.
+
+
+LaTeX Warning: Citation '700' on page 5 undefined on input line 138.
 
 
 Overfull \hbox (328.40247pt too wide) has occurred while \output is active
@@ -815,30 +863,59 @@ UF EUROPÄISCHER UND NATIONALER EBENE \T1/lmr/m/n/12 5
 
 [5]
 
-LaTeX Warning: Citation 'Gundel in Tehobald/KÃ¼hling' on page 6 undefined on in
-put line 144.
+LaTeX Warning: Citation 'Hoffmesiter' on page 6 undefined on input line 141.
 
 
-LaTeX Warning: Citation 'IV' on page 6 undefined on input line 144.
+LaTeX Warning: Citation 'Hrenzler/Herrmann/Niestedt' on page 6 undefined on inp
+ut line 141.
 
 
-LaTeX Warning: Citation 'Energieumweltrecht' on page 6 undefined on input line 
-144.
+LaTeX Warning: Citation 'EU AuÃŸenwirtschaftrecht' on page 6 undefined on input
+ line 141.
 
 
-LaTeX Warning: Citation 'Rn. 74ff.' on page 6 undefined on input line 144.
+LaTeX Warning: Citation 'VII 70 Rn14ff' on page 6 undefined on input line 141.
 
 
-LaTeX Warning: Citation 'frau_rohstoffe_2025' on page 6 undefined on input line
- 147.
+Underfull \hbox (badness 4205) in paragraph at lines 141--141
+[][][]\T1/lmr/m/n/10 ; []; [];
+ []
 
 
-LaTeX Warning: Citation 'dauses_handbuch_2024' on page 6 undefined on input lin
-e 147.
+LaTeX Warning: Citation 'Paschke' on page 6 undefined on input line 141.
 
 
-LaTeX Warning: Citation 'von_der_groeben_europaisches_2024' on page 6 undefined
- on input line 148.
+LaTeX Warning: Citation 'RdTW 2024' on page 6 undefined on input line 141.
+
+
+LaTeX Warning: Citation '216.' on page 6 undefined on input line 141.
+
+
+LaTeX Warning: Citation 'Paschke' on page 6 undefined on input line 141.
+
+
+LaTeX Warning: Citation 'RdTW 2024' on page 6 undefined on input line 141.
+
+
+LaTeX Warning: Citation '206.; Callies/Ruffert Art 206 AEUV 8f; Grabitz Art. 20
+6 AEUV Rn. 12' on page 6 undefined on input line 141.
+
+
+Overfull \hbox (104.89632pt too wide) in paragraph at lines 141--141
+[][][]\T1/lmr/m/n/10 ; []; [].| 
+ []
+
+
+LaTeX Warning: Citation 'SchÃ¤ffer' on page 6 undefined on input line 141.
+
+
+LaTeX Warning: Citation 'EuZW 2023' on page 6 undefined on input line 141.
+
+
+LaTeX Warning: Citation '695' on page 6 undefined on input line 141.
+
+
+LaTeX Warning: Citation '698' on page 6 undefined on input line 141.
 
 
 Overfull \hbox (328.40247pt too wide) has occurred while \output is active
@@ -848,20 +925,43 @@ UF EUROPÄISCHER UND NATIONALER EBENE \T1/lmr/m/n/12 6
 
 [6]
 
-LaTeX Warning: Citation 'grabitz_recht_2024' on page 7 undefined on input line 
-156.
+LaTeX Warning: Citation 'Paschke' on page 7 undefined on input line 143.
 
 
-LaTeX Warning: Citation 'umbach_europaische_2005' on page 7 undefined on input 
-line 156.
+LaTeX Warning: Citation 'RdTW 2024' on page 7 undefined on input line 143.
 
 
-LaTeX Warning: Citation 'grabitz_recht_2024' on page 7 undefined on input line 
-156.
+LaTeX Warning: Citation '206' on page 7 undefined on input line 143.
 
 
-LaTeX Warning: Citation 'grabitz_recht_2024' on page 7 undefined on input line 
-156.
+LaTeX Warning: Citation '216' on page 7 undefined on input line 143.
+
+
+LaTeX Warning: Citation 'Paschke' on page 7 undefined on input line 143.
+
+
+LaTeX Warning: Citation 'RdTW 2024' on page 7 undefined on input line 143.
+
+
+LaTeX Warning: Citation '206' on page 7 undefined on input line 143.
+
+
+LaTeX Warning: Citation '216; MÃ¼ller-Ibold/Herrmann EuZW 2022' on page 7 undef
+ined on input line 143.
+
+
+LaTeX Warning: Citation '1029' on page 7 undefined on input line 143.
+
+
+Underfull \hbox (badness 2237) in paragraph at lines 143--143
+[][][]\T1/lmr/m/n/10 ; []; []; [];
+ []
+
+
+Overfull \hbox (1.4328pt too wide) in paragraph at lines 143--144
+[]\T1/lmr/m/n/12 Demnach be-sitzt die Uni-on einen ent-spre-chen-den han-dels-p
+o-li-ti-schen Spiel-
+ []
 
 
 Overfull \hbox (328.40247pt too wide) has occurred while \output is active
@@ -871,48 +971,33 @@ UF EUROPÄISCHER UND NATIONALER EBENE \T1/lmr/m/n/12 7
 
 [7]
 
-LaTeX Warning: Citation 'Bings in Streinz' on page 8 undefined on input line 15
-8.
+LaTeX Warning: Citation 'https://www.reuters.com/markets/commodities/china-is-o
+versupplying-lithium-eliminate-rivals-us-official-says-2024-10-08/' on page 8 u
+ndefined on input line 149.
 
 
-LaTeX Warning: Citation 'Art. 194 Rn. 32f.' on page 8 undefined on input line 1
-58.
+Overfull \hbox (249.42076pt too wide) in paragraph at lines 149--149
+[][][]\T1/lmr/m/n/10 .| 
+ []
 
 
-LaTeX Warning: Citation 'Bings in Streinz' on page 8 undefined on input line 15
-8.
+LaTeX Warning: Citation 'SchÃ¤ffer/Hach' on page 8 undefined on input line 152.
 
 
-LaTeX Warning: Citation 'Art. 194 Rn. 33' on page 8 undefined on input line 158
-.
+
+LaTeX Warning: Citation 'ZRP 2023' on page 8 undefined on input line 152.
 
 
-LaTeX Warning: Citation 'Bings in Streinz' on page 8 undefined on input line 15
-8.
+LaTeX Warning: Citation '207' on page 8 undefined on input line 152.
 
 
-LaTeX Warning: Citation 'Art. 194 Rn. 33' on page 8 undefined on input line 158
-.
+LaTeX Warning: Citation '208' on page 8 undefined on input line 152.
 
 
-LaTeX Warning: Citation 'Nettesheim' on page 8 undefined on input line 158.
-
-
-LaTeX Warning: Citation 'Grabitz/Hilf/nettesheim AEUV Art. 194' on page 8 undef
-ined on input line 158.
-
-
-LaTeX Warning: Citation 'Rn 35' on page 8 undefined on input line 158.
-
-
-LaTeX Warning: Citation 'Nettesheim in Grabitz/Hilf' on page 8 undefined on inp
-ut line 163.
-
-
-LaTeX Warning: Citation 'AEUV Art. 194' on page 8 undefined on input line 163.
-
-
-LaTeX Warning: Citation 'Rn. 17' on page 8 undefined on input line 163.
+Overfull \hbox (0.73248pt too wide) in paragraph at lines 152--153
+\T1/lmr/m/n/12 Zie-len birgt iein er-heb-li-ches Ri-si-ko für Ziel-kon-flik-te 
+durch die ge-bo-te-ne Gleich-
+ []
 
 
 Overfull \hbox (328.40247pt too wide) has occurred while \output is active
@@ -922,16 +1007,30 @@ UF EUROPÄISCHER UND NATIONALER EBENE \T1/lmr/m/n/12 8
 
 [8]
 
-LaTeX Warning: Citation 'grabitz_recht_2024' on page 9 undefined on input line 
-167.
+LaTeX Warning: Citation 'Gundel in Tehobald/KÃ¼hling' on page 9 undefined on in
+put line 168.
 
 
-LaTeX Warning: Citation 'grabitz_recht_2024' on page 9 undefined on input line 
-167.
+LaTeX Warning: Citation 'IV' on page 9 undefined on input line 168.
 
 
-LaTeX Warning: Citation 'grabitz_recht_2024' on page 9 undefined on input line 
-171.
+LaTeX Warning: Citation 'Energieumweltrecht' on page 9 undefined on input line 
+168.
+
+
+LaTeX Warning: Citation 'Rn. 74ff.' on page 9 undefined on input line 168.
+
+
+LaTeX Warning: Citation 'frau_rohstoffe_2025' on page 9 undefined on input line
+ 171.
+
+
+LaTeX Warning: Citation 'dauses_handbuch_2024' on page 9 undefined on input lin
+e 171.
+
+
+LaTeX Warning: Citation 'von_der_groeben_europaisches_2024' on page 9 undefined
+ on input line 172.
 
 
 Overfull \hbox (328.40247pt too wide) has occurred while \output is active
@@ -941,16 +1040,20 @@ UF EUROPÄISCHER UND NATIONALER EBENE \T1/lmr/m/n/12 9
 
 [9]
 
-LaTeX Warning: Citation 'dauses_handbuch_2024' on page 10 undefined on input li
-ne 180.
+LaTeX Warning: Citation 'grabitz_recht_2024' on page 10 undefined on input line
+ 180.
 
 
-LaTeX Warning: Citation 'dauses_handbuch_2024' on page 10 undefined on input li
-ne 180.
+LaTeX Warning: Citation 'umbach_europaische_2005' on page 10 undefined on input
+ line 180.
 
 
-LaTeX Warning: Citation 'classen_europarecht_2021' on page 10 undefined on inpu
-t line 184.
+LaTeX Warning: Citation 'grabitz_recht_2024' on page 10 undefined on input line
+ 180.
+
+
+LaTeX Warning: Citation 'grabitz_recht_2024' on page 10 undefined on input line
+ 180.
 
 
 Overfull \hbox (334.27745pt too wide) has occurred while \output is active
@@ -960,8 +1063,49 @@ UF EUROPÄISCHER UND NATIONALER EBENE \T1/lmr/m/n/12 10
 
 [10]
 
-LaTeX Warning: Citation 'chamon_anwendung_2023' on page 11 undefined on input l
-ine 195.
+LaTeX Warning: Citation 'Bings in Streinz' on page 11 undefined on input line 1
+82.
+
+
+LaTeX Warning: Citation 'Art. 194 Rn. 32f.' on page 11 undefined on input line 
+182.
+
+
+LaTeX Warning: Citation 'Bings in Streinz' on page 11 undefined on input line 1
+82.
+
+
+LaTeX Warning: Citation 'Art. 194 Rn. 33' on page 11 undefined on input line 18
+2.
+
+
+LaTeX Warning: Citation 'Bings in Streinz' on page 11 undefined on input line 1
+82.
+
+
+LaTeX Warning: Citation 'Art. 194 Rn. 33' on page 11 undefined on input line 18
+2.
+
+
+LaTeX Warning: Citation 'Nettesheim' on page 11 undefined on input line 182.
+
+
+LaTeX Warning: Citation 'Grabitz/Hilf/nettesheim AEUV Art. 194' on page 11 unde
+fined on input line 182.
+
+
+LaTeX Warning: Citation 'Rn 35' on page 11 undefined on input line 182.
+
+
+LaTeX Warning: Citation 'Nettesheim in Grabitz/Hilf' on page 11 undefined on in
+put line 187.
+
+
+LaTeX Warning: Citation 'AEUV Art. 194' on page 11 undefined on input line 187.
+
+
+
+LaTeX Warning: Citation 'Rn. 17' on page 11 undefined on input line 187.
 
 
 Overfull \hbox (334.27745pt too wide) has occurred while \output is active
@@ -971,18 +1115,16 @@ UF EUROPÄISCHER UND NATIONALER EBENE \T1/lmr/m/n/12 11
 
 [11]
 
-LaTeX Warning: Citation 'callies_umweltrecht_2022' on page 12 undefined on inpu
-t line 199.
+LaTeX Warning: Citation 'grabitz_recht_2024' on page 12 undefined on input line
+ 191.
 
 
-LaTeX Warning: Citation 'Ehricke/HacklÃ¤nder: ZEuS 2008' on page 12 undefined o
-n input line 212.
+LaTeX Warning: Citation 'grabitz_recht_2024' on page 12 undefined on input line
+ 191.
 
 
-LaTeX Warning: Citation 'S. 579' on page 12 undefined on input line 212.
-
-
-LaTeX Warning: Citation '595f.' on page 12 undefined on input line 212.
+LaTeX Warning: Citation 'grabitz_recht_2024' on page 12 undefined on input line
+ 195.
 
 
 Overfull \hbox (334.27745pt too wide) has occurred while \output is active
@@ -992,14 +1134,16 @@ UF EUROPÄISCHER UND NATIONALER EBENE \T1/lmr/m/n/12 12
 
 [12]
 
-LaTeX Warning: Citation 'Callies' on page 13 undefined on input line 219.
+LaTeX Warning: Citation 'dauses_handbuch_2024' on page 13 undefined on input li
+ne 204.
 
 
-LaTeX Warning: Citation 'Berliner Online BeitrÃ¤ge zum Europarecht' on page 13 
-undefined on input line 219.
+LaTeX Warning: Citation 'dauses_handbuch_2024' on page 13 undefined on input li
+ne 204.
 
 
-LaTeX Warning: Citation 'Nr 52' on page 13 undefined on input line 219.
+LaTeX Warning: Citation 'classen_europarecht_2021' on page 13 undefined on inpu
+t line 208.
 
 
 Overfull \hbox (334.27745pt too wide) has occurred while \output is active
@@ -1009,62 +1153,30 @@ UF EUROPÄISCHER UND NATIONALER EBENE \T1/lmr/m/n/12 13
 
 [13]
 
-LaTeX Warning: Citation 'Gundel in Dause/Ludwigs' on page 14 undefined on input
- line 223.
+LaTeX Warning: Citation 'Nettesheim' on page 14 undefined on input line 222.
 
 
-LaTeX Warning: Citation 'M.' on page 14 undefined on input line 223.
+LaTeX Warning: Citation 'Â§ 18 Wirtschaftsverfassung und Wirtschaftspolitik' on
+ page 14 undefined on input line 222.
 
 
-LaTeX Warning: Citation 'Rn 45 iVm u. mwN v. Danwitz EWS 2003 393ff.' on page 1
-4 undefined on input line 223.
+LaTeX Warning: Citation 'in: Oppermann/Classen/Nettesheim' on page 14 undefined
+ on input line 222.
 
 
-Overfull \hbox (31.15126pt too wide) in paragraph at lines 223--223
-[][][]\T1/lmr/m/n/10 ; []; [].| 
+LaTeX Warning: Citation 'Europarecht' on page 14 undefined on input line 222.
+
+
+LaTeX Warning: Citation 'Rn. 13 ' on page 14 undefined on input line 222.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 222--222
+[][][]\T1/lmr/m/n/10 ; [];
  []
 
 
-LaTeX Warning: Citation 'Calliies' on page 14 undefined on input line 225.
-
-
-LaTeX Warning: Citation 'Berliner BeitrÃ¤ge 52' on page 14 undefined on input l
-ine 225.
-
-
-LaTeX Warning: Citation 'S. 18ff.' on page 14 undefined on input line 225.
-
-
-LaTeX Warning: Citation 'mwN Hamer in von der Groeben/schwarze/Hatje 2015' on p
-age 14 undefined on input line 225.
-
-
-LaTeX Warning: Citation 'Art. 194' on page 14 undefined on input line 225.
-
-
-LaTeX Warning: Citation 'Rn. 26' on page 14 undefined on input line 225.
-
-
-Overfull \hbox (106.41225pt too wide) in paragraph at lines 225--225
-[][][]\T1/lmr/m/n/10 ; []; []; [];
- []
-
-
-LaTeX Warning: Citation 'Gundel EWS 2011' on page 14 undefined on input line 22
-5.
-
-
-LaTeX Warning: Citation '25' on page 14 undefined on input line 225.
-
-
-LaTeX Warning: Citation '29; Kahl EuR 2009' on page 14 undefined on input line 
-225.
-
-
-LaTeX Warning: Citation '601' on page 14 undefined on input line 225.
-
-
-LaTeX Warning: Citation '608' on page 14 undefined on input line 225.
+LaTeX Warning: Citation 'frau_rohstoffe_2025' on page 14 undefined on input lin
+e 222.
 
 
 Overfull \hbox (334.27745pt too wide) has occurred while \output is active
@@ -1074,8 +1186,12 @@ UF EUROPÄISCHER UND NATIONALER EBENE \T1/lmr/m/n/12 14
 
 [14]
 
-LaTeX Warning: Citation 'grabitz_recht_2024' on page 15 undefined on input line
- 233.
+LaTeX Warning: Citation 'chamon_anwendung_2023' on page 15 undefined on input l
+ine 231.
+
+
+LaTeX Warning: Citation 'callies_umweltrecht_2022' on page 15 undefined on inpu
+t line 235.
 
 
 Overfull \hbox (334.27745pt too wide) has occurred while \output is active
@@ -1084,6 +1200,17 @@ UF EUROPÄISCHER UND NATIONALER EBENE \T1/lmr/m/n/12 15
  []
 
 [15]
+
+LaTeX Warning: Citation 'Ehricke/HacklÃ¤nder: ZEuS 2008' on page 16 undefined o
+n input line 250.
+
+
+LaTeX Warning: Citation 'S. 579' on page 16 undefined on input line 250.
+
+
+LaTeX Warning: Citation '595f.' on page 16 undefined on input line 250.
+
+
 Overfull \hbox (334.27745pt too wide) has occurred while \output is active
 \T1/lmr/m/sl/12 KAPITEL 1..  ROHSTOFFPOLITISCHE ZUSTÄNDIGKEITEN UND AKTIVITÄT A
 UF EUROPÄISCHER UND NATIONALER EBENE \T1/lmr/m/n/12 16
@@ -1091,19 +1218,26 @@ UF EUROPÄISCHER UND NATIONALER EBENE \T1/lmr/m/n/12 16
 
 [16]
 
-LaTeX Warning: Reference `Kapitel 1' on page 17 undefined on input line 254.
+LaTeX Warning: Citation 'SchÃ¤ffer' on page 17 undefined on input line 261.
 
 
-Overfull \hbox (9.31917pt too wide) in paragraph at lines 254--255
-\T1/lmr/m/n/12 tig-te Zu-gang zu Roh-stof-fen als es-sen-ti-el-ler Fak-tor der 
-EU-Wettbewerbsfähigkeit
- []
+LaTeX Warning: Citation 'EuZW 2023' on page 17 undefined on input line 261.
 
 
-Overfull \hbox (29.3307pt too wide) in paragraph at lines 256--257
-\T1/lmr/m/n/12 als ein wei-te-rer, aber durch-aus be-deu-ten-de-rer Mei-len-ste
-in in der EU-Rohstoffpolitik
- []
+LaTeX Warning: Citation '695' on page 17 undefined on input line 261.
+
+
+LaTeX Warning: Citation '700' on page 17 undefined on input line 261.
+
+
+LaTeX Warning: Citation 'Callies' on page 17 undefined on input line 263.
+
+
+LaTeX Warning: Citation 'Berliner Online BeitrÃ¤ge zum Europarecht' on page 17 
+undefined on input line 263.
+
+
+LaTeX Warning: Citation 'Nr 52' on page 17 undefined on input line 263.
 
 
 Overfull \hbox (334.27745pt too wide) has occurred while \output is active
@@ -1119,8 +1253,62 @@ UF EUROPÄISCHER UND NATIONALER EBENE \T1/lmr/m/n/12 18
 
 [18]
 
-LaTeX Warning: Citation 'ruettinger_doddfrank_2015' on page 19 undefined on inp
-ut line 271.
+LaTeX Warning: Citation 'Gundel in Dause/Ludwigs' on page 19 undefined on input
+ line 269.
+
+
+LaTeX Warning: Citation 'M.' on page 19 undefined on input line 269.
+
+
+LaTeX Warning: Citation 'Rn 45 iVm u. mwN v. Danwitz EWS 2003 393ff.' on page 1
+9 undefined on input line 269.
+
+
+Overfull \hbox (31.15126pt too wide) in paragraph at lines 269--269
+[][][]\T1/lmr/m/n/10 ; []; [].| 
+ []
+
+
+LaTeX Warning: Citation 'Calliies' on page 19 undefined on input line 271.
+
+
+LaTeX Warning: Citation 'Berliner BeitrÃ¤ge 52' on page 19 undefined on input l
+ine 271.
+
+
+LaTeX Warning: Citation 'S. 18ff.' on page 19 undefined on input line 271.
+
+
+LaTeX Warning: Citation 'mwN Hamer in von der Groeben/schwarze/Hatje 2015' on p
+age 19 undefined on input line 271.
+
+
+LaTeX Warning: Citation 'Art. 194' on page 19 undefined on input line 271.
+
+
+LaTeX Warning: Citation 'Rn. 26' on page 19 undefined on input line 271.
+
+
+Overfull \hbox (106.41225pt too wide) in paragraph at lines 271--271
+[][][]\T1/lmr/m/n/10 ; []; []; [];
+ []
+
+
+LaTeX Warning: Citation 'Gundel EWS 2011' on page 19 undefined on input line 27
+1.
+
+
+LaTeX Warning: Citation '25' on page 19 undefined on input line 271.
+
+
+LaTeX Warning: Citation '29; Kahl EuR 2009' on page 19 undefined on input line 
+271.
+
+
+LaTeX Warning: Citation '601' on page 19 undefined on input line 271.
+
+
+LaTeX Warning: Citation '608' on page 19 undefined on input line 271.
 
 
 Overfull \hbox (334.27745pt too wide) has occurred while \output is active
@@ -1129,6 +1317,11 @@ UF EUROPÄISCHER UND NATIONALER EBENE \T1/lmr/m/n/12 19
  []
 
 [19]
+
+LaTeX Warning: Citation 'grabitz_recht_2024' on page 20 undefined on input line
+ 279.
+
+
 Overfull \hbox (334.27745pt too wide) has occurred while \output is active
 \T1/lmr/m/sl/12 KAPITEL 1..  ROHSTOFFPOLITISCHE ZUSTÄNDIGKEITEN UND AKTIVITÄT A
 UF EUROPÄISCHER UND NATIONALER EBENE \T1/lmr/m/n/12 20
@@ -1141,9 +1334,13 @@ UF EUROPÄISCHER UND NATIONALER EBENE \T1/lmr/m/n/12 21
  []
 
 [21]
-Overfull \hbox (55.01375pt too wide) in paragraph at lines 388--389
-\T1/lmr/m/n/12 Die Ver-ord-nung (EU) 2017/821, auch be-kannt als "Konfliktminer
-alien-Verordnung"(VO)
+
+LaTeX Warning: Reference `Kapitel 1' on page 22 undefined on input line 308.
+
+
+Overfull \hbox (9.31917pt too wide) in paragraph at lines 308--309
+\T1/lmr/m/n/12 tig-te Zu-gang zu Roh-stof-fen als es-sen-ti-el-ler Fak-tor der 
+EU-Wettbewerbsfähigkeit
  []
 
 
@@ -1153,6 +1350,25 @@ UF EUROPÄISCHER UND NATIONALER EBENE \T1/lmr/m/n/12 22
  []
 
 [22]
+Overfull \hbox (29.3307pt too wide) in paragraph at lines 310--311
+\T1/lmr/m/n/12 als ein wei-te-rer, aber durch-aus be-deu-ten-de-rer Mei-len-ste
+in in der EU-Rohstoffpolitik
+ []
+
+
+LaTeX Warning: Citation 'SchÃ¤ffer/Hach' on page 23 undefined on input line 322
+.
+
+
+LaTeX Warning: Citation 'ZRP 2023' on page 23 undefined on input line 322.
+
+
+LaTeX Warning: Citation '207' on page 23 undefined on input line 322.
+
+
+LaTeX Warning: Citation '208' on page 23 undefined on input line 322.
+
+
 Overfull \hbox (334.27745pt too wide) has occurred while \output is active
 \T1/lmr/m/sl/12 KAPITEL 1..  ROHSTOFFPOLITISCHE ZUSTÄNDIGKEITEN UND AKTIVITÄT A
 UF EUROPÄISCHER UND NATIONALER EBENE \T1/lmr/m/n/12 23
@@ -1160,24 +1376,20 @@ UF EUROPÄISCHER UND NATIONALER EBENE \T1/lmr/m/n/12 23
 
 [23]
 
-LaTeX Warning: Citation 'OECDleitfaden2019' on page 24 undefined on input line 
-395.
+LaTeX Warning: Citation 'Paschke' on page 24 undefined on input line 325.
 
 
-LaTeX Warning: Citation 'ruttloff_lieferkettensorgfaltspflichtengesetz_2022' on
- page 24 undefined on input line 395.
+LaTeX Warning: Citation 'Rdtw 2024' on page 24 undefined on input line 325.
 
 
-Overfull \hbox (5.33263pt too wide) in paragraph at lines 401--402
-\T1/lmr/m/n/12 (Mineralische-Rohstoffe-Sorgfaltspflichten-Gesetz, Min-Roh-SorgG
-) zur Ver-ord-
- []
+LaTeX Warning: Citation '206' on page 24 undefined on input line 325.
 
 
-Overfull \hbox (14.18826pt too wide) in paragraph at lines 403--404
-\T1/lmr/m/n/12 chen-de Kon-troll-stel-le ge-schaf-fen, die mit der An-wen-dung 
-der Konfliktmineralien-
- []
+LaTeX Warning: Citation '211f' on page 24 undefined on input line 325.
+
+
+LaTeX Warning: Citation 'ruettinger_doddfrank_2015' on page 24 undefined on inp
+ut line 336.
 
 
 Overfull \hbox (334.27745pt too wide) has occurred while \output is active
@@ -1186,80 +1398,53 @@ UF EUROPÄISCHER UND NATIONALER EBENE \T1/lmr/m/n/12 24
  []
 
 [24]
-
-LaTeX Warning: Citation 'deutsche\_kontrollstelle\_eu-sorgfaltspflichten\_in\_r
-ohstofflieferketten\_jahresbericht\_2023' on page 25 undefined on input line 40
-7.
-
-
-Overfull \hbox (119.03307pt too wide) in paragraph at lines 407--407
-[][][]\T1/lmr/m/n/10 .| 
- []
-
-
-LaTeX Warning: Citation 'deutsche\_kontrollstelle\_eu-sorgfaltspflichten\_in\_r
-ohstofflieferketten\_jahresbericht\_2023' on page 25 undefined on input line 40
-8.
-
-
-Overfull \hbox (119.03307pt too wide) in paragraph at lines 408--408
-[][][]\T1/lmr/m/n/10 .| 
- []
-
-
 Overfull \hbox (334.27745pt too wide) has occurred while \output is active
 \T1/lmr/m/sl/12 KAPITEL 1..  ROHSTOFFPOLITISCHE ZUSTÄNDIGKEITEN UND AKTIVITÄT A
 UF EUROPÄISCHER UND NATIONALER EBENE \T1/lmr/m/n/12 25
  []
 
-[25{d:/texlive/2024/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc}]
-
-LaTeX Warning: Citation 'deutsche\_kontrollstelle\_eu-sorgfaltspflichten\_in\_r
-ohstofflieferketten\_jahresbericht\_2023' on page 26 undefined on input line 41
-5.
-
-
-Overfull \hbox (119.03307pt too wide) in paragraph at lines 415--415
-[][][]\T1/lmr/m/n/10 .| 
- []
-
-
+[25]
 Overfull \hbox (334.27745pt too wide) has occurred while \output is active
 \T1/lmr/m/sl/12 KAPITEL 1..  ROHSTOFFPOLITISCHE ZUSTÄNDIGKEITEN UND AKTIVITÄT A
 UF EUROPÄISCHER UND NATIONALER EBENE \T1/lmr/m/n/12 26
  []
 
 [26]
-Overfull \hbox (0.5037pt too wide) in paragraph at lines 428--429
-[]\T1/lmr/m/n/12 Schlieÿlich stellt die DEK-SOR fest, dass Ver-su-che von Un-te
-r-neh-men wahr-
- []
-
-
-LaTeX Warning: Citation 'teicke_gesetzliche_2018' on page 27 undefined on input
- line 434.
-
-
-LaTeX Warning: Citation 'grado_eu_2018' on page 27 undefined on input line 434.
-
-
-
-LaTeX Warning: Citation 'teicke_gesetzliche_2018' on page 27 undefined on input
- line 434.
-
-
-Overfull \hbox (1.01488pt too wide) in paragraph at lines 434--436
-\T1/lmr/m/n/12 lun-gen nach-zu-kom-men, so-dass hier mit der Schaf-fung ei-ner 
-sektor- und rechts-
- []
-
-
 Overfull \hbox (334.27745pt too wide) has occurred while \output is active
 \T1/lmr/m/sl/12 KAPITEL 1..  ROHSTOFFPOLITISCHE ZUSTÄNDIGKEITEN UND AKTIVITÄT A
 UF EUROPÄISCHER UND NATIONALER EBENE \T1/lmr/m/n/12 27
  []
 
 [27]
+
+LaTeX Warning: Citation 'SchÃ¤ffer/Hach' on page 28 undefined on input line 453
+.
+
+
+LaTeX Warning: Citation 'ZRP 2023' on page 28 undefined on input line 453.
+
+
+LaTeX Warning: Citation '210f.' on page 28 undefined on input line 453.
+
+
+LaTeX Warning: Citation 'Kalls' on page 28 undefined on input line 465.
+
+
+LaTeX Warning: Citation 'ZfPW 2024' on page 28 undefined on input line 465.
+
+
+LaTeX Warning: Citation '181' on page 28 undefined on input line 465.
+
+
+LaTeX Warning: Citation '199' on page 28 undefined on input line 465.
+
+
+Overfull \hbox (55.01375pt too wide) in paragraph at lines 465--466
+\T1/lmr/m/n/12 Die Ver-ord-nung (EU) 2017/821, auch be-kannt als "Konfliktminer
+alien-Verordnung"(VO)
+ []
+
+
 Overfull \hbox (334.27745pt too wide) has occurred while \output is active
 \T1/lmr/m/sl/12 KAPITEL 1..  ROHSTOFFPOLITISCHE ZUSTÄNDIGKEITEN UND AKTIVITÄT A
 UF EUROPÄISCHER UND NATIONALER EBENE \T1/lmr/m/n/12 28
@@ -1272,35 +1457,18 @@ UF EUROPÄISCHER UND NATIONALER EBENE \T1/lmr/m/n/12 29
  []
 
 [29]
-Overfull \hbox (42.58649pt too wide) in paragraph at lines 453--454
-[]\T1/lmr/m/n/12 Nichtsdestotrotz kann fest-ge-hal-ten wer-den, dass es sich be
-i der Konfliktmineralien-
- []
+
+LaTeX Warning: Citation 'OECDleitfaden2019' on page 30 undefined on input line 
+472.
 
 
-LaTeX Warning: Citation 'deutsche\_kontrollstelle\_eu-sorgfaltspflichten\_in\_r
-ohstofflieferketten\_jahresbericht\_2023' on page 30 undefined on input line 45
-7.
+LaTeX Warning: Citation 'ruttloff_lieferkettensorgfaltspflichtengesetz_2022' on
+ page 30 undefined on input line 472.
 
 
-Overfull \hbox (119.03307pt too wide) in paragraph at lines 457--457
-[][][]\T1/lmr/m/n/10 .| 
- []
-
-
-Overfull \hbox (3.21457pt too wide) in paragraph at lines 460--461
-[]\T1/lmr/m/n/12 Berufen auf Ver-trau-en des Uni-ons-ein-füh-rers/Verhütter/Roh
-stoffproduzent 
- []
-
-
-LaTeX Warning: Citation 'deutsche\_kontrollstelle\_eu-sorgfaltspflichten\_in\_r
-ohstofflieferketten\_jahresbericht\_2023' on page 30 undefined on input line 46
-2.
-
-
-Overfull \hbox (119.03307pt too wide) in paragraph at lines 462--462
-[][][]\T1/lmr/m/n/10 .| 
+Overfull \hbox (5.33263pt too wide) in paragraph at lines 478--479
+\T1/lmr/m/n/12 (Mineralische-Rohstoffe-Sorgfaltspflichten-Gesetz, Min-Roh-SorgG
+) zur Ver-ord-
  []
 
 
@@ -1310,9 +1478,30 @@ UF EUROPÄISCHER UND NATIONALER EBENE \T1/lmr/m/n/12 30
  []
 
 [30]
+Overfull \hbox (14.18826pt too wide) in paragraph at lines 480--481
+\T1/lmr/m/n/12 chen-de Kon-troll-stel-le ge-schaf-fen, die mit der An-wen-dung 
+der Konfliktmineralien-
+ []
 
-LaTeX Warning: Citation 'teicke_gesetzliche_2018' on page 31 undefined on input
- line 468.
+
+LaTeX Warning: Citation 'deutsche\_kontrollstelle\_eu-sorgfaltspflichten\_in\_r
+ohstofflieferketten\_jahresbericht\_2023' on page 31 undefined on input line 48
+4.
+
+
+Overfull \hbox (119.03307pt too wide) in paragraph at lines 484--484
+[][][]\T1/lmr/m/n/10 .| 
+ []
+
+
+LaTeX Warning: Citation 'deutsche\_kontrollstelle\_eu-sorgfaltspflichten\_in\_r
+ohstofflieferketten\_jahresbericht\_2023' on page 31 undefined on input line 48
+5.
+
+
+Overfull \hbox (119.03307pt too wide) in paragraph at lines 485--485
+[][][]\T1/lmr/m/n/10 .| 
+ []
 
 
 Overfull \hbox (334.27745pt too wide) has occurred while \output is active
@@ -1320,9 +1509,15 @@ Overfull \hbox (334.27745pt too wide) has occurred while \output is active
 UF EUROPÄISCHER UND NATIONALER EBENE \T1/lmr/m/n/12 31
  []
 
-[31]
-Overfull \hbox (15.88524pt too wide) in paragraph at lines 490--490
-[]\T1/lmr/bx/n/17.28 Wechselwirkungen zwi-schen deut-schem und
+[31{d:/texlive/2024/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc}]
+
+LaTeX Warning: Citation 'deutsche\_kontrollstelle\_eu-sorgfaltspflichten\_in\_r
+ohstofflieferketten\_jahresbericht\_2023' on page 32 undefined on input line 49
+2.
+
+
+Overfull \hbox (119.03307pt too wide) in paragraph at lines 492--492
+[][][]\T1/lmr/m/n/10 .| 
  []
 
 
@@ -1332,17 +1527,28 @@ UF EUROPÄISCHER UND NATIONALER EBENE \T1/lmr/m/n/12 32
  []
 
 [32]
-Overfull \hbox (10.37944pt too wide) in paragraph at lines 503--503
-[]\T1/lmr/bx/n/17.28 Betrachtung wei-te-rer aus-ge-wähl-ter Rechts-
+Overfull \hbox (0.5037pt too wide) in paragraph at lines 505--506
+[]\T1/lmr/m/n/12 Schlieÿlich stellt die DEK-SOR fest, dass Ver-su-che von Un-te
+r-neh-men wahr-
  []
 
 
-LaTeX Warning: Citation 'ruttloff_lieferkettensorgfaltspflichtengesetz_2022' on
- page 33 undefined on input line 507.
+LaTeX Warning: Citation 'teicke_gesetzliche_2018' on page 33 undefined on input
+ line 511.
 
 
-LaTeX Warning: Citation 'ruttloff_lieferkettensorgfaltspflichtengesetz_2022' on
- page 33 undefined on input line 507.
+LaTeX Warning: Citation 'grado_eu_2018' on page 33 undefined on input line 511.
+
+
+
+LaTeX Warning: Citation 'teicke_gesetzliche_2018' on page 33 undefined on input
+ line 511.
+
+
+Overfull \hbox (1.01488pt too wide) in paragraph at lines 511--513
+\T1/lmr/m/n/12 lun-gen nach-zu-kom-men, so-dass hier mit der Schaf-fung ei-ner 
+sektor- und rechts-
+ []
 
 
 Overfull \hbox (334.27745pt too wide) has occurred while \output is active
@@ -1357,32 +1563,130 @@ UF EUROPÄISCHER UND NATIONALER EBENE \T1/lmr/m/n/12 34
  []
 
 [34]
-Overfull \hbox (2.43636pt too wide) in paragraph at lines 524--524
-[]\T1/lmr/bx/n/17.28 Herausforderungen für das Roh-stoff-ver-wal-
- []
-
-
-LaTeX Warning: Citation 'Ludiwgs' on page 35 undefined on input line 529.
-
-
-LaTeX Warning: Citation 'NVwZ 2018' on page 35 undefined on input line 529.
-
-
-LaTeX Warning: Citation '1417' on page 35 undefined on input line 529.
-
-
 Overfull \hbox (334.27745pt too wide) has occurred while \output is active
 \T1/lmr/m/sl/12 KAPITEL 1..  ROHSTOFFPOLITISCHE ZUSTÄNDIGKEITEN UND AKTIVITÄT A
 UF EUROPÄISCHER UND NATIONALER EBENE \T1/lmr/m/n/12 35
  []
 
 [35]
+Overfull \hbox (42.58649pt too wide) in paragraph at lines 530--531
+[]\T1/lmr/m/n/12 Nichtsdestotrotz kann fest-ge-hal-ten wer-den, dass es sich be
+i der Konfliktmineralien-
+ []
+
+
+LaTeX Warning: Citation 'deutsche\_kontrollstelle\_eu-sorgfaltspflichten\_in\_r
+ohstofflieferketten\_jahresbericht\_2023' on page 36 undefined on input line 53
+4.
+
+
+Overfull \hbox (119.03307pt too wide) in paragraph at lines 534--534
+[][][]\T1/lmr/m/n/10 .| 
+ []
+
+
+Overfull \hbox (3.21457pt too wide) in paragraph at lines 537--538
+[]\T1/lmr/m/n/12 Berufen auf Ver-trau-en des Uni-ons-ein-füh-rers/Verhütter/Roh
+stoffproduzent 
+ []
+
+
+LaTeX Warning: Citation 'deutsche\_kontrollstelle\_eu-sorgfaltspflichten\_in\_r
+ohstofflieferketten\_jahresbericht\_2023' on page 36 undefined on input line 53
+9.
+
+
+Overfull \hbox (119.03307pt too wide) in paragraph at lines 539--539
+[][][]\T1/lmr/m/n/10 .| 
+ []
+
+
 Overfull \hbox (334.27745pt too wide) has occurred while \output is active
 \T1/lmr/m/sl/12 KAPITEL 1..  ROHSTOFFPOLITISCHE ZUSTÄNDIGKEITEN UND AKTIVITÄT A
 UF EUROPÄISCHER UND NATIONALER EBENE \T1/lmr/m/n/12 36
  []
 
-[36] (./3_kapitel.aux)
+[36]
+
+LaTeX Warning: Citation 'teicke_gesetzliche_2018' on page 37 undefined on input
+ line 545.
+
+
+Overfull \hbox (334.27745pt too wide) has occurred while \output is active
+\T1/lmr/m/sl/12 KAPITEL 1..  ROHSTOFFPOLITISCHE ZUSTÄNDIGKEITEN UND AKTIVITÄT A
+UF EUROPÄISCHER UND NATIONALER EBENE \T1/lmr/m/n/12 37
+ []
+
+[37]
+Overfull \hbox (334.27745pt too wide) has occurred while \output is active
+\T1/lmr/m/sl/12 KAPITEL 1..  ROHSTOFFPOLITISCHE ZUSTÄNDIGKEITEN UND AKTIVITÄT A
+UF EUROPÄISCHER UND NATIONALER EBENE \T1/lmr/m/n/12 38
+ []
+
+[38]
+Overfull \hbox (15.88524pt too wide) in paragraph at lines 570--570
+[]\T1/lmr/bx/n/17.28 Wechselwirkungen zwi-schen deut-schem und
+ []
+
+
+Overfull \hbox (10.29878pt too wide) in paragraph at lines 585--585
+[]\T1/lmr/bx/n/17.28 Betrachtung wei-te-rer aus-ge-wähl-ter Rechts-
+ []
+
+
+LaTeX Warning: Citation 'ruttloff_lieferkettensorgfaltspflichtengesetz_2022' on
+ page 39 undefined on input line 589.
+
+
+LaTeX Warning: Citation 'ruttloff_lieferkettensorgfaltspflichtengesetz_2022' on
+ page 39 undefined on input line 589.
+
+
+Overfull \hbox (334.27745pt too wide) has occurred while \output is active
+\T1/lmr/m/sl/12 KAPITEL 1..  ROHSTOFFPOLITISCHE ZUSTÄNDIGKEITEN UND AKTIVITÄT A
+UF EUROPÄISCHER UND NATIONALER EBENE \T1/lmr/m/n/12 39
+ []
+
+[39]
+Overfull \hbox (334.27745pt too wide) has occurred while \output is active
+\T1/lmr/m/sl/12 KAPITEL 1..  ROHSTOFFPOLITISCHE ZUSTÄNDIGKEITEN UND AKTIVITÄT A
+UF EUROPÄISCHER UND NATIONALER EBENE \T1/lmr/m/n/12 40
+ []
+
+[40]
+Overfull \hbox (5.23572pt too wide) in paragraph at lines 606--606
+[]\T1/lmr/bx/n/17.28 Herausforderungen für das Roh-stoff-ver-wal-
+ []
+
+
+Overfull \hbox (334.27745pt too wide) has occurred while \output is active
+\T1/lmr/m/sl/12 KAPITEL 1..  ROHSTOFFPOLITISCHE ZUSTÄNDIGKEITEN UND AKTIVITÄT A
+UF EUROPÄISCHER UND NATIONALER EBENE \T1/lmr/m/n/12 41
+ []
+
+[41]
+
+LaTeX Warning: Citation 'Ludiwgs' on page 42 undefined on input line 611.
+
+
+LaTeX Warning: Citation 'NVwZ 2018' on page 42 undefined on input line 611.
+
+
+LaTeX Warning: Citation '1417' on page 42 undefined on input line 611.
+
+
+Overfull \hbox (334.27745pt too wide) has occurred while \output is active
+\T1/lmr/m/sl/12 KAPITEL 1..  ROHSTOFFPOLITISCHE ZUSTÄNDIGKEITEN UND AKTIVITÄT A
+UF EUROPÄISCHER UND NATIONALER EBENE \T1/lmr/m/n/12 42
+ []
+
+[42]
+Overfull \hbox (334.27745pt too wide) has occurred while \output is active
+\T1/lmr/m/sl/12 KAPITEL 1..  ROHSTOFFPOLITISCHE ZUSTÄNDIGKEITEN UND AKTIVITÄT A
+UF EUROPÄISCHER UND NATIONALER EBENE \T1/lmr/m/n/12 43
+ []
+
+[43] (./3_kapitel.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
@@ -1392,7 +1696,7 @@ L3 programming layer <2024-02-20>
 LaTeX Warning: There were undefined references.
 
 Package rerunfilecheck Info: File `3_kapitel.out' has not changed.
-(rerunfilecheck)             Checksum: 55AC8402352BC4493CCD4B2CF845120A;9026.
+(rerunfilecheck)             Checksum: 2DB751B857D1978E1E6809FEC981CE6F;9845.
 
 Package biblatex Warning: Please (re)run Biber on the file:
 (biblatex)                3_kapitel
@@ -1403,13 +1707,117 @@ Package logreq Info: Writing requests to '3_kapitel.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 18971 strings out of 474116
- 330343 string characters out of 5747717
+ 19015 strings out of 474116
+ 330929 string characters out of 5747717
  1944190 words of memory out of 5000000
- 40938 multiletter control sequences out of 15000+600000
+ 40944 multiletter control sequences out of 15000+600000
  628486 words of font info for 72 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
- 75i,8n,81p,4299b,2371s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,8n,81p,4349b,2371s stack positions out of 10000i,1000n,20000p,200000b,200000s
+
+pdfTeX warning (dest): name{Hfootnote.111} has been referenced but does not exi
+st, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{Hfootnote.110} has been referenced but does not exi
+st, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{Hfootnote.109} has been referenced but does not exi
+st, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{Hfootnote.108} has been referenced but does not exi
+st, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{Hfootnote.107} has been referenced but does not exi
+st, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{Hfootnote.106} has been referenced but does not exi
+st, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{Hfootnote.105} has been referenced but does not exi
+st, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{Hfootnote.104} has been referenced but does not exi
+st, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{Hfootnote.103} has been referenced but does not exi
+st, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{Hfootnote.102} has been referenced but does not exi
+st, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{Hfootnote.101} has been referenced but does not exi
+st, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{Hfootnote.100} has been referenced but does not exi
+st, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{Hfootnote.99} has been referenced but does not exis
+t, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{Hfootnote.98} has been referenced but does not exis
+t, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{Hfootnote.97} has been referenced but does not exis
+t, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{Hfootnote.96} has been referenced but does not exis
+t, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{Hfootnote.95} has been referenced but does not exis
+t, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{Hfootnote.94} has been referenced but does not exis
+t, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{Hfootnote.93} has been referenced but does not exis
+t, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{Hfootnote.92} has been referenced but does not exis
+t, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{Hfootnote.91} has been referenced but does not exis
+t, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{Hfootnote.90} has been referenced but does not exis
+t, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{Hfootnote.89} has been referenced but does not exis
+t, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{Hfootnote.88} has been referenced but does not exis
+t, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{Hfootnote.87} has been referenced but does not exis
+t, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{Hfootnote.86} has been referenced but does not exis
+t, replaced by a fixed one
+
 
 pdfTeX warning (dest): name{Hfootnote.85} has been referenced but does not exis
 t, replaced by a fixed one
@@ -1758,10 +2166,10 @@ pe1/public/lm/lmmi12.pfb><d:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmr1
 /type1/public/lm/lmr8.pfb><d:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmr
 i10.pfb><d:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmri12.pfb><d:/texliv
 e/2024/texmf-dist/fonts/type1/public/lm/lmro12.pfb>
-Output written on 3_kapitel.pdf (36 pages, 358306 bytes).
+Output written on 3_kapitel.pdf (43 pages, 381011 bytes).
 PDF statistics:
- 579 PDF objects out of 1000 (max. 8388607)
- 515 compressed objects within 6 object streams
- 162 named destinations out of 1000 (max. 500000)
- 321 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 692 PDF objects out of 1000 (max. 8388607)
+ 620 compressed objects within 7 object streams
+ 200 named destinations out of 1000 (max. 500000)
+ 361 words of extra memory for PDF output out of 10000 (max. 10000000)
 
