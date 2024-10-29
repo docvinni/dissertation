@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2024.2.12)  15 OCT 2024 14:53
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2024.2.12)  29 OCT 2024 16:11
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -709,34 +709,46 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <5> on input line 84.
 
 
-LaTeX Warning: Citation 'frau2023' on page 1 undefined on input line 84.
+LaTeX Warning: Citation 'SchÃ¤ffer' on page 1 undefined on input line 84.
+
+
+LaTeX Warning: Citation 'EuZW 2023' on page 1 undefined on input line 84.
+
+
+LaTeX Warning: Citation '695' on page 1 undefined on input line 84.
+
+
+LaTeX Warning: Citation '700' on page 1 undefined on input line 84.
+
+
+LaTeX Warning: Citation 'frau2023' on page 1 undefined on input line 86.
 
 [1{c:/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{c:/texlive/202
 3/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}
 
 ] [2]
 
-LaTeX Warning: Reference `kapitel3' on page 3 undefined on input line 124.
+LaTeX Warning: Reference `kapitel3' on page 3 undefined on input line 130.
 
-
-Overfull \hbox (3.49698pt too wide) in paragraph at lines 146--149
+[3]
+Overfull \hbox (3.49698pt too wide) in paragraph at lines 152--155
 []\T1/lmr/m/n/12 Antragstellung und Ge-neh-mi-gung Um-welt-ver-träg-lich-keits-
 prü-fun-gen Nach-
  []
 
 
-Overfull \hbox (2.49849pt too wide) in paragraph at lines 150--153
+Overfull \hbox (2.49849pt too wide) in paragraph at lines 156--159
 []\T1/lmr/m/n/12 Umwelt- und Nach-hal-tig-keits-kri-te-ri-en Maÿ-nah-men zur Kr
 eis-l-auf-wirt-schaft
  []
 
 
-Overfull \hbox (21.5851pt too wide) in paragraph at lines 162--165
+Overfull \hbox (21.5851pt too wide) in paragraph at lines 168--171
 []\T1/lmr/m/n/12 Umsetzung in-ter-na-tio-na-ler Ab-kom-men Har-mo-ni-sie-rung m
 it EU-Recht Rechts-
  []
 
-[3] (./5_kapitel.aux)
+[4] (./5_kapitel.aux)
 
 LaTeX Warning: There were undefined references.
 
@@ -752,13 +764,21 @@ Package logreq Info: Writing requests to '5_kapitel.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 18812 strings out of 476025
- 330797 string characters out of 5794015
+ 18816 strings out of 476025
+ 330832 string characters out of 5794015
  1861382 words of memory out of 5000000
- 39014 multiletter control sequences out of 15000+600000
+ 39015 multiletter control sequences out of 15000+600000
  572428 words of font info for 65 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
  75i,8n,76p,1123b,2367s stack positions out of 10000i,1000n,20000p,200000b,200000s
+
+pdfTeX warning (dest): name{Hfootnote.3} has been referenced but does not exist
+, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{Hfootnote.2} has been referenced but does not exist
+, replaced by a fixed one
+
 
 pdfTeX warning (dest): name{Hfootnote.1} has been referenced but does not exist
 , replaced by a fixed one
@@ -769,10 +789,10 @@ pe1/public/lm/lmr10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/lm/lmr12
 .pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/lm/lmr7.pfb><c:/texlive/202
 3/texmf-dist/fonts/type1/public/lm/lmr8.pfb><c:/texlive/2023/texmf-dist/fonts/t
 ype1/public/lm/lmri12.pfb>
-Output written on 5_kapitel.pdf (3 pages, 161406 bytes).
+Output written on 5_kapitel.pdf (4 pages, 177070 bytes).
 PDF statistics:
- 74 PDF objects out of 1000 (max. 8388607)
- 54 compressed objects within 1 object stream
- 8 named destinations out of 1000 (max. 500000)
+ 82 PDF objects out of 1000 (max. 8388607)
+ 61 compressed objects within 1 object stream
+ 11 named destinations out of 1000 (max. 500000)
  25 words of extra memory for PDF output out of 10000 (max. 10000000)
 
