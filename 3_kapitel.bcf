@@ -2363,164 +2363,295 @@
   </bcf:bibdata>
   <bcf:section number="0">
     <bcf:citekey order="1" intorder="1">Callies</bcf:citekey>
-    <bcf:citekey order="1" intorder="2">Berliner Beiträge 137</bcf:citekey>
-    <bcf:citekey order="1" intorder="3">S. 39f.</bcf:citekey>
-    <bcf:citekey order="2" intorder="1">callies_euvaeuv_2022</bcf:citekey>
-    <bcf:citekey order="3" intorder="1">Nettesheim</bcf:citekey>
-    <bcf:citekey order="3" intorder="2">Grabits/Hilf/Nettesheim</bcf:citekey>
-    <bcf:citekey order="3" intorder="3">AEUV Art 194 Rn. 35</bcf:citekey>
-    <bcf:citekey order="4" intorder="1">callies_stellungnahme_2007</bcf:citekey>
-    <bcf:citekey order="5" intorder="1">Callies</bcf:citekey>
-    <bcf:citekey order="5" intorder="2">Berliner Beiträge 137</bcf:citekey>
-    <bcf:citekey order="5" intorder="3">S. 40</bcf:citekey>
-    <bcf:citekey order="6" intorder="1">Callies</bcf:citekey>
-    <bcf:citekey order="6" intorder="2">Berliner Beiträge 137</bcf:citekey>
-    <bcf:citekey order="6" intorder="3">S. 40</bcf:citekey>
-    <bcf:citekey order="7" intorder="1">Gundel</bcf:citekey>
-    <bcf:citekey order="7" intorder="2">Theobald/Kühling</bcf:citekey>
-    <bcf:citekey order="7" intorder="3">Europäisches Energierecht</bcf:citekey>
-    <bcf:citekey order="7" intorder="4">V. Rn. 86</bcf:citekey>
-    <bcf:citekey order="8" intorder="1">Gundel</bcf:citekey>
-    <bcf:citekey order="8" intorder="2">Theobald/Kühling</bcf:citekey>
-    <bcf:citekey order="8" intorder="3">Europäisches Energierecht</bcf:citekey>
-    <bcf:citekey order="8" intorder="4">V. Rn. 87</bcf:citekey>
-    <bcf:citekey order="9" intorder="1">Paschke</bcf:citekey>
-    <bcf:citekey order="9" intorder="2">RdTW 2024</bcf:citekey>
-    <bcf:citekey order="9" intorder="3">206; Schäffer/Hach</bcf:citekey>
-    <bcf:citekey order="9" intorder="4">ZRP 2023</bcf:citekey>
-    <bcf:citekey order="9" intorder="5">207f</bcf:citekey>
-    <bcf:citekey order="10" intorder="1">Schäffer/hach</bcf:citekey>
-    <bcf:citekey order="10" intorder="2">ZRP 2023</bcf:citekey>
-    <bcf:citekey order="10" intorder="3">207</bcf:citekey>
-    <bcf:citekey order="11" intorder="1">Paschke</bcf:citekey>
-    <bcf:citekey order="11" intorder="2">RdTW 2024</bcf:citekey>
-    <bcf:citekey order="11" intorder="3">206</bcf:citekey>
-    <bcf:citekey order="11" intorder="4">216; Schäffer</bcf:citekey>
-    <bcf:citekey order="11" intorder="5">EuZW 2023</bcf:citekey>
-    <bcf:citekey order="11" intorder="6">695</bcf:citekey>
-    <bcf:citekey order="11" intorder="7">700</bcf:citekey>
-    <bcf:citekey order="12" intorder="1">Hoffmesiter</bcf:citekey>
-    <bcf:citekey order="12" intorder="2">Hrenzler/Herrmann/Niestedt</bcf:citekey>
-    <bcf:citekey order="12" intorder="3">EU Außenwirtschaftrecht</bcf:citekey>
-    <bcf:citekey order="12" intorder="4">VII 70 Rn14ff</bcf:citekey>
-    <bcf:citekey order="13" intorder="1">Paschke</bcf:citekey>
-    <bcf:citekey order="13" intorder="2">RdTW 2024</bcf:citekey>
-    <bcf:citekey order="13" intorder="3">216.</bcf:citekey>
-    <bcf:citekey order="14" intorder="1">Paschke</bcf:citekey>
-    <bcf:citekey order="14" intorder="2">RdTW 2024</bcf:citekey>
-    <bcf:citekey order="14" intorder="3">206.; Callies/Ruffert Art 206 AEUV 8f; Grabitz Art. 206 AEUV Rn. 12</bcf:citekey>
-    <bcf:citekey order="15" intorder="1">Schäffer</bcf:citekey>
-    <bcf:citekey order="15" intorder="2">EuZW 2023</bcf:citekey>
-    <bcf:citekey order="15" intorder="3">695</bcf:citekey>
-    <bcf:citekey order="15" intorder="4">698</bcf:citekey>
-    <bcf:citekey order="16" intorder="1">Paschke</bcf:citekey>
-    <bcf:citekey order="16" intorder="2">RdTW 2024</bcf:citekey>
-    <bcf:citekey order="16" intorder="3">206</bcf:citekey>
-    <bcf:citekey order="16" intorder="4">216</bcf:citekey>
-    <bcf:citekey order="17" intorder="1">Paschke</bcf:citekey>
-    <bcf:citekey order="17" intorder="2">RdTW 2024</bcf:citekey>
-    <bcf:citekey order="17" intorder="3">206</bcf:citekey>
-    <bcf:citekey order="17" intorder="4">216; Müller-Ibold/Herrmann EuZW 2022</bcf:citekey>
-    <bcf:citekey order="17" intorder="5">1029</bcf:citekey>
-    <bcf:citekey order="18" intorder="1">https://www.reuters.com/markets/commodities/china-is-oversupplying-lithium-eliminate-rivals-us-official-says-2024-10-08/</bcf:citekey>
-    <bcf:citekey order="19" intorder="1">Schäffer/Hach</bcf:citekey>
-    <bcf:citekey order="19" intorder="2">ZRP 2023</bcf:citekey>
-    <bcf:citekey order="19" intorder="3">207</bcf:citekey>
-    <bcf:citekey order="19" intorder="4">208</bcf:citekey>
-    <bcf:citekey order="20" intorder="1">Gundel in Tehobald/Kühling</bcf:citekey>
-    <bcf:citekey order="20" intorder="2">IV</bcf:citekey>
-    <bcf:citekey order="20" intorder="3">Energieumweltrecht</bcf:citekey>
-    <bcf:citekey order="20" intorder="4">Rn. 74ff.</bcf:citekey>
-    <bcf:citekey order="21" intorder="1">frau_rohstoffe_2025</bcf:citekey>
-    <bcf:citekey order="22" intorder="1">dauses_handbuch_2024</bcf:citekey>
-    <bcf:citekey order="23" intorder="1">von_der_groeben_europaisches_2024</bcf:citekey>
-    <bcf:citekey order="24" intorder="1">grabitz_recht_2024</bcf:citekey>
-    <bcf:citekey order="25" intorder="1">umbach_europaische_2005</bcf:citekey>
-    <bcf:citekey order="26" intorder="1">grabitz_recht_2024</bcf:citekey>
-    <bcf:citekey order="27" intorder="1">grabitz_recht_2024</bcf:citekey>
-    <bcf:citekey order="28" intorder="1">Bings in Streinz</bcf:citekey>
-    <bcf:citekey order="28" intorder="2">Art. 194 Rn. 32f.</bcf:citekey>
-    <bcf:citekey order="29" intorder="1">Bings in Streinz</bcf:citekey>
-    <bcf:citekey order="29" intorder="2">Art. 194 Rn. 33</bcf:citekey>
-    <bcf:citekey order="30" intorder="1">Bings in Streinz</bcf:citekey>
-    <bcf:citekey order="30" intorder="2">Art. 194 Rn. 33</bcf:citekey>
-    <bcf:citekey order="31" intorder="1">Nettesheim</bcf:citekey>
-    <bcf:citekey order="31" intorder="2">Grabitz/Hilf/nettesheim AEUV Art. 194</bcf:citekey>
-    <bcf:citekey order="31" intorder="3">Rn 35</bcf:citekey>
-    <bcf:citekey order="32" intorder="1">Nettesheim in Grabitz/Hilf</bcf:citekey>
-    <bcf:citekey order="32" intorder="2">AEUV Art. 194</bcf:citekey>
-    <bcf:citekey order="32" intorder="3">Rn. 17</bcf:citekey>
-    <bcf:citekey order="33" intorder="1">grabitz_recht_2024</bcf:citekey>
-    <bcf:citekey order="34" intorder="1">grabitz_recht_2024</bcf:citekey>
-    <bcf:citekey order="35" intorder="1">grabitz_recht_2024</bcf:citekey>
-    <bcf:citekey order="36" intorder="1">dauses_handbuch_2024</bcf:citekey>
-    <bcf:citekey order="37" intorder="1">dauses_handbuch_2024</bcf:citekey>
-    <bcf:citekey order="38" intorder="1">classen_europarecht_2021</bcf:citekey>
-    <bcf:citekey order="39" intorder="1">Nettesheim</bcf:citekey>
-    <bcf:citekey order="39" intorder="2">§ 18 Wirtschaftsverfassung und Wirtschaftspolitik</bcf:citekey>
-    <bcf:citekey order="39" intorder="3">in: Oppermann/Classen/Nettesheim</bcf:citekey>
-    <bcf:citekey order="39" intorder="4">Europarecht</bcf:citekey>
-    <bcf:citekey order="39" intorder="5">Rn. 13</bcf:citekey>
-    <bcf:citekey order="40" intorder="1">frau_rohstoffe_2025</bcf:citekey>
-    <bcf:citekey order="41" intorder="1">chamon_anwendung_2023</bcf:citekey>
-    <bcf:citekey order="42" intorder="1">callies_umweltrecht_2022</bcf:citekey>
-    <bcf:citekey order="43" intorder="1">Ehricke/Hackländer: ZEuS 2008</bcf:citekey>
-    <bcf:citekey order="43" intorder="2">S. 579</bcf:citekey>
-    <bcf:citekey order="43" intorder="3">595f.</bcf:citekey>
-    <bcf:citekey order="44" intorder="1">Schäffer</bcf:citekey>
-    <bcf:citekey order="44" intorder="2">EuZW 2023</bcf:citekey>
-    <bcf:citekey order="44" intorder="3">695</bcf:citekey>
-    <bcf:citekey order="44" intorder="4">700</bcf:citekey>
-    <bcf:citekey order="45" intorder="1">Callies</bcf:citekey>
-    <bcf:citekey order="45" intorder="2">Berliner Online Beiträge zum Europarecht</bcf:citekey>
-    <bcf:citekey order="45" intorder="3">Nr 52</bcf:citekey>
-    <bcf:citekey order="46" intorder="1">Gundel in Dause/Ludwigs</bcf:citekey>
-    <bcf:citekey order="46" intorder="2">M.</bcf:citekey>
-    <bcf:citekey order="46" intorder="3">Rn 45 iVm u. mwN v. Danwitz EWS 2003 393ff.</bcf:citekey>
-    <bcf:citekey order="47" intorder="1">Calliies</bcf:citekey>
-    <bcf:citekey order="47" intorder="2">Berliner Beiträge 52</bcf:citekey>
-    <bcf:citekey order="47" intorder="3">S. 18ff.</bcf:citekey>
-    <bcf:citekey order="47" intorder="4">mwN Hamer in von der Groeben/schwarze/Hatje 2015</bcf:citekey>
-    <bcf:citekey order="47" intorder="5">Art. 194</bcf:citekey>
-    <bcf:citekey order="47" intorder="6">Rn. 26</bcf:citekey>
-    <bcf:citekey order="48" intorder="1">Gundel EWS 2011</bcf:citekey>
-    <bcf:citekey order="48" intorder="2">25</bcf:citekey>
-    <bcf:citekey order="48" intorder="3">29; Kahl EuR 2009</bcf:citekey>
-    <bcf:citekey order="48" intorder="4">601</bcf:citekey>
-    <bcf:citekey order="48" intorder="5">608</bcf:citekey>
+    <bcf:citekey order="1" intorder="2">Berliner Beiträge Nr. 117</bcf:citekey>
+    <bcf:citekey order="1" intorder="3">S. 11.</bcf:citekey>
+    <bcf:citekey order="2" intorder="1">Müller-Ibold/Herrmann</bcf:citekey>
+    <bcf:citekey order="2" intorder="2">EuZW 2022</bcf:citekey>
+    <bcf:citekey order="2" intorder="3">1029</bcf:citekey>
+    <bcf:citekey order="2" intorder="4">1030</bcf:citekey>
+    <bcf:citekey order="3" intorder="1">Callies</bcf:citekey>
+    <bcf:citekey order="3" intorder="2">Berliner Beiträge 137</bcf:citekey>
+    <bcf:citekey order="3" intorder="3">S. 39f.</bcf:citekey>
+    <bcf:citekey order="4" intorder="1">CITATIONNEEDED</bcf:citekey>
+    <bcf:citekey order="5" intorder="1">callies_euvaeuv_2022</bcf:citekey>
+    <bcf:citekey order="6" intorder="1">Nettesheim</bcf:citekey>
+    <bcf:citekey order="6" intorder="2">Grabits/Hilf/Nettesheim</bcf:citekey>
+    <bcf:citekey order="6" intorder="3">AEUV Art 194 Rn. 35</bcf:citekey>
+    <bcf:citekey order="7" intorder="1">callies_stellungnahme_2007</bcf:citekey>
+    <bcf:citekey order="8" intorder="1">Callies</bcf:citekey>
+    <bcf:citekey order="8" intorder="2">Berliner Beiträge 137</bcf:citekey>
+    <bcf:citekey order="8" intorder="3">S. 40</bcf:citekey>
+    <bcf:citekey order="9" intorder="1">Callies</bcf:citekey>
+    <bcf:citekey order="9" intorder="2">Berliner Beiträge 137</bcf:citekey>
+    <bcf:citekey order="9" intorder="3">S. 40</bcf:citekey>
+    <bcf:citekey order="10" intorder="1">Callies/Ruffert</bcf:citekey>
+    <bcf:citekey order="10" intorder="2">Art. 206</bcf:citekey>
+    <bcf:citekey order="10" intorder="3">Rn 3.</bcf:citekey>
+    <bcf:citekey order="11" intorder="1">Müller-Ibold/Herrmann</bcf:citekey>
+    <bcf:citekey order="11" intorder="2">EuZW 2022</bcf:citekey>
+    <bcf:citekey order="11" intorder="3">1085</bcf:citekey>
+    <bcf:citekey order="12" intorder="1">Paschke</bcf:citekey>
+    <bcf:citekey order="12" intorder="2">RdTW 2024</bcf:citekey>
+    <bcf:citekey order="12" intorder="3">206; Schäffer/Hach</bcf:citekey>
+    <bcf:citekey order="12" intorder="4">ZRP 2023</bcf:citekey>
+    <bcf:citekey order="12" intorder="5">207f; Müller-Ibold</bcf:citekey>
+    <bcf:citekey order="12" intorder="6">EuZW 2022</bcf:citekey>
+    <bcf:citekey order="12" intorder="7">1029</bcf:citekey>
+    <bcf:citekey order="12" intorder="8">1034</bcf:citekey>
+    <bcf:citekey order="13" intorder="1">Schäffer/hach</bcf:citekey>
+    <bcf:citekey order="13" intorder="2">ZRP 2023</bcf:citekey>
+    <bcf:citekey order="13" intorder="3">207</bcf:citekey>
+    <bcf:citekey order="14" intorder="1">bibid</bcf:citekey>
+    <bcf:citekey order="15" intorder="1">Paschke</bcf:citekey>
+    <bcf:citekey order="15" intorder="2">RdTW 2024</bcf:citekey>
+    <bcf:citekey order="15" intorder="3">206</bcf:citekey>
+    <bcf:citekey order="15" intorder="4">216; Schäffer</bcf:citekey>
+    <bcf:citekey order="15" intorder="5">EuZW 2023</bcf:citekey>
+    <bcf:citekey order="15" intorder="6">695</bcf:citekey>
+    <bcf:citekey order="15" intorder="7">700</bcf:citekey>
+    <bcf:citekey order="16" intorder="1">Altemöller</bcf:citekey>
+    <bcf:citekey order="16" intorder="2">EuZW 2019</bcf:citekey>
+    <bcf:citekey order="16" intorder="3">321ff</bcf:citekey>
+    <bcf:citekey order="17" intorder="1">Callies/Ruffert</bcf:citekey>
+    <bcf:citekey order="17" intorder="2">Art. 206 AEUV</bcf:citekey>
+    <bcf:citekey order="17" intorder="3">Rn. 3; Art. 207 Rn. 3; EuGH</bcf:citekey>
+    <bcf:citekey order="17" intorder="4">Gutachten 1/75</bcf:citekey>
+    <bcf:citekey order="17" intorder="5">Slg. 1975</bcf:citekey>
+    <bcf:citekey order="17" intorder="6">1355</bcf:citekey>
+    <bcf:citekey order="17" intorder="7">S. 1363 f.</bcf:citekey>
+    <bcf:citekey order="18" intorder="1">Hoffmesiter</bcf:citekey>
+    <bcf:citekey order="18" intorder="2">Hrenzler/Herrmann/Niestedt</bcf:citekey>
+    <bcf:citekey order="18" intorder="3">EU Außenwirtschaftrecht</bcf:citekey>
+    <bcf:citekey order="18" intorder="4">VII 70 Rn14ff</bcf:citekey>
+    <bcf:citekey order="19" intorder="1">Paschke</bcf:citekey>
+    <bcf:citekey order="19" intorder="2">RdTW 2024</bcf:citekey>
+    <bcf:citekey order="19" intorder="3">216.</bcf:citekey>
+    <bcf:citekey order="20" intorder="1">Paschke</bcf:citekey>
+    <bcf:citekey order="20" intorder="2">RdTW 2024</bcf:citekey>
+    <bcf:citekey order="20" intorder="3">206.; Callies/Ruffert Art 206 AEUV 8f; Grabitz Art. 206 AEUV Rn. 12</bcf:citekey>
+    <bcf:citekey order="21" intorder="1">Altemöller</bcf:citekey>
+    <bcf:citekey order="21" intorder="2">EuzW 2019</bcf:citekey>
+    <bcf:citekey order="21" intorder="3">321</bcf:citekey>
+    <bcf:citekey order="22" intorder="1">Schäffer</bcf:citekey>
+    <bcf:citekey order="22" intorder="2">EuZW 2023</bcf:citekey>
+    <bcf:citekey order="22" intorder="3">695</bcf:citekey>
+    <bcf:citekey order="22" intorder="4">698</bcf:citekey>
+    <bcf:citekey order="23" intorder="1">Müller-Ibold/Herrmann</bcf:citekey>
+    <bcf:citekey order="23" intorder="2">EuZW 2022</bcf:citekey>
+    <bcf:citekey order="23" intorder="3">1029</bcf:citekey>
+    <bcf:citekey order="23" intorder="4">1030</bcf:citekey>
+    <bcf:citekey order="24" intorder="1">Callies/Ruffert</bcf:citekey>
+    <bcf:citekey order="24" intorder="2">Art. 207 AEUV Rn. 76</bcf:citekey>
+    <bcf:citekey order="25" intorder="1">Paschke</bcf:citekey>
+    <bcf:citekey order="25" intorder="2">RdTW 2024</bcf:citekey>
+    <bcf:citekey order="25" intorder="3">206</bcf:citekey>
+    <bcf:citekey order="25" intorder="4">216</bcf:citekey>
+    <bcf:citekey order="26" intorder="1">Paschke</bcf:citekey>
+    <bcf:citekey order="26" intorder="2">RdTW 2024</bcf:citekey>
+    <bcf:citekey order="26" intorder="3">206</bcf:citekey>
+    <bcf:citekey order="26" intorder="4">216; Müller-Ibold/Herrmann EuZW 2022</bcf:citekey>
+    <bcf:citekey order="26" intorder="5">1029</bcf:citekey>
+    <bcf:citekey order="27" intorder="1">Müller-Ibold/Herrmann</bcf:citekey>
+    <bcf:citekey order="27" intorder="2">EuZW 2022</bcf:citekey>
+    <bcf:citekey order="27" intorder="3">1085</bcf:citekey>
+    <bcf:citekey order="27" intorder="4">1090</bcf:citekey>
+    <bcf:citekey order="28" intorder="1">https://www.reuters.com/markets/commodities/china-is-oversupplying-lithium-eliminate-rivals-us-official-says-2024-10-08/</bcf:citekey>
+    <bcf:citekey order="29" intorder="1">Schäffer/Hach</bcf:citekey>
+    <bcf:citekey order="29" intorder="2">ZRP 2023</bcf:citekey>
+    <bcf:citekey order="29" intorder="3">207</bcf:citekey>
+    <bcf:citekey order="29" intorder="4">208</bcf:citekey>
+    <bcf:citekey order="30" intorder="1">CITATIONNEEDED</bcf:citekey>
+    <bcf:citekey order="31" intorder="1">Altemöller</bcf:citekey>
+    <bcf:citekey order="31" intorder="2">EuZW 2019</bcf:citekey>
+    <bcf:citekey order="31" intorder="3">321</bcf:citekey>
+    <bcf:citekey order="31" intorder="4">322</bcf:citekey>
+    <bcf:citekey order="32" intorder="1">Benedek</bcf:citekey>
+    <bcf:citekey order="32" intorder="2">Art. 179 EGV</bcf:citekey>
+    <bcf:citekey order="32" intorder="3">Rn. 6</bcf:citekey>
+    <bcf:citekey order="32" intorder="4">2009</bcf:citekey>
+    <bcf:citekey order="32" intorder="5">40. Aufl.</bcf:citekey>
+    <bcf:citekey order="33" intorder="1">Callies/Ruffert</bcf:citekey>
+    <bcf:citekey order="33" intorder="2">Art. 207</bcf:citekey>
+    <bcf:citekey order="33" intorder="3">Rn. 11</bcf:citekey>
+    <bcf:citekey order="34" intorder="1">Callies/Ruffert</bcf:citekey>
+    <bcf:citekey order="34" intorder="2">Art. 207</bcf:citekey>
+    <bcf:citekey order="34" intorder="3">Rn. 11</bcf:citekey>
+    <bcf:citekey order="35" intorder="1">Müller-Ibold</bcf:citekey>
+    <bcf:citekey order="35" intorder="2">in: Lenz/Borchardt (Hrsg.)</bcf:citekey>
+    <bcf:citekey order="35" intorder="3">EU-Verträge</bcf:citekey>
+    <bcf:citekey order="35" intorder="4">Vorb. zu Art. 206</bcf:citekey>
+    <bcf:citekey order="35" intorder="5">Rn. 4;</bcf:citekey>
+    <bcf:citekey order="36" intorder="1">Weiß</bcf:citekey>
+    <bcf:citekey order="36" intorder="2">in: Grabitz/Hilf/Nettesheim</bcf:citekey>
+    <bcf:citekey order="36" intorder="3">EU</bcf:citekey>
+    <bcf:citekey order="36" intorder="4">Art. 207</bcf:citekey>
+    <bcf:citekey order="36" intorder="5">Rn. 69.</bcf:citekey>
+    <bcf:citekey order="37" intorder="1">Grabitz Hilf Nettesheim</bcf:citekey>
+    <bcf:citekey order="37" intorder="2">Art. 191 Rn. 49</bcf:citekey>
+    <bcf:citekey order="38" intorder="1">Grabitz Hilf Nettesheim</bcf:citekey>
+    <bcf:citekey order="38" intorder="2">Art. 191 Rn. 58</bcf:citekey>
+    <bcf:citekey order="39" intorder="1">Callies/ruffert EUv AEUV</bcf:citekey>
+    <bcf:citekey order="39" intorder="2">Art. 191 AEUv Rn. 12</bcf:citekey>
+    <bcf:citekey order="40" intorder="1">Grabitz Hilf Nettesheim</bcf:citekey>
+    <bcf:citekey order="40" intorder="2">Art. 191 Rn. 62</bcf:citekey>
+    <bcf:citekey order="41" intorder="1">von der Groeben/Schwarze/Hatje</bcf:citekey>
+    <bcf:citekey order="41" intorder="2">AEUV Art. 191. Rn. 28</bcf:citekey>
+    <bcf:citekey order="42" intorder="1">Grabitz Hilf Nettesheim</bcf:citekey>
+    <bcf:citekey order="42" intorder="2">Art. 191 Rn. 75</bcf:citekey>
+    <bcf:citekey order="43" intorder="1">Grabitz Hilf Nettesheim</bcf:citekey>
+    <bcf:citekey order="43" intorder="2">Art. 191 Rn. 76</bcf:citekey>
+    <bcf:citekey order="44" intorder="1">Gundel in Tehobald/Kühling</bcf:citekey>
+    <bcf:citekey order="44" intorder="2">IV</bcf:citekey>
+    <bcf:citekey order="44" intorder="3">Energieumweltrecht</bcf:citekey>
+    <bcf:citekey order="44" intorder="4">Rn. 74ff.</bcf:citekey>
+    <bcf:citekey order="45" intorder="1">frau_rohstoffe_2025</bcf:citekey>
+    <bcf:citekey order="46" intorder="1">dauses_handbuch_2024</bcf:citekey>
+    <bcf:citekey order="47" intorder="1">von_der_groeben_europaisches_2024</bcf:citekey>
+    <bcf:citekey order="48" intorder="1">Gundel</bcf:citekey>
+    <bcf:citekey order="48" intorder="2">Theobald/Kühling</bcf:citekey>
+    <bcf:citekey order="48" intorder="3">Europäisches Energierecht</bcf:citekey>
+    <bcf:citekey order="48" intorder="4">V. Rn. 87</bcf:citekey>
     <bcf:citekey order="49" intorder="1">grabitz_recht_2024</bcf:citekey>
-    <bcf:citekey order="50" intorder="1">Schäffer/Hach</bcf:citekey>
-    <bcf:citekey order="50" intorder="2">ZRP 2023</bcf:citekey>
-    <bcf:citekey order="50" intorder="3">207</bcf:citekey>
-    <bcf:citekey order="50" intorder="4">208</bcf:citekey>
-    <bcf:citekey order="51" intorder="1">Paschke</bcf:citekey>
-    <bcf:citekey order="51" intorder="2">Rdtw 2024</bcf:citekey>
-    <bcf:citekey order="51" intorder="3">206</bcf:citekey>
-    <bcf:citekey order="51" intorder="4">211f</bcf:citekey>
-    <bcf:citekey order="52" intorder="1">ruettinger_doddfrank_2015</bcf:citekey>
-    <bcf:citekey order="53" intorder="1">Schäffer/Hach</bcf:citekey>
-    <bcf:citekey order="53" intorder="2">ZRP 2023</bcf:citekey>
-    <bcf:citekey order="53" intorder="3">210f.</bcf:citekey>
-    <bcf:citekey order="54" intorder="1">Kalls</bcf:citekey>
-    <bcf:citekey order="54" intorder="2">ZfPW 2024</bcf:citekey>
-    <bcf:citekey order="54" intorder="3">181</bcf:citekey>
-    <bcf:citekey order="54" intorder="4">199</bcf:citekey>
-    <bcf:citekey order="55" intorder="1">OECDleitfaden2019</bcf:citekey>
-    <bcf:citekey order="56" intorder="1">ruttloff_lieferkettensorgfaltspflichtengesetz_2022</bcf:citekey>
-    <bcf:citekey order="57" intorder="1">deutsche\_kontrollstelle\_eu-sorgfaltspflichten\_in\_rohstofflieferketten\_jahresbericht\_2023</bcf:citekey>
-    <bcf:citekey order="58" intorder="1">deutsche\_kontrollstelle\_eu-sorgfaltspflichten\_in\_rohstofflieferketten\_jahresbericht\_2023</bcf:citekey>
-    <bcf:citekey order="59" intorder="1">deutsche\_kontrollstelle\_eu-sorgfaltspflichten\_in\_rohstofflieferketten\_jahresbericht\_2023</bcf:citekey>
-    <bcf:citekey order="60" intorder="1">teicke_gesetzliche_2018</bcf:citekey>
-    <bcf:citekey order="61" intorder="1">grado_eu_2018</bcf:citekey>
-    <bcf:citekey order="62" intorder="1">teicke_gesetzliche_2018</bcf:citekey>
-    <bcf:citekey order="63" intorder="1">deutsche\_kontrollstelle\_eu-sorgfaltspflichten\_in\_rohstofflieferketten\_jahresbericht\_2023</bcf:citekey>
-    <bcf:citekey order="64" intorder="1">deutsche\_kontrollstelle\_eu-sorgfaltspflichten\_in\_rohstofflieferketten\_jahresbericht\_2023</bcf:citekey>
-    <bcf:citekey order="65" intorder="1">teicke_gesetzliche_2018</bcf:citekey>
-    <bcf:citekey order="66" intorder="1">ruttloff_lieferkettensorgfaltspflichtengesetz_2022</bcf:citekey>
-    <bcf:citekey order="67" intorder="1">ruttloff_lieferkettensorgfaltspflichtengesetz_2022</bcf:citekey>
-    <bcf:citekey order="68" intorder="1">Ludiwgs</bcf:citekey>
-    <bcf:citekey order="68" intorder="2">NVwZ 2018</bcf:citekey>
-    <bcf:citekey order="68" intorder="3">1417</bcf:citekey>
+    <bcf:citekey order="50" intorder="1">umbach_europaische_2005</bcf:citekey>
+    <bcf:citekey order="51" intorder="1">grabitz_recht_2024</bcf:citekey>
+    <bcf:citekey order="52" intorder="1">grabitz_recht_2024</bcf:citekey>
+    <bcf:citekey order="53" intorder="1">Bings in Streinz</bcf:citekey>
+    <bcf:citekey order="53" intorder="2">Art. 194 Rn. 32f.</bcf:citekey>
+    <bcf:citekey order="54" intorder="1">Bings in Streinz</bcf:citekey>
+    <bcf:citekey order="54" intorder="2">Art. 194 Rn. 33</bcf:citekey>
+    <bcf:citekey order="55" intorder="1">Bings in Streinz</bcf:citekey>
+    <bcf:citekey order="55" intorder="2">Art. 194 Rn. 33</bcf:citekey>
+    <bcf:citekey order="56" intorder="1">Nettesheim</bcf:citekey>
+    <bcf:citekey order="56" intorder="2">Grabitz/Hilf/nettesheim AEUV Art. 194</bcf:citekey>
+    <bcf:citekey order="56" intorder="3">Rn 35</bcf:citekey>
+    <bcf:citekey order="57" intorder="1">Nettesheim in Grabitz/Hilf</bcf:citekey>
+    <bcf:citekey order="57" intorder="2">AEUV Art. 194</bcf:citekey>
+    <bcf:citekey order="57" intorder="3">Rn. 17</bcf:citekey>
+    <bcf:citekey order="58" intorder="1">grabitz_recht_2024</bcf:citekey>
+    <bcf:citekey order="59" intorder="1">grabitz_recht_2024</bcf:citekey>
+    <bcf:citekey order="60" intorder="1">Study on the “Potential of a full EV-power-systemintegration in Europe &amp; how to realise it”</bcf:citekey>
+    <bcf:citekey order="60" intorder="2">Fraunhoer ISE &amp; Fraunhofer ISI on behalf of Transport &amp; Environment</bcf:citekey>
+    <bcf:citekey order="61" intorder="1">grabitz_recht_2024</bcf:citekey>
+    <bcf:citekey order="62" intorder="1">Gundel</bcf:citekey>
+    <bcf:citekey order="62" intorder="2">Theobald/Kühling</bcf:citekey>
+    <bcf:citekey order="62" intorder="3">Europäisches Energierecht</bcf:citekey>
+    <bcf:citekey order="62" intorder="4">V. Rn. 86</bcf:citekey>
+    <bcf:citekey order="63" intorder="1">dauses_handbuch_2024</bcf:citekey>
+    <bcf:citekey order="64" intorder="1">dauses_handbuch_2024</bcf:citekey>
+    <bcf:citekey order="65" intorder="1">Callies</bcf:citekey>
+    <bcf:citekey order="65" intorder="2">Berliner Beiträge 117</bcf:citekey>
+    <bcf:citekey order="65" intorder="3">S. 16</bcf:citekey>
+    <bcf:citekey order="66" intorder="1">classen_europarecht_2021</bcf:citekey>
+    <bcf:citekey order="67" intorder="1">Nettesheim</bcf:citekey>
+    <bcf:citekey order="67" intorder="2">§ 18 Wirtschaftsverfassung und Wirtschaftspolitik</bcf:citekey>
+    <bcf:citekey order="67" intorder="3">in: Oppermann/Classen/Nettesheim</bcf:citekey>
+    <bcf:citekey order="67" intorder="4">Europarecht</bcf:citekey>
+    <bcf:citekey order="67" intorder="5">Rn. 13</bcf:citekey>
+    <bcf:citekey order="68" intorder="1">frau_rohstoffe_2025</bcf:citekey>
+    <bcf:citekey order="69" intorder="1">chamon_anwendung_2023</bcf:citekey>
+    <bcf:citekey order="70" intorder="1">callies_umweltrecht_2022</bcf:citekey>
+    <bcf:citekey order="71" intorder="1">Ehricke/Hackländer: ZEuS 2008</bcf:citekey>
+    <bcf:citekey order="71" intorder="2">S. 579</bcf:citekey>
+    <bcf:citekey order="71" intorder="3">595f.</bcf:citekey>
+    <bcf:citekey order="72" intorder="1">Callies/Ruffert</bcf:citekey>
+    <bcf:citekey order="72" intorder="2">Art. 352 AEUV.</bcf:citekey>
+    <bcf:citekey order="72" intorder="3">Rn. 67</bcf:citekey>
+    <bcf:citekey order="73" intorder="1">EU 6 - 3000 - 025/24</bcf:citekey>
+    <bcf:citekey order="73" intorder="2">S. 8</bcf:citekey>
+    <bcf:citekey order="74" intorder="1">Bungenberg</bcf:citekey>
+    <bcf:citekey order="74" intorder="2">in: Pechstein/Nowak/Häde</bcf:citekey>
+    <bcf:citekey order="74" intorder="3">Frankfurter Kommentar EUV/GRC/AEUV</bcf:citekey>
+    <bcf:citekey order="74" intorder="4">2. Auflage 2023</bcf:citekey>
+    <bcf:citekey order="74" intorder="5">AEUV</bcf:citekey>
+    <bcf:citekey order="74" intorder="6">Art. 207</bcf:citekey>
+    <bcf:citekey order="74" intorder="7">Rn. 223.</bcf:citekey>
+    <bcf:citekey order="75" intorder="1">Kühn</bcf:citekey>
+    <bcf:citekey order="75" intorder="2">EuZW 2023</bcf:citekey>
+    <bcf:citekey order="75" intorder="3">925</bcf:citekey>
+    <bcf:citekey order="76" intorder="1">Streinz</bcf:citekey>
+    <bcf:citekey order="76" intorder="2">EUV/AEUV</bcf:citekey>
+    <bcf:citekey order="76" intorder="3">Art. 267</bcf:citekey>
+    <bcf:citekey order="76" intorder="4">Rn. 6</bcf:citekey>
+    <bcf:citekey order="77" intorder="1">vd Groeben Schwarze Hatje</bcf:citekey>
+    <bcf:citekey order="77" intorder="2">Vorbemerkung zu Art. 191 bis 193 AEUV</bcf:citekey>
+    <bcf:citekey order="77" intorder="3">Rn. 115</bcf:citekey>
+    <bcf:citekey order="78" intorder="1">von Sydow</bcf:citekey>
+    <bcf:citekey order="78" intorder="2">Verwaltungskooperation S. 80 ff.</bcf:citekey>
+    <bcf:citekey order="79" intorder="1">Dauses/Ludwigs</bcf:citekey>
+    <bcf:citekey order="79" intorder="2">O. Umweltpolitik</bcf:citekey>
+    <bcf:citekey order="79" intorder="3">Rn. 226</bcf:citekey>
+    <bcf:citekey order="80" intorder="1">Schäffer</bcf:citekey>
+    <bcf:citekey order="80" intorder="2">EuZW 2023</bcf:citekey>
+    <bcf:citekey order="80" intorder="3">695</bcf:citekey>
+    <bcf:citekey order="80" intorder="4">700</bcf:citekey>
+    <bcf:citekey order="81" intorder="1">Callies</bcf:citekey>
+    <bcf:citekey order="81" intorder="2">Berliner Online Beiträge zum Europarecht</bcf:citekey>
+    <bcf:citekey order="81" intorder="3">Nr 52</bcf:citekey>
+    <bcf:citekey order="82" intorder="1">Gundel in Dause/Ludwigs</bcf:citekey>
+    <bcf:citekey order="82" intorder="2">M.</bcf:citekey>
+    <bcf:citekey order="82" intorder="3">Rn 45 iVm u. mwN v. Danwitz EWS 2003 393ff.</bcf:citekey>
+    <bcf:citekey order="83" intorder="1">Calliies</bcf:citekey>
+    <bcf:citekey order="83" intorder="2">Berliner Beiträge 52</bcf:citekey>
+    <bcf:citekey order="83" intorder="3">S. 18ff.</bcf:citekey>
+    <bcf:citekey order="83" intorder="4">mwN Hamer in von der Groeben/schwarze/Hatje 2015</bcf:citekey>
+    <bcf:citekey order="83" intorder="5">Art. 194</bcf:citekey>
+    <bcf:citekey order="83" intorder="6">Rn. 26</bcf:citekey>
+    <bcf:citekey order="84" intorder="1">Gundel EWS 2011</bcf:citekey>
+    <bcf:citekey order="84" intorder="2">25</bcf:citekey>
+    <bcf:citekey order="84" intorder="3">29; Kahl EuR 2009</bcf:citekey>
+    <bcf:citekey order="84" intorder="4">601</bcf:citekey>
+    <bcf:citekey order="84" intorder="5">608</bcf:citekey>
+    <bcf:citekey order="85" intorder="1">grabitz_recht_2024</bcf:citekey>
+    <bcf:citekey order="86" intorder="1">Dauses/Ludwigs</bcf:citekey>
+    <bcf:citekey order="86" intorder="2">O. Umweltrecht</bcf:citekey>
+    <bcf:citekey order="86" intorder="3">Rn. 196</bcf:citekey>
+    <bcf:citekey order="87" intorder="1">Schäffer/Hach</bcf:citekey>
+    <bcf:citekey order="87" intorder="2">ZRP 2023</bcf:citekey>
+    <bcf:citekey order="87" intorder="3">207</bcf:citekey>
+    <bcf:citekey order="87" intorder="4">208</bcf:citekey>
+    <bcf:citekey order="88" intorder="1">Müller-Ibold/Herrmann</bcf:citekey>
+    <bcf:citekey order="88" intorder="2">EuZW 2022</bcf:citekey>
+    <bcf:citekey order="88" intorder="3">1085</bcf:citekey>
+    <bcf:citekey order="88" intorder="4">1091</bcf:citekey>
+    <bcf:citekey order="89" intorder="1">Paschke</bcf:citekey>
+    <bcf:citekey order="89" intorder="2">Rdtw 2024</bcf:citekey>
+    <bcf:citekey order="89" intorder="3">206</bcf:citekey>
+    <bcf:citekey order="89" intorder="4">211f</bcf:citekey>
+    <bcf:citekey order="90" intorder="1">ruettinger_doddfrank_2015</bcf:citekey>
+    <bcf:citekey order="91" intorder="1">Frau 2024</bcf:citekey>
+    <bcf:citekey order="91" intorder="2">NVwZ 2024</bcf:citekey>
+    <bcf:citekey order="91" intorder="3">1874</bcf:citekey>
+    <bcf:citekey order="91" intorder="4">1875</bcf:citekey>
+    <bcf:citekey order="92" intorder="1">Frau</bcf:citekey>
+    <bcf:citekey order="92" intorder="2">NVwZ 2024</bcf:citekey>
+    <bcf:citekey order="92" intorder="3">1874</bcf:citekey>
+    <bcf:citekey order="93" intorder="1">Schäffer/Hach</bcf:citekey>
+    <bcf:citekey order="93" intorder="2">ZRP 2023</bcf:citekey>
+    <bcf:citekey order="93" intorder="3">210f.</bcf:citekey>
+    <bcf:citekey order="94" intorder="1">Frau 2024</bcf:citekey>
+    <bcf:citekey order="94" intorder="2">NVwZ</bcf:citekey>
+    <bcf:citekey order="94" intorder="3">1874</bcf:citekey>
+    <bcf:citekey order="94" intorder="4">1876</bcf:citekey>
+    <bcf:citekey order="95" intorder="1">Kalls</bcf:citekey>
+    <bcf:citekey order="95" intorder="2">ZfPW 2024</bcf:citekey>
+    <bcf:citekey order="95" intorder="3">181</bcf:citekey>
+    <bcf:citekey order="95" intorder="4">199</bcf:citekey>
+    <bcf:citekey order="96" intorder="1">OECDleitfaden2019</bcf:citekey>
+    <bcf:citekey order="97" intorder="1">ruttloff_lieferkettensorgfaltspflichtengesetz_2022</bcf:citekey>
+    <bcf:citekey order="98" intorder="1">deutsche\_kontrollstelle\_eu-sorgfaltspflichten\_in\_rohstofflieferketten\_jahresbericht\_2023</bcf:citekey>
+    <bcf:citekey order="99" intorder="1">deutsche\_kontrollstelle\_eu-sorgfaltspflichten\_in\_rohstofflieferketten\_jahresbericht\_2023</bcf:citekey>
+    <bcf:citekey order="100" intorder="1">deutsche\_kontrollstelle\_eu-sorgfaltspflichten\_in\_rohstofflieferketten\_jahresbericht\_2023</bcf:citekey>
+    <bcf:citekey order="101" intorder="1">teicke_gesetzliche_2018</bcf:citekey>
+    <bcf:citekey order="102" intorder="1">grado_eu_2018</bcf:citekey>
+    <bcf:citekey order="103" intorder="1">teicke_gesetzliche_2018</bcf:citekey>
+    <bcf:citekey order="104" intorder="1">deutsche\_kontrollstelle\_eu-sorgfaltspflichten\_in\_rohstofflieferketten\_jahresbericht\_2023</bcf:citekey>
+    <bcf:citekey order="105" intorder="1">deutsche\_kontrollstelle\_eu-sorgfaltspflichten\_in\_rohstofflieferketten\_jahresbericht\_2023</bcf:citekey>
+    <bcf:citekey order="106" intorder="1">teicke_gesetzliche_2018</bcf:citekey>
+    <bcf:citekey order="107" intorder="1">ruttloff_lieferkettensorgfaltspflichtengesetz_2022</bcf:citekey>
+    <bcf:citekey order="108" intorder="1">ruttloff_lieferkettensorgfaltspflichtengesetz_2022</bcf:citekey>
+    <bcf:citekey order="109" intorder="1">Ludiwgs</bcf:citekey>
+    <bcf:citekey order="109" intorder="2">NVwZ 2018</bcf:citekey>
+    <bcf:citekey order="109" intorder="3">1417</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="nty">
